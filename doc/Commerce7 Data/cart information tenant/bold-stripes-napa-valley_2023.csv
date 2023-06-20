@@ -1,0 +1,33 @@
+status,customer_id,customer_name,Created Date,Product Sku
+Pending,732ed979-c773-4606-83bc-3b7b2bb9a035,Mary Small,2023-01-30 22:11:00,"['PC-BSHD22SW', 'PC-BSHD22SW']"
+Pending,1a539d20-2f25-4e2e-95ce-2c5b7bd51c3a,Alejandra Diaz,2023-04-06 17:27:00,[]
+Pending,aa2e7e03-77e9-4511-b920-9c57b9650405,William Matty,2023-02-19 10:04:00,[]
+Pending,d7b427e4-5ce2-496b-bfa5-275a79f22032,Corey Cunningham,2023-01-19 20:36:00,"['NW-BSWKF', 'NW-BS6WB', 'PC-BSFL22MB', '50Deposit']"
+Pending,5fa65026-6885-486a-bc62-bdef1b32756f,Shyeuna Vance,2023-02-16 18:04:00,['50Deposit']
+Pending,cebb9780-5fea-4a04-b49c-d34c7d9808af,Jennifer Oldenburg,2023-01-26 22:08:00,[]
+Pending,732ed979-c773-4606-83bc-3b7b2bb9a035,Mary Small,2023-01-30 22:11:00,"['PC-BSHD22SW', 'PC-BSHD22SW']"
+Pending,e8a829bc-4952-4b96-9089-18821493b663,Johanna Kappner,2023-03-07 14:06:00,"['NW-BS3WB', 'PC-BSFL223MP', '50Deposit']"
+Pending,aa2e7e03-77e9-4511-b920-9c57b9650405,William Matty,2023-02-19 10:04:00,[]
+Pending,aa2e7e03-77e9-4511-b920-9c57b9650405,William Matty,2023-02-19 10:04:00,[]
+Pending,40d71410-8264-44dd-a5a9-fe657895cafa,Aaron Hintz,2023-01-20 16:40:00,"['NW-BS6WB', 'PC-BSFL22MB', 'NW-BSWKF', 'NW-BSWKF', 'PC-BSFL22MB', 'NW-BS6WB', '50Deposit']"
+Pending,aa2e7e03-77e9-4511-b920-9c57b9650405,William Matty,2023-02-19 10:04:00,[]
+Pending,9f2befad-f676-483d-b581-22b8166696cb,Jamie Brown,2023-02-20 00:12:00,"['PC-BSFL223MP', 'NW-BS3WB', '50Deposit']"
+Pending,5fa65026-6885-486a-bc62-bdef1b32756f,Shyeuna Vance,2023-02-16 18:04:00,['50Deposit']
+Pending,d9a93939-eb6f-4b68-9c32-7234cc1cb178,Carolyn Harmann,2023-01-19 21:29:00,[]
+Pending,329b55a1-4a13-43cb-9580-dbca9d74d62f,Nick Spreckelmeier,2023-04-09 01:40:00,"['NW-BS6WB', 'NW-BSWKF', 'PC-BSFL22MB', '50Deposit']"
+Pending,c0f731be-6ccc-4ded-9e0a-0b8b0205a75d,Scott Mattlin,2023-01-04 13:39:00,['PC-BSHD22PD']
+Pending,c3c959f2-df17-4064-a367-7df8329b779a,Matt Schultz,2023-02-11 01:08:00,[]
+Pending,9b468e40-b185-45a6-a90a-a25ab75d3563,Reena Enaker,2023-01-06 01:51:00,['50Deposit']
+Pending,732ed979-c773-4606-83bc-3b7b2bb9a035,Mary Small,2023-01-30 22:11:00,"['PC-BSHD22SW', 'PC-BSHD22SW']"
+Pending,3ff30963-9892-4b5b-b3cd-5fd9155dd670,Chris Weber,2023-02-09 21:27:00,['50Deposit']
+Pending,ee1648eb-647c-4a40-95e9-f3dff4aeaba6,Carrie Cronan,2023-01-22 20:06:00,['50Deposit']
+Pending,8f034491-373d-44be-9bb9-e2d8195ac6a8,Misty Quick,2023-03-30 08:42:00,"['NW-BSWKF', 'PC-BSFL22MB', 'NW-BS6WB', '50Deposit']"
+Pending,9156de19-5410-4cb4-a6c5-1ad93cfd8dc1,Lynetta Sheldon,2023-02-16 01:52:00,[]
+Pending,f0ac1ac6-84c8-4ffd-b510-dfab15b6a0db,Mike & Susie Leonard,2023-02-08 23:53:00,['PC-BSVD23P']
+Pending,61979455-739b-48d0-b618-26ddc79f6f75,Heather Archer,2023-01-05 21:19:00,[]
+Pending,49d7aace-d8ee-40e3-a226-b02caac3a802,Anthony Ramirez,2023-01-05 23:00:00,[]
+Pending,fd9c3b4b-f00b-4e8b-8034-6b85a42ec40e,Jessica Lanham England,2023-03-16 16:12:00,"['PC-BSFL22MB', 'NW-BSWKF', 'NW-BS6WB', '50Deposit']"
+Pending,aa2e7e03-77e9-4511-b920-9c57b9650405,William Matty,2023-02-19 10:04:00,[]
+Pending,8f034491-373d-44be-9bb9-e2d8195ac6a8,Misty Quick,2023-03-30 08:42:00,"['NW-BSWKF', 'PC-BSFL22MB', 'NW-BS6WB', '50Deposit']"
+Pending,2daf95a5-1768-4a3b-bc5f-8a6c081caa42,Kim Kadakia,2023-01-31 22:03:00,"['NW-BSWKF', 'PC-BSFL22MB', 'NW-BS6WB', '50Deposit']"
+Pending,59aa1971-daaf-4867-9a94-90fd46162110,Tonya Sanders,2023-02-26 20:54:00,['50Deposit']

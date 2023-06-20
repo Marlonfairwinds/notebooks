@@ -1,0 +1,42 @@
+tenant,status,customer_id,customer_name,Product Sku
+great-day-napa-valley,Pending,8a4e5c10-a7a7-429b-b4fa-cd655b32d95a,Andrew Kurtz,['50Deposit']
+great-day-napa-valley,Pending,9f81b2c3-0c18-4cf3-adf3-1a9284b74046,Ken Mazik,"['PC-GDFL223MP', 'NW-GD3WB', '50Deposit']"
+great-day-napa-valley,Pending,17411523-a4d7-4f27-a8c4-77e5dddb6b14,Chad Cavanaugh,['50Deposit']
+great-day-napa-valley,Pending,4668e25f-25b9-468a-bd68-2f4b22ec3e31,Jacqueline Gunn,"['PC-GDHD22SR', 'NW-GD3WB', 'NW-GD3WB', 'CG-FEWCF19NV', 'CG-FEWRW18NV', 'PC-GDFL223MP', 'CG-FEWPV19NV', '50Deposit']"
+great-day-napa-valley,Pending,d5f34801-a833-4c53-ab17-90687e8fc834,Lindsay Litterini,['50Deposit']
+great-day-napa-valley,Pending,d5f34801-a833-4c53-ab17-90687e8fc834,Lindsay Litterini,['50Deposit']
+great-day-napa-valley,Pending,3883ff94-57a1-477e-a30e-0d453cedce23,Kimberly Wolfgang,"['PC-GDHD22SR', 'PC-GDWHITEGB', 'CG-GDCH18RR', 'NW-GDWKF', 'PC-GDFL22MB', 'NW-PV6WB', '50Deposit']"
+great-day-napa-valley,Pending,d5f34801-a833-4c53-ab17-90687e8fc834,Lindsay Litterini,['50Deposit']
+great-day-napa-valley,Pending,bcf9b295-87d9-4837-959b-88950a9f5a5e,Dave Stough,"['NW-GD3DHC', 'PC-GDHD22SR', 'PC-GDHD22SW', 'NW-PV6WB', 'NW-GDWKF', 'PC-GDFL22WB', '50Deposit']"
+great-day-napa-valley,Pending,d5f34801-a833-4c53-ab17-90687e8fc834,Lindsay Litterini,['50Deposit']
+great-day-napa-valley,Pending,d5f34801-a833-4c53-ab17-90687e8fc834,Lindsay Litterini,['50Deposit']
+great-day-napa-valley,Pending,d5f34801-a833-4c53-ab17-90687e8fc834,Lindsay Litterini,['50Deposit']
+great-day-napa-valley,Pending,e399f6fd-2fd6-447f-a3ce-41e8eee118a3,Pj Mastylak,"['NW-GD3WB', 'CG-GDRW18NV', 'NW-GD3WB', 'CG-GDRW18NV', '50Deposit']"
+great-day-napa-valley,Pending,196cf8db-55be-4398-b46d-2b257ceaffb7,Alejandra Diaz,empty
+great-day-napa-valley,Pending,861bf45a-2b3c-4039-8caa-85dbac3b8769,Julie Hermanson,"['NW-GD4TF', 'PC-GDHD22SR', 'NW-GD1WB']"
+great-day-napa-valley,Pending,ba40d651-876b-45d4-9e81-92c5b3375c55,Adrianne Watkiss,['50Deposit']
+great-day-napa-valley,Pending,fcb0cb41-f1fd-481a-99fd-20de56162683,W. Ross Clites,"['NW-GD3WB', 'PC-GDFL223MP', 'PC-GDHD22PD', '50Deposit']"
+great-day-napa-valley,Pending,368ba478-d35d-4c67-921c-ed0b1b650354,Christopher Reed,empty
+great-day-napa-valley,Pending,d59c6073-7853-488f-9bcb-cedc8cd5038d,Larry Lutz,"['NW-GDWKF', 'NW-GD6WB', 'PC-GDFL22RB', '50Deposit']"
+great-day-napa-valley,Pending,7326a602-3c95-422d-ba6b-cd838b2c232a,Janis Zappa,"['NW-GD3WB', 'PC-GDFL223MP', '50Deposit']"
+great-day-napa-valley,Pending,0b410896-672b-46cb-ace8-2beb8d2bd629,Thomas Moyer,"['PC-GDFL22MB', 'NW-GDWKF', 'NW-GD6WB', '50Deposit']"
+great-day-napa-valley,Pending,97797d71-d550-454a-8847-b662644efab4,Scott Knight,"['NW-GDWKF', 'PC-GDFL22MB', 'NW-PV6WB', '50Deposit']"
+great-day-napa-valley,Pending,97e1c38e-437d-4a85-ba3a-ef59e5169910,Lucas Alper,empty
+great-day-napa-valley,Pending,3ef989df-4681-4013-a67f-385d2d3400dd,Beverly Skivolocki,"['CG-GDSP18NV', 'NW-GD6WB', 'CG-GDCH18RR', 'PC-GDFL22MB', 'NW-GDWKF', 'NW-GD6WB', '50Deposit']"
+great-day-napa-valley,Pending,d5f34801-a833-4c53-ab17-90687e8fc834,Lindsay Litterini,['50Deposit']
+great-day-napa-valley,Pending,a4dce877-e284-4e8e-9b37-88090299d132,Shaun Loscar,"['PC-GDFL22MB', 'NW-GD6WB', 'NW-GDWK', '50Deposit']"
+great-day-napa-valley,Pending,94a5fb54-f083-4137-898e-521d01926c04,Kevin Allan,"['PC-GDHD22PD', '50Deposit']"
+great-day-napa-valley,Pending,c3a27a1d-b687-47ee-97c3-de0c3c28ce29,Arianne Lawver,"['NW-GDWKF', 'PC-GDFL22MB', 'NW-PV6WB', '50Deposit']"
+great-day-napa-valley,Pending,07dff51d-7cef-4692-949c-6233f0d8ddb9,Karen Badger,empty
+great-day-napa-valley,Pending,bcf9b295-87d9-4837-959b-88950a9f5a5e,Dave Stough,"['NW-GD3DHC', 'PC-GDHD22SR', 'PC-GDHD22SW', 'NW-PV6WB', 'NW-GDWKF', 'PC-GDFL22WB', '50Deposit']"
+great-day-napa-valley,Pending,81515e7d-e59f-4841-ba01-7554ddc9ea40,Nicholas Feldmeier,"['NW-PV6WB', 'CG-FEWPV19NV', 'CG-GDRW18NV', 'NW-GDWKF', 'CG-GDSP18NV', 'CG-FEWRW18NV', '50Deposit']"
+great-day-napa-valley,Pending,3848fee8-cf45-439c-b07f-5ce8cc9f1b7b,Dennis McClimans,"['NW-GDWKF', 'NW-PV6WB', 'PC-GDFL22MB', '50Deposit']"
+great-day-napa-valley,Pending,cbba8b0a-e340-4268-958c-20d34ee3a5f7,Kevin Kappeler,['50Deposit']
+great-day-napa-valley,Pending,d11d7bf9-032d-4c80-9ed7-0eef4c0b3dd7,Jimmy Majchrzak,['50Deposit']
+great-day-napa-valley,Pending,50b67ab4-7ef3-4afe-9362-240be0f697b4,Alyssa Gadsby,empty
+great-day-napa-valley,Pending,729e9169-1106-4a5c-b2bc-79a732ea7be3,Kyle Ulrikson,"['PC-GDFL22WB', 'CG-FEWRO18NV', 'NW-GDWKF', 'NW-PV6WB', '50Deposit']"
+great-day-napa-valley,Pending,17411523-a4d7-4f27-a8c4-77e5dddb6b14,Chad Cavanaugh,['50Deposit']
+great-day-napa-valley,Pending,0b410896-672b-46cb-ace8-2beb8d2bd629,Thomas Moyer,"['PC-GDFL22MB', 'NW-GDWKF', 'NW-GD6WB', '50Deposit']"
+great-day-napa-valley,Pending,d5f34801-a833-4c53-ab17-90687e8fc834,Lindsay Litterini,['50Deposit']
+great-day-napa-valley,Pending,d5f34801-a833-4c53-ab17-90687e8fc834,Lindsay Litterini,['50Deposit']
+great-day-napa-valley,Pending,861bf45a-2b3c-4039-8caa-85dbac3b8769,Julie Hermanson,"['NW-GD4TF', 'PC-GDHD22SR', 'NW-GD1WB']"

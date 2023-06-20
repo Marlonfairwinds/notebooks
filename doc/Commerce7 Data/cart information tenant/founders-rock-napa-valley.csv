@@ -1,0 +1,7 @@
+tenant,status,customer_id,customer_name,Product Sku
+founders-rock-napa-valley,Pending,0d604b2f-933b-43f3-ad84-51e58b6b7733,David Wu,empty
+founders-rock-napa-valley,Pending,01460789-b1b6-4a69-ac9e-2194c7116238,Cristina Bruno,"['PC-FRHD22SR', 'PC-FRFL22MB', 'NW-FR6WB', 'NW-FRWKF', '50Deposit']"
+founders-rock-napa-valley,Pending,ba68bc84-0f9a-41fd-af12-cf5cdf1c661f,Simon Solis-Cohen,empty
+founders-rock-napa-valley,Pending,6b4ddd47-1b71-4b7b-b707-9517ab106683,Jeremy Slivinski,"['CG-FRCH18RR', 'CG-FRRW18NV', 'NW-FR6WB', 'CG-FRSP18NV', 'PC-FRFL22MB', 'NW-FR6WB', 'NW-FRWKF', '50Deposit']"
+founders-rock-napa-valley,Pending,87c588b1-6e85-46c4-b00f-9023c4d38654,Geoffrey Burger,"['PC-FRFL223MP', 'CG-FEWSB19NV', '50Deposit']"
+founders-rock-napa-valley,Pending,fd7ae2a7-51c7-4169-88b3-8a978a6cc353,Steven Floyd,empty

@@ -1,0 +1,52 @@
+tenant,status,customer_id,customer_name,Product Sku
+prowling-vineyards-napa-valley,Pending,417d6c4e-975a-46e2-b9fe-49abd8907d67,Brian Koonce,"['NW-PVSK', 'NW-PVBB', 'CG-PVRW18NV', 'CG-FEWSB19NV', 'CG-PVWW20NV', 'NW-PV6WB', 'NW-PVSB', 'NW-PVWC', 'CG-PVRS21NV', 'NW-PV6WB', 'PC-PVFL22MB', 'NW-PVWKF', 'FEW2019SAUVBLANC', 'BC3NAUTICAL', 'PROWWINEKEYF', 'CG-PVCS19NV', 'PROW2021WBOX', 'PROWWINEKEYF', 'PROW21FALLMIX', 'PROW2021WBOX', '50Deposit']"
+prowling-vineyards-napa-valley,Pending,4eeb9daf-37c8-4f2d-b036-257ba73755c3,Jessica Beckenstein,"['SHIP', 'NW-PV1WB', 'PC-PVHD22SR', 'PROW2018RED']"
+prowling-vineyards-napa-valley,Pending,0db40d3a-f650-4c4a-a98a-dbe99068e0a2,Heidi Kiser,"['CG-PVRS21NV', 'CG-PVCS19NV', 'NW-PV1WB']"
+prowling-vineyards-napa-valley,Pending,32e7014b-adca-4c69-90a6-fd2c146d88a8,Alan Benton,"['PROWMIXGF', 'PROWMIXGF', '50Deposit']"
+prowling-vineyards-napa-valley,Pending,bf373f1e-2fb5-451d-b88d-77098450fa33,test test,empty
+prowling-vineyards-napa-valley,Pending,2092792b-0961-4563-b6ac-83da5922337f,Alejandra Diaz,empty
+prowling-vineyards-napa-valley,Pending,4eeb9daf-37c8-4f2d-b036-257ba73755c3,Jessica Beckenstein,"['SHIP', 'NW-PV1WB', 'PC-PVHD22SR', 'PROW2018RED']"
+prowling-vineyards-napa-valley,Pending,01b61a2d-4d72-4a66-8c5a-88a1fdbf1e28,Cathy Gantt,['50Deposit']
+prowling-vineyards-napa-valley,Pending,6eaf2c96-4246-4eaf-ad13-b0adb20f8100,Casey Yount,empty
+prowling-vineyards-napa-valley,Pending,9f46ca71-6575-4d2f-81ae-bb6c44acddbf,Jason Meier,"['NW-PVWKF', 'NW-PV6WB', 'PC-PVFL22MB', 'PROWWINEKEYF', 'PROW2021WBOX', 'PC-PVSP22MB', 'PROW21FALLMIX', 'PROW2021WBOX', 'PROWWINEKEYF', '50Deposit']"
+prowling-vineyards-napa-valley,Pending,9ca56d98-d68d-44e7-bfab-cb8d5c026f5d,Gold Adkins,"['NW-PVBB', 'NW-PVWC', 'NW-PVSK', 'NW-PV6WB', 'CG-PVSP18NV', 'NW-PVWKF', 'PC-PVFL22WB', 'NW-PV6WB', 'PC-PVSP22MB', 'PROW2021WBOX', 'PROWWINEKEYF', '50Deposit']"
+prowling-vineyards-napa-valley,Pending,4eeb9daf-37c8-4f2d-b036-257ba73755c3,Jessica Beckenstein,"['SHIP', 'NW-PV1WB', 'PC-PVHD22SR', 'PROW2018RED']"
+prowling-vineyards-napa-valley,Pending,99ac3b22-e59d-40b2-9e6a-c21789443d62,Marcus Walters,"['NW-PVWC', 'NW-PVSK', 'CG-PVSP18NV', 'CG-PVWW20NV', 'CG-PVRW18NV', 'NW-PVSB', 'CG-PVRS21NV', 'NW-PVBB', 'NW-PV6WB', 'PROWWINEKEYF', 'PROW21FALLMIX', 'PROW2021WBOX', 'PROWWINEKEYF', 'PROW2021WBOX', 'PC-PVSP22MB', 'PC-PVSP22MB', 'PROW2021WBOX', 'PROWWINEKEYF', 'PC-PVSP22MB', 'PROW2021WBOX', 'PROWWINEKEYF', '50Deposit']"
+prowling-vineyards-napa-valley,Pending,a5aedb85-ad38-4643-9912-711663f3a293,Christopher Biche,"['CG-FEWPV19NV', 'CG-PVRW19NV', 'NW-PV6WB', 'NW-PVSK', 'NW-PVBB', 'CG-FEWCS18NV', 'CG-PVRS21NV', 'NW-PVWC', 'CG-PVCS19NV', 'NW-PV6WB', 'PC-PVFL22RB', 'NW-PVWKF', 'PROW2021WBOX', 'PROWWINEKEYF', 'PC-PVSP22MB', 'PROW21FALLMIX', 'PROWWINEKEYF', 'PROW2021WBOX', '50Deposit']"
+prowling-vineyards-napa-valley,Pending,5c3ddc9f-8b88-4888-99b9-32aac0d65fa5,Anastasia Strobl,['PC-PVHD22PP']
+prowling-vineyards-napa-valley,Pending,c56a9dbc-3bfb-4cbb-a223-12705dd6ed5b,Stephanie Davey,empty
+prowling-vineyards-napa-valley,Pending,2ab2ba17-1939-4b70-a8e6-d19c4012b9de,Michael Mahoney,"['CG-PVRW18NV', 'CG-PVWW20NV', 'CG-PVCH20RR', 'NW-PVSK', 'NW-PVWC', 'NW-PV6WB', 'NW-PVSB', 'NW-PVBB', 'CG-PVRS21NV', 'CG-PVPN20SB', 'CG-PVCB20NV', 'NW-PV6WB', 'CG-PVCH20RR', 'NW-PVWKF', 'CG-PVCS19NV', 'SHIP', 'PROWWINEKEYF', 'PC-PVSP22MB', 'PROW2021WBOX', 'PROWWINEKEYF', 'PROW2021WBOX', 'PROW21FALLMIX', '50Deposit']"
+prowling-vineyards-napa-valley,Pending,1c2eec9b-e72e-48a5-95fd-1e7dfb688603,Chris Guerreri,empty
+prowling-vineyards-napa-valley,Pending,4eeb9daf-37c8-4f2d-b036-257ba73755c3,Jessica Beckenstein,"['SHIP', 'NW-PV1WB', 'PC-PVHD22SR', 'PROW2018RED']"
+prowling-vineyards-napa-valley,Pending,4eeb9daf-37c8-4f2d-b036-257ba73755c3,Jessica Beckenstein,"['SHIP', 'NW-PV1WB', 'PC-PVHD22SR', 'PROW2018RED']"
+prowling-vineyards-napa-valley,Pending,d07b924b-b9e8-4650-a238-e99ac492d5d7,Megan Caudle,"['NW-PV3WB', 'CG-PVRW18NV', 'NW-PVBB', 'CG-PVRS21NV', 'CG-PVSP18NV', 'NW-PVSB', 'NW-PVWC', 'NW-PVSK', '50Deposit']"
+prowling-vineyards-napa-valley,Pending,41a14b17-b7bf-4e13-bfb8-058f850ec96c,Isabel Holland,empty
+prowling-vineyards-napa-valley,Pending,98a30081-11ea-410f-acc1-dab782380ca3,Janet Fisher,"['NW-PVSK', 'NW-PV6WB', 'CG-PVWW20NV', 'CG-PVRW18NV', 'NW-PVWC', 'NW-PVSB', 'CG-PVSP18NV', 'NW-PVBB', 'CG-PVRS21NV', 'PC-PVHD22PD', 'PC-PVHD22SR', 'NW-PVWKF', 'PC-PVFL22MB', 'NW-PV6WB', '50Deposit']"
+prowling-vineyards-napa-valley,Pending,4eeb9daf-37c8-4f2d-b036-257ba73755c3,Jessica Beckenstein,"['SHIP', 'NW-PV1WB', 'PC-PVHD22SR', 'PROW2018RED']"
+prowling-vineyards-napa-valley,Pending,b4b08ae8-ce7f-409a-b63f-ecc3290737d9,Casey Dacus,"['NW-PV6WB', 'NW-PVWC', 'CG-PVRW18NV', 'CG-PVSP18NV', 'NW-PVSB', 'CG-PVRS21NV', 'NW-PVBB', 'CG-PVWW20NV', 'NW-PVSK', '50Deposit']"
+prowling-vineyards-napa-valley,Pending,d07b924b-b9e8-4650-a238-e99ac492d5d7,Megan Caudle,"['NW-PV3WB', 'CG-PVRW18NV', 'NW-PVBB', 'CG-PVRS21NV', 'CG-PVSP18NV', 'NW-PVSB', 'NW-PVWC', 'NW-PVSK', '50Deposit']"
+prowling-vineyards-napa-valley,Pending,76c6287f-6cc3-460c-982e-40bfc09db2fa,Robert Greene,['CG-PVCS19NV']
+prowling-vineyards-napa-valley,Pending,5d4fd89c-1a20-4428-b8be-8566c52ebb24,Kristi Varnell,"['NW-PV6WB', 'NW-PVBB', 'NW-PVSB', 'CG-PVWW20NV', 'NW-PVSK', 'CG-PVRS21NV', 'NW-PVWC', 'CG-PVSP18NV', 'CG-PVSP18NV', 'NW-PVSB', 'NW-PVSK', 'NW-PVWC', 'CG-PVWW20NV', 'CG-PVRW18NV', 'NW-PVBB', 'NW-PV6WB', 'CG-PVRS21NV', 'CG-PVRW18NV', 'NW-PV6WB', 'CG-PVSP18NV', 'NW-PVSK', 'NW-PVSB', 'CG-PVRS21NV', 'NW-PVWC', 'CG-PVWW20NV', 'NW-PVBB', 'PC-PVFL22MB', 'NW-PV6WB', 'NW-PVWKF', 'CG-PVRS21NV', 'CG-FEWRO18NV', 'PC-PVSP22MB', 'PROW2021WBOX', 'PROWWINEKEYF', '50Deposit']"
+prowling-vineyards-napa-valley,Pending,fcbe9ee9-7897-4524-abb5-b396fa9d377f,Monty Desai,empty
+prowling-vineyards-napa-valley,Pending,fd6e38be-7376-4d7c-a8bb-496fbd4a3207,Jenny Blackburn,"['CG-PVPN20SB', 'NW-PVSB', 'NW-PV6WB', 'CG-PVRW18NV', 'NW-PVWC', 'NW-PVSK', 'CG-PVRS21NV', 'NW-PVBB', 'CG-PVCS19NV', 'NW-PV6WB', 'NW-PVWKF', 'PC-PVFL22MB', 'PC-PVSP22MB', 'PROW2021WBOX', 'PC-FEWSP22IR', 'PROWWINEKEYF', 'PROW2021WBOX', 'PROWWINEKEYF', 'PROW21FALLMIX', '50Deposit']"
+prowling-vineyards-napa-valley,Pending,f90abb05-2e8a-4823-a4b3-e0cc61c109a7,David McClelland,"['NW-PVSB', 'CG-PVSP18NV', 'NW-PVSK', 'NW-PVBB', 'CG-PVRW18NV', 'CG-PVRS21NV', 'NW-PVWC', 'NW-PV3WB', 'NW-PVWT', '50Deposit']"
+prowling-vineyards-napa-valley,Pending,e34fb0a9-ba1a-4a49-9208-72db93a53b05,Dale Heidel,empty
+prowling-vineyards-napa-valley,Pending,90ea45b9-3112-49df-a7e3-b738e99a84d5,Eugenia Hounsell,"['NW-PVBB', 'NW-PVWC', 'NW-PV3WB', 'NW-PVSK', 'CG-PVRW18NV', 'NW-PVSB', '50Deposit']"
+prowling-vineyards-napa-valley,Pending,b94be092-dd57-4d48-8458-4a913449c51c,Bryan Stinnett,"['PC-PVSP22MB', 'PROWWINEKEYF', 'PROW2021WBOX', '50Deposit']"
+prowling-vineyards-napa-valley,Pending,d07b924b-b9e8-4650-a238-e99ac492d5d7,Megan Caudle,"['NW-PV3WB', 'CG-PVRW18NV', 'NW-PVBB', 'CG-PVRS21NV', 'CG-PVSP18NV', 'NW-PVSB', 'NW-PVWC', 'NW-PVSK', '50Deposit']"
+prowling-vineyards-napa-valley,Pending,c379b6d4-7f13-4a8f-9ae8-ec35035c932c,Mike Hudson,"['CG-PVRS21NV', 'NW-PV6WB', 'NW-PVSB', 'CG-PVSP18NV', 'CG-PVWW20NV', 'NW-PVSK', 'CG-PVRW18NV', 'NW-PVWC', 'NW-PVBB', 'PC-PVFL22MB', 'NW-PVWKF', 'NW-PV6WB', '50Deposit']"
+prowling-vineyards-napa-valley,Pending,fb82e978-2e11-4f26-a48c-382b999008d1,Kristin Beyer,"['CG-PVRW18NV', 'CG-PVRS21NV', 'CG-PVCS19NV', 'NW-PVWC', 'NW-PVSK', 'NW-PVBB', 'CG-PVCH19NV', 'NW-PV3WB', 'PC-PVFL223MP', '50Deposit']"
+prowling-vineyards-napa-valley,Pending,69c32dfe-7f1d-4441-940e-7be7dc1d0bcf,Jamie Blackburn,empty
+prowling-vineyards-napa-valley,Pending,65358b94-5888-4b8e-80ef-ac498ae38a2f,Christopher Lewis,['50Deposit']
+prowling-vineyards-napa-valley,Pending,cb770e16-29d2-4ed2-af3a-85760118deea,James Agee,['50Deposit']
+prowling-vineyards-napa-valley,Pending,9b805d21-34f7-4a15-9901-673cd5540bf7,Elizabeth Miller,"['NW-PVBB', 'CG-PVRW18NV', 'NW-PV6WB', 'CG-PVRS21NV', 'NW-PVSB', 'CG-PVSP18NV', 'CG-PVWW20NV', 'NW-PVSK', 'NW-PVWC', 'CG-PVRS21NV', 'CG-PVPN20SB', '50Deposit']"
+prowling-vineyards-napa-valley,Pending,b7c4f407-80da-4e35-800e-e0d36f3430e8,Samantha Fox,"['CG-PVRW18NV', 'CG-PVSP18NV', 'NW-PVSB', 'NW-PVWC', 'NW-PV3WB', 'CG-PVRS21NV', 'NW-PVBB', 'NW-PVSK', 'PC-PVFL223MP', 'NW-PV3WB', 'PC-PVSP223MP', '50Deposit']"
+prowling-vineyards-napa-valley,Pending,d07b924b-b9e8-4650-a238-e99ac492d5d7,Megan Caudle,"['NW-PV3WB', 'CG-PVRW18NV', 'NW-PVBB', 'CG-PVRS21NV', 'CG-PVSP18NV', 'NW-PVSB', 'NW-PVWC', 'NW-PVSK', '50Deposit']"
+prowling-vineyards-napa-valley,Pending,68dcb6ed-87be-4f79-906b-b3e854b5b41f,Samuel Bethea,"['NW-PVSB', 'NW-PVSK', 'CG-PVSP18NV', 'NW-PVSB', 'NW-PV6WB', 'NW-PVBB', 'NW-PVWC', 'CG-PVRS21NV', 'CG-PVWW20NV', 'NW-PV6WB', 'NW-PVWKF', 'PC-PVFL22WB', 'PROWWINEKEYF', 'PROW2018RED', 'PROW2018BdB', 'PROW2019CHARD', 'CG-PVCB20NV', 'PROW2021WBOX', 'PROWWINEKEYF', 'PROW2021WBOX', 'PROW21FALLMIX', '50Deposit']"
+prowling-vineyards-napa-valley,Pending,ae91d599-92cd-44be-b1ed-b891d6432ba3,Deborah Powell,"['CG-PVRW18NV', 'NW-PVSB', 'NW-PV6WB', 'NW-PVSK', 'NW-PVBB', 'CG-PVRS21NV', 'CG-PVWW20NV', 'NW-PVWC', 'CG-PVSP18NV', 'NW-PVWKF', 'NW-PV6WB', 'PC-PVFL22WB']"
+prowling-vineyards-napa-valley,Pending,27a5c649-a313-4985-9d0e-1564b43d1a23,Sandy Hamrock,"['NW-PVSK', 'CG-PVSP18NV', 'NW-PVWC', 'CG-PVRS21NV', 'NW-PV3WB', 'NW-PVBB', '50Deposit']"
+prowling-vineyards-napa-valley,Pending,2ab2ba17-1939-4b70-a8e6-d19c4012b9de,Michael Mahoney,"['CG-PVRW18NV', 'CG-PVWW20NV', 'CG-PVCH20RR', 'NW-PVSK', 'NW-PVWC', 'NW-PV6WB', 'NW-PVSB', 'NW-PVBB', 'CG-PVRS21NV', 'CG-PVPN20SB', 'CG-PVCB20NV', 'NW-PV6WB', 'CG-PVCH20RR', 'NW-PVWKF', 'CG-PVCS19NV', 'SHIP', 'PROWWINEKEYF', 'PC-PVSP22MB', 'PROW2021WBOX', 'PROWWINEKEYF', 'PROW2021WBOX', 'PROW21FALLMIX', '50Deposit']"
+prowling-vineyards-napa-valley,Pending,68394736-596d-45e4-a08a-906a9a72ee87,Daniel Summers,empty
+prowling-vineyards-napa-valley,Pending,4eeb9daf-37c8-4f2d-b036-257ba73755c3,Jessica Beckenstein,"['SHIP', 'NW-PV1WB', 'PC-PVHD22SR', 'PROW2018RED']"
+prowling-vineyards-napa-valley,Pending,b471c562-36e4-487b-a00a-67e1d9d69351,Derek Surette,"['NW-PVSK', 'NW-PVSB', 'CG-PVRW18NV', 'CG-PVSP18NV', 'CG-PVPN20SB', 'NW-PVBB', 'NW-PV6WB', 'NW-PVWC', 'CG-PVWW20NV', 'PC-PVHD22PP', 'NW-PVWKF', 'NW-PV6WB', 'PC-PVFL22MB', 'PROWWINEKEYF', 'PC-PVSP22MB', 'PROW2021WBOX', 'PROW21FALLMIX', 'PROWWINEKEYF', 'PROW2021WBOX', 'BC3REDPCK', '50Deposit']"
+prowling-vineyards-napa-valley,Pending,5be4976a-98bf-4523-8e49-f3962a8839f5,Matt Scott,['50Deposit']

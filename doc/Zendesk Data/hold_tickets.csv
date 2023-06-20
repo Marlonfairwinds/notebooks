@@ -1,0 +1,302 @@
+id,requester_id,submitter_id,created_at,subject,description,tags,channel,status,organization_id,priority,type
+30214,13291093480983,13291093480983,2023-05-18T20:18:04Z,NetSapiens- Douglas Abrego monitor request,"Good afternoon team,
+
+Kindly requesting your help to assign an additional monitor to Douglas Abrego. Be aware he is fully working from home, so please let us know when he can visit us to complete the request.
+
+Please let us know if any additional information is needed.
+
+Regards,
+
+
+[cid:71fc32a4-c2b6-46cb-918c-14ff4661c491]
+Hector Rivas
+OPS Team Lead
+7636 4622
+http://osinearshore.com
+hrivas@osinearshore.com",['support'],email,,1900028126905,normal,incident
+30191,1509294057741,1509294057741,2023-05-18T17:32:33Z,"Anita Verghese - Allow login from Ottawa, Canada -- 5/25 thru 5/29","Hello,
+
+ 
+
+Can you please configure Anita Verghese account to be able to access from Ottawa, Canada during 5/25 thru 5/29 ?
+
+ 
+
+ 
+
+ 
+
+ 
+
+Thanks,
+
+ 
+
+ Sai Hanmandla | (551) 482-2723 | sai.hanmandla@kymadvisors.com
+
+Manager, Infrastructure and Cybersecurity
+
+1801 Old Reston Ave., Suite 302, Fairfax, VA 22033
+
+SBA 8(a), MBE, SDB",['support'],email,,1500101662041,normal,incident
+29829,411375573513,411375573513,2023-05-02T22:41:12Z,VM in Azure Rebooted - Causing Disk Failures,"Hello,
+
+ 
+
+I need to troubleshoot who rebooted a VM in our infrastructure last night around 22 hours ago from now. This is the Fortigate Virtual Machine.
+
+ 
+
+For some reason, it rebooted – it thinks it was because of a power disruption, but that shouldn’t be possible due to Azure… Right?
+
+ 
+
+Thank you,
+
+
+Duane Mizell
+Senior Associate / IT Manager
+
+REES
+Architecture Planning Interior Design
+9595 Six Pines Dr., Suite 6240 | The Woodlands, TX 77380 
+o 214 580 7162 | m 214 632 1044 | rees.com (http://www.rees.com)
+
+
+Message contents are confidential, proprietary property of REES and protected by copyright law. This message is intended solely for the addressee(s) identified above and REES makes no representation that this message is secure, error free or free from viruses.",['support'],email,,370403987173,normal,incident
+29820,411375573513,411375573513,2023-05-02T14:19:41Z,Share Resource Calendar,"Can we share the resource calendar for OKCWharfConference@rees.com?
+
+ 
+
+Thanks,
+
+
+Duane Mizell
+Senior Associate / IT Manager
+
+REES
+Architecture Planning Interior Design
+9595 Six Pines Dr., Suite 6240 | The Woodlands, TX 77380 
+o 214 580 7162 | m 214 632 1044 | rees.com (http://www.rees.com)
+
+
+Message contents are confidential, proprietary property of REES and protected by copyright law. This message is intended solely for the addressee(s) identified above and REES makes no representation that this message is secure, error free or free from viruses.",['support'],email,,370403987173,normal,incident
+29811,1534325510362,1534325510362,2023-05-01T13:14:17Z,Windows Hello/PIN,"Hello,
+
+ 
+
+We have a user who is unable to activate Windows Hello/set a PIN.  When I look at the settings on their computer, it shows these features are unavailable.
+
+ 
+
+The user is Dylan Hardisty and their computer is NB1049.
+
+ 
+
+Thanks,
+
+Alan
+
+Alan Bickwermert
+Systems Support Specialist
+Phone: 502.882.4571
+Fax: 812.288.2891
+
+-------------------------------
+
+The information contained in this email message is being transmitted to and is intended for the use of only the individual(s) to whom it is addressed.  If the reader of this message is not the intended recipient, you are hereby advised that any dissemination, distribution or copying of this message is strictly prohibited.  If you have received this message in error, please delete immediately.",['support'],email,,1500776943802,normal,incident
+29788,411375573513,411375573513,2023-04-27T16:01:28Z,Adding External Account to Teams Channel?,"I am trying to add an external account (duanemizell@hotmail.com) to a team I created for testing (External Project Communication). I can go through the process to add the email address to the team, but nothing happens:
+
+ 
+
+Nothing happens though:
+
+ 
+
+I feel like this is an issue that I should understand because we’re working on trying to deploy Teams globally now and replace ShareFile with MS Teams… We can’t do that if we can’t add external people to a team or channel so they can access what they need to access though…
+
+ 
+
+I’ve verified the permissions – not sure what else I could be doing wrong here, just seems like there’s some bugs in the system still…
+
+ 
+
+Thanks,
+Duane Mizell
+Senior Associate / IT Manager
+
+REES
+Architecture Planning Interior Design
+9595 Six Pines Dr., Suite 6240 | The Woodlands, TX 77380 
+o 214 580 7162 | m 214 632 1044 | rees.com (http://www.rees.com)
+
+
+Message contents are confidential, proprietary property of REES and protected by copyright law. This message is intended solely for the addressee(s) identified above and REES makes no representation that this message is secure, error free or free from viruses.","['amc', 'notification']",email,,370403987173,normal,incident
+29643,1532979278301,1532979278301,2023-04-20T16:52:08Z,Wi-Fi Camera app issues,"We are having issues with a Wi-Fi camera and app to control the camera.  If the camera and phone are on a hotspot, everything works fine.  If the camera is on our guest or production networks, the application does not connect to the camera.  It looks like there are some ports that are impacting this.
+
+ 
+
+Any help would be appreciated.
+
+ 
+
+Thank you,
+
+Tony Willis
+Technology Manager
+Phone: 317.224.1342
+Fax: 317.347.5211
+
+-------------------------------
+
+The information contained in this email message is being transmitted to and is intended for the use of only the individual(s) to whom it is addressed.  If the reader of this message is not the intended recipient, you are hereby advised that any dissemination, distribution or copying of this message is strictly prohibited.  If you have received this message in error, please delete immediately.","['mcm', 'support']",email,,1500776943802,normal,incident
+29615,411375451273,411375451273,2023-04-18T21:45:31Z,Email Problem,"Good afternoon,
+
+ 
+
+Me again! I have another issue to report. Earlier today (12:38 EDT), I received an email from another Gemini employee, Maria Bradley. The problem is that I was not included among the addresses of the email. Here’s the header:
+
+ 
+
+ 
+
+ 
+
+I double-checked the outgoing message and confirmed that I was not in the list of addresses (there was no Bcc). I then checked Message Trace and found the message:
+
+ 
+
+ 
+
+I opened the message in Message Trace:
+
+ 
+
+ 
+
+ 
+
+I then clicked on “Prepare and email extended report”:
+
+ 
+
+ 
+
+I submitted the request at 16:47 EDT. After 40 minutes, I received the message below:
+
+ 
+
+From: Office365Reports@microsoft.com <Office365Reports@microsoft.com>
+Sent: Tuesday, April 18, 2023 17:27
+To: Vince Maconi <vmaconi@gemini-ind.com>
+Subject: Information regarding your requested Maria Message trace report - ‎2023-04-18T20:46:50.124Z‎
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dear customer, Your request for Maria Message trace report - ‎2023-04-18T20:46:50.124Z‎ submitted on 4/18/2023 8:47:48 PM has been processed. No data was found that matched the search criteria you specified. Please submit a new request with changed criteria if you expect to obtain valid results.
+
+ 
+
+Thank you,
+
+Microsoft Office 365 Reporting
+
+ 
+
+ 
+
+ 
+
+This message was sent from an unmonitored email address.
+Please do not reply to this message. Privacy (http://www.microsoft.com/online/legal/v2/?docid=18&langid=en-US) | Legal (http://www.microsoft.com/online/legal/v2/?docid=13&langid=en-US)
+
+Microsoft Corporation | One Microsoft Way,
+Redmond, WA 98052-6399
+
+ 
+
+ 
+
+ 
+
+If I am interpreting this message correctly, Microsoft did not find the message that Message Trace had already found and from which I submitted the request for the extended report. That seems to suggest that the message that was not addressed to me, which I did in fact receive, and which I did find using Message Trace, does not actually exist.
+
+ 
+
+Can you help me understand what is happening here? I am very concerned that email messages are being delivered to persons to whom they were not addressed. That would be a MAJOR problem.
+
+ 
+
+Thank you,
+
+Vince",['support'],email,,370403986713,normal,incident
+29577,13291093480983,13291093480983,2023-04-14T16:43:42Z,NetSapiens-Upgrade RAM new laptop,"Hi team,
+
+as per client request and TL feedback, it is requested by NetSapiens to use Google Chrome to run NetSapiens software which is memory intensive and they are not allowed to open additional tools required due to lack of memory.
+
+We are requesting additional 8GB DDR4 for the laptop models: E15 Gen 3 and E15 Gen 4 recently assigned.
+
+[cid:c4b53eef-6526-4d57-b564-b63cf23f46ae]
+
+ [cid:042e97ba-ef9e-4be0-a925-a39979bbe204]
+
+Regards,
+
+
+[cid:02cf1321-49ca-49c1-b9cb-ccf30819ae2e]
+Hector Rivas
+OPS Team Lead
+7636 4622
+http://osinearshore.com
+hrivas@osinearshore.com
+image.png
+image.png
+Outlook-1w3uscgn.png
+unnamed_attachment_1.eml
+
+-- Forwarded part --
+
+CAUTION: External Sender
+
+Hector,
+
+ 
+
+We are required by our client to use Google Chrome because of Netsapiens software however Google Chrome program is memory intensive and leave us little room to have other tools open at the same time that are also required to do our job.
+
+ 
+
+I would like to request another 4GB (8GB ideally) added for all computers however I was advised by OSI IT they don’t have available extra memory since new PC’s use DDR4.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pablo Bonilla
+CS Tier2 Team Lead
+
+
+  
+   
+
+Crexendo VIP (https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.crexendo.com%2Fvip&data=05%7C01%7Chrivas%40osinearshore.com%7C160031871e7a4a17678408db3d02f28d%7C6ca0c8f890c041b79104e060576bc04f%7C0%7C0%7C638170855101671532%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6u6fnnhCkeqZWltbI7mnHNjUa0wi%2BJQD%2BeATIbzcd8w%3D&reserved=0)  | Get a Free Demo (https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.crexendo.com%2Fschedule-a-free-demo%2F&data=05%7C01%7Chrivas%40osinearshore.com%7C160031871e7a4a17678408db3d02f28d%7C6ca0c8f890c041b79104e060576bc04f%7C0%7C0%7C638170855101671532%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=LDnl5RxlP7ntMidU42aW3SUYQDIiWCAZf8M0iPMMlZE%3D&reserved=0)  | Investor Relations (https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.crexendo.com%2Fwhy-crexendo%2Ffor-investors%2F&data=05%7C01%7Chrivas%40osinearshore.com%7C160031871e7a4a17678408db3d02f28d%7C6ca0c8f890c041b79104e060576bc04f%7C0%7C0%7C638170855101671532%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=63UviGKP%2B9aNLOWKQ2o5lXiqdrRyF0MZqg%2FE9q%2BaB1A%3D&reserved=0)
+
+ 
+
+Disclaimer
+
+The information contained in this communication from the sender is confidential. It is intended solely for use by the recipient and others authorized to receive it. If you are not the recipient, you are hereby notified that any disclosure, copying, distribution or taking action in relation of the contents of this information is strictly prohibited and may be unlawful.",['support'],email,,1900028126905,normal,incident

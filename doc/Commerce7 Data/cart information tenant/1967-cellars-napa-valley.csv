@@ -1,0 +1,21 @@
+tenant,status,customer_id,customer_name,Product Sku
+1967-cellars-napa-valley,Pending,dc140db4-61c4-4fcb-add5-c30fa375a512,William English,"['CG-CLRW18NV', 'NW-CL6WB', 'CG-FEWWW20NV', 'CG-CLSP18NV', 'CG-CLCH18RR', 'NW-CLWKF', 'CG-FEWSB19NV', '50Deposit']"
+1967-cellars-napa-valley,Pending,dc140db4-61c4-4fcb-add5-c30fa375a512,William English,"['CG-CLRW18NV', 'NW-CL6WB', 'CG-FEWWW20NV', 'CG-CLSP18NV', 'CG-CLCH18RR', 'NW-CLWKF', 'CG-FEWSB19NV', '50Deposit']"
+1967-cellars-napa-valley,Pending,28702594-199b-4084-a2aa-8842141c80e8,Patrick Balsley,"['NW-CL6WB', 'NW-CLWKF', 'PC-CLFL22MB', '50Deposit']"
+1967-cellars-napa-valley,Pending,66214352-2d0e-43ce-aaf5-eae08fe80c1e,Andrew Quick,"['NW-CL3DHC', 'PC-CLVD23SS']"
+1967-cellars-napa-valley,Pending,66214352-2d0e-43ce-aaf5-eae08fe80c1e,Andrew Quick,"['NW-CL3DHC', 'PC-CLVD23SS']"
+1967-cellars-napa-valley,Pending,55d2f969-7856-4048-b16c-b9066cb1e587,Joanie Fuson,"['NW-CLWKF', 'NW-CL6WB', 'PC-CLFL22MB', '50Deposit']"
+1967-cellars-napa-valley,Pending,66214352-2d0e-43ce-aaf5-eae08fe80c1e,Andrew Quick,"['NW-CL3DHC', 'PC-CLVD23SS']"
+1967-cellars-napa-valley,Pending,a27ccd9f-5e58-45bf-b48b-21eb459875f0,Chelsie Krill,"['CG-CLCH18RR', 'CG-CLSP18NV', 'NW-CLWKF', 'CG-CLRW18NV', 'NW-CL6WB', 'CG-CLCH18RR', 'NW-CLWKF', 'NW-CL6WB', 'CG-CLRW18NV', 'CG-CLSP18NV']"
+1967-cellars-napa-valley,Pending,66214352-2d0e-43ce-aaf5-eae08fe80c1e,Andrew Quick,"['NW-CL3DHC', 'PC-CLVD23SS']"
+1967-cellars-napa-valley,Pending,11361c8c-6bc3-4e02-840c-627c3a9fa5bb,Robert Neal,"['NW-CLBB', 'CG-CLRW18NV', 'NW-CLSB', 'NW-CLCP', 'NW-CL6WB', 'NW-CLSK', 'CG-CLCH18RR', 'PC-CLFL22MB', 'NW-CL6WB', 'NW-CLWKF', '50Deposit']"
+1967-cellars-napa-valley,Pending,66214352-2d0e-43ce-aaf5-eae08fe80c1e,Andrew Quick,"['NW-CL3DHC', 'PC-CLVD23SS']"
+1967-cellars-napa-valley,Pending,a17482f0-8dd6-4f64-8fe7-1cf57d72c4ce,Anthony Shanks,"['NW-CLBB', 'NW-CLSK', 'NW-CLCP', 'CG-CLRW18NV', 'CG-CLSP18NV', 'NW-CL6WB', 'CG-CLCH18RR', 'CG-FEWCS18NV', 'PC-CLFL22MB', 'NW-CL6WB', 'NW-CLWKF', '50Deposit']"
+1967-cellars-napa-valley,Pending,b501439f-3485-49a0-a33a-9e5526208227,jen keeler,empty
+1967-cellars-napa-valley,Pending,ca7d065a-c90c-4e9d-a3ef-28f79cdd22bd,Victor Portillo,empty
+1967-cellars-napa-valley,Pending,4bc72e28-01a0-493e-8583-38adeab7d1ab,Rusty Jones,"['CG-CLSP18NV', 'NW-CLBB', 'NW-CL6WB', 'NW-CLCP', 'CG-CLRW18NV', 'CG-CLCH18RR', 'NW-CLSB', 'NW-CLSK', 'PC-CLFL223MP', 'NW-CL3WB', '50Deposit']"
+1967-cellars-napa-valley,Pending,66214352-2d0e-43ce-aaf5-eae08fe80c1e,Andrew Quick,"['NW-CL3DHC', 'PC-CLVD23SS']"
+1967-cellars-napa-valley,Pending,c473313c-a304-4977-be8b-4f21f4f764ce,Jim Plump,"['NW-CLSB', 'NW-CLCP', 'NW-CLBB', 'NW-CLSK', 'CG-CLRW18NV', 'CG-CLCH18RR', 'CG-CLSP18NV', 'NW-CL6WB', 'NW-CLWKF', 'PC-CLFL22MB', 'NW-CL6WB', '50Deposit']"
+1967-cellars-napa-valley,Pending,11361c8c-6bc3-4e02-840c-627c3a9fa5bb,Robert Neal,"['NW-CLBB', 'CG-CLRW18NV', 'NW-CLSB', 'NW-CLCP', 'NW-CL6WB', 'NW-CLSK', 'CG-CLCH18RR', 'PC-CLFL22MB', 'NW-CL6WB', 'NW-CLWKF', '50Deposit']"
+1967-cellars-napa-valley,Pending,c6e37968-9bc0-4672-bd83-991720431b22,Martin McCoy,"['NW-CL3WB', 'PC-CLFL223MP', '50Deposit']"
+1967-cellars-napa-valley,Pending,a17482f0-8dd6-4f64-8fe7-1cf57d72c4ce,Anthony Shanks,"['NW-CLBB', 'NW-CLSK', 'NW-CLCP', 'CG-CLRW18NV', 'CG-CLSP18NV', 'NW-CL6WB', 'CG-CLCH18RR', 'CG-FEWCS18NV', 'PC-CLFL22MB', 'NW-CL6WB', 'NW-CLWKF', '50Deposit']"

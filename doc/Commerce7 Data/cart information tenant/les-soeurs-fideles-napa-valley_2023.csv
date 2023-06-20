@@ -1,0 +1,25 @@
+status,customer_id,customer_name,Created Date,Product Sku
+Pending,42c75b29-958c-4725-b5bd-3c940414ace6,Dena Teeter McFadden,2023-03-07 16:24:00,"['PC-LSFL22MB', 'NW-LS6WB', 'NW-LSWKF', '50Deposit']"
+Pending,d5916579-560f-4d34-b24e-ec6cd55934e9,Taylor Meeks,2023-03-04 02:13:00,['50Deposit']
+Pending,f4c4aea2-1ab2-4601-bf41-b8667899430f,Ruth Anne Prentice,2023-01-25 21:08:00,['50Deposit']
+Pending,a1030bdd-6edc-48cd-ae92-1cefe94cb16b,Melissa Bosch,2023-01-19 23:54:00,['50Deposit']
+Pending,6f07d8b7-3df9-4409-811c-a6957a732cb8,Pamela Parsons Holder,2023-03-09 15:38:00,"['NW-LS6WB', 'NW-LSWKF', 'PC-LSFL22MB', '50Deposit']"
+Pending,1aba41f6-fdfa-4907-92f7-cee6fc389de4,Susannah Corso,2023-01-30 21:54:00,['50Deposit']
+Pending,0fd15b03-b579-4c07-882c-fe0028635709,Ashlee Forscher,2023-01-03 16:38:00,['50Deposit']
+Pending,ac0d102c-1080-42e5-99bb-dbe9a2ebe280,Jennifer Ferguson,2023-02-06 17:09:00,"['PC-LSVD23SS', 'NW-LS3WB', 'CG-FEWPV19NV', 'CG-LSSP18NV', 'CG-LSRW18NV', '50Deposit']"
+Pending,89934f19-8f5c-488a-9605-f3ea1b3277ee,Bethany Treibley,2023-01-19 23:32:00,[]
+Pending,6810afa6-7237-41bd-84ca-4d6b5ba6f052,Kara Berzelius Martin,2023-04-04 22:14:00,"['NW-LS3WB', 'PC-LSFL223MP', 'NW-LS3WB', 'PC-LSFL223MP', '50Deposit']"
+Pending,09ac39be-0ba4-46fd-b05f-b61f8a0418da,suzie bolozky,2023-04-16 17:57:00,"['PC-LSFL22MB', 'NW-LSWKF', 'NW-LS6WB', '50Deposit']"
+Pending,60f6c39a-7da5-4e42-bea4-8a95413e2663,Kortney Mushinski,2023-02-09 16:53:00,"['NW-LS3WB', 'CG-LSSP18NV', 'CG-LSCH18NV', 'CG-FEWRO18NV', '50Deposit']"
+Pending,1aba41f6-fdfa-4907-92f7-cee6fc389de4,Susannah Corso,2023-01-30 21:54:00,['50Deposit']
+Pending,a1030bdd-6edc-48cd-ae92-1cefe94cb16b,Melissa Bosch,2023-01-19 23:54:00,['50Deposit']
+Pending,d0cde64f-7758-4be0-96c7-e9339b76ee3b,Christina Pomeroy,2023-04-14 22:08:00,"['CG-FEWRO18NV', 'NW-LS3WB', 'CG-LSCH18NV', '50Deposit']"
+Pending,fd868370-be69-4b1a-afa4-94ac82f78934,Julia Rosson Sorenson,2023-02-09 20:39:00,"['PC-LSFL22MB', 'NW-LSWKF', 'NW-LS6WB', '50Deposit']"
+Pending,c7ba67b3-cfa0-4218-94d7-1df75ef8ba41,Marianne Marcheso,2023-03-21 20:16:00,"['CG-FEWRO18NV', 'CG-LSRW18NV', 'CG-FEWCF19NV', 'NW-LS6WB', 'CG-FEWCH20RR', 'CG-LSSP18NV', 'CG-LSCH18NV', 'NW-LSWKF', '50Deposit']"
+Pending,4a9613d8-a832-4eeb-894f-f797f8e90192,Isabel Joseph,2023-03-01 16:59:00,['50Deposit']
+Pending,33f8d96c-fc07-4507-9fc4-16ef9d32134c,Alycia Schwartz,2023-01-25 05:33:00,['50Deposit']
+Pending,a1030bdd-6edc-48cd-ae92-1cefe94cb16b,Melissa Bosch,2023-01-19 23:54:00,['50Deposit']
+Pending,b0fcfc5b-c134-4e8a-98fc-e99cdc92293e,Ellece Campbell,2023-04-14 19:43:00,"['PC-LSALLREDGF', '50Deposit']"
+Pending,b55972ae-e785-4860-88db-a4626a280025,Alejandra Diaz,2023-03-04 02:11:00,[]
+Pending,6810afa6-7237-41bd-84ca-4d6b5ba6f052,Kara Berzelius Martin,2023-04-04 22:14:00,"['NW-LS3WB', 'PC-LSFL223MP', 'NW-LS3WB', 'PC-LSFL223MP', '50Deposit']"
+Pending,746d998b-0ce8-4cf2-87c9-4cf087217bf6,Andrea Kash,2023-01-07 23:07:00,"['NW-LS6WB', 'NW-LS6WB', 'NW-LSWKF', 'PC-LSFL22MB', '50Deposit']"

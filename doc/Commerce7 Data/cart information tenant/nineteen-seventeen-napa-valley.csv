@@ -1,0 +1,12 @@
+tenant,status,customer_id,customer_name,Product Sku
+nineteen-seventeen-napa-valley,Pending,e7716852-1419-49ae-bd1d-b6f1c220c9a7,Stephanie Schaffer,"['PC-NSFL22MB', 'NW-NS6WB', 'NW-NSWKF', '50Deposit']"
+nineteen-seventeen-napa-valley,Pending,356ed530-45ac-44a8-9a80-0cf335233c57,Haylee Scott,empty
+nineteen-seventeen-napa-valley,Pending,1c0424f9-f060-4734-80d6-34523e7f1c3b,Jillian Gallagher,"['PC-NSFL22MB', 'NW-NSWKF', 'NW-NS6WB', '50Deposit']"
+nineteen-seventeen-napa-valley,Pending,2538ea5a-1f6f-4f67-a526-cbf04d57bba5,Jennafer Rowbotham,"['NW-NS6WB', 'NW-NSWKF', 'PC-NSFL22MB', '50Deposit']"
+nineteen-seventeen-napa-valley,Pending,21fea008-511f-49f0-9cc2-4c9fe93a55c8,Haley Cahill-Teubert,"['CG-NSSP18NV', 'CG-NSRW18NV', 'NW-NSWK', 'CG-NSCH18RR', 'CG-NSRW18NV', 'NW-NS3WB', 'CG-NSSP18NV', 'CG-NSCH18RR', 'NW-NSWK', 'CG-NSCH18RR', 'NW-NSWK', 'NW-NS3WB', 'CG-NSSP18NV', 'CG-NSRW18NV', 'CG-NSSP18NV', 'CG-NSRW18NV', 'NW-NS3WB', 'CG-NSCH18RR', 'NW-NSWKF', 'NW-NS3WB', 'CG-NSRW18NV', 'NW-NSWKF', 'CG-NSCH18RR', 'CG-NSSP18NV']"
+nineteen-seventeen-napa-valley,Pending,77e46693-7825-45d0-99bf-a59beda3add3,Michelle Carlson,"['PC-FRFL223MP', '50Deposit']"
+nineteen-seventeen-napa-valley,Pending,e7716852-1419-49ae-bd1d-b6f1c220c9a7,Stephanie Schaffer,"['PC-NSFL22MB', 'NW-NS6WB', 'NW-NSWKF', '50Deposit']"
+nineteen-seventeen-napa-valley,Pending,855203ca-f931-44ff-b735-731d3e4efe9c,Alejandra Diaz,empty
+nineteen-seventeen-napa-valley,Pending,2a53988e-132c-44e3-a3bf-8340c989b4da,Alia Reeb,empty
+nineteen-seventeen-napa-valley,Pending,7a00d1ab-83ee-4085-b451-47c0b1b546eb,Beth Gruber,"['NW-NS3WB', 'CG-NSCH18RR', 'CG-FEWWW20NV', 'CG-NSSP18NV', '50Deposit']"
+nineteen-seventeen-napa-valley,Pending,5e547d4e-519f-44ae-9e0f-cb404ac57176,Elizabeth Sesler,"['NW-NS6WB', 'NW-NSWK', 'PC-NSFL22MB', 'NW-NSWKF', 'NW-NS6WB', 'PC-NSFL22MB', 'NW-NSWKF', 'PC-NSFL22MB', 'NW-NS6WB', '50Deposit']"

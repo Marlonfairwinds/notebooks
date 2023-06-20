@@ -1,0 +1,35 @@
+tenant,status,customer_id,customer_name,Product Sku
+the-fleur-napa-valley,Pending,24778fc6-0b6f-4462-8868-e0f5fd00d10f,Meg Marker,empty
+the-fleur-napa-valley,Pending,eaa5dc05-365d-4bf1-915b-aca85fc7dd1b,Catherine Geiger,"['PC-TFFL223MP', 'CG-TFRW18NV', '50Deposit']"
+the-fleur-napa-valley,Pending,ce39473b-d66e-466c-a442-80f6d3aba0e2,Elizabeth Trull,"['PC-TFFL22MB', 'NW-TF6WB', 'NW-TFWKF', '50Deposit']"
+the-fleur-napa-valley,Pending,58b8d7a4-2163-4638-ac71-41d2396f08d7,Adelaide Craver,"['NW-TF6WB', 'PC-TFFL22MB', 'NW-TFWKF', '50Deposit']"
+the-fleur-napa-valley,Pending,df318cb3-4a7c-45f5-a3dd-e0f5af284a0e,Addie Logsdon,"['PC-TFFL223MP', 'NW-TF3WB', '50Deposit']"
+the-fleur-napa-valley,Pending,0ba9e38e-baf2-47f7-9363-8397fd3810e1,Eve Stranz,"['CG-TFRW18NV', 'CG-TFCH18RR', 'NW-TFWKF', 'NW-TFCD', 'NW-TF3WB', 'CG-TFSP18NV', 'NW-TF3WB', 'PC-TFFL223MP', '50Deposit']"
+the-fleur-napa-valley,Pending,7584d475-6114-41b1-9542-1922a5f9541d,Lydia Rutherford,"['NW-TFWKF', 'PC-TFFL22MB', 'NW-TF6WB', '50Deposit']"
+the-fleur-napa-valley,Pending,1c37c5e1-1006-4753-9873-fdd2c265b614,Jessica Hurtado,"['NW-TF6WB', 'PC-TFFL22MB', 'NW-TFWKF', 'NW-TF6WB', 'PC-TFFL22RB', 'NW-TFWKF', 'PC-TFFL22MB', 'NW-TF6WB', 'NW-TFWKF', '50Deposit']"
+the-fleur-napa-valley,Pending,d0014352-9d7c-46bc-bdc7-bc8c621007a4,Ricky Pretzer,['50Deposit']
+the-fleur-napa-valley,Pending,9b79f2b5-d210-4f4f-88fc-66dc3322bd03,Margaret Schumaker,"['CG-FEWSB19NV', 'CG-FEWRO18NV', 'NW-TF3WB', '50Deposit']"
+the-fleur-napa-valley,Pending,d0014352-9d7c-46bc-bdc7-bc8c621007a4,Ricky Pretzer,['50Deposit']
+the-fleur-napa-valley,Pending,98db8541-7691-4255-97c8-05a3d5280851,Suzanne Norris,empty
+the-fleur-napa-valley,Pending,d71c71ff-7902-41a9-a99f-9ab550c969dd,Shelly Soorholtz,['50Deposit']
+the-fleur-napa-valley,Pending,eaa5dc05-365d-4bf1-915b-aca85fc7dd1b,Catherine Geiger,"['PC-TFFL223MP', 'CG-TFRW18NV', '50Deposit']"
+the-fleur-napa-valley,Pending,0ba9e38e-baf2-47f7-9363-8397fd3810e1,Eve Stranz,"['CG-TFRW18NV', 'CG-TFCH18RR', 'NW-TFWKF', 'NW-TFCD', 'NW-TF3WB', 'CG-TFSP18NV', 'NW-TF3WB', 'PC-TFFL223MP', '50Deposit']"
+the-fleur-napa-valley,Pending,a0393775-1ce3-469b-846e-0d60fbc65e1f,Kylie Smith,"['NW-TF6WB', 'PC-TFFL22MB', 'NW-TFWKF']"
+the-fleur-napa-valley,Pending,f9d716c6-9015-475a-8eec-4d004cbfc34c,sarah krans,"['CG-TFRW18NV', 'NW-TFWKF', 'CG-TFSP18NV', 'NW-TF6WB', 'CG-TFCH18RR', '50Deposit']"
+the-fleur-napa-valley,Pending,0ba9e38e-baf2-47f7-9363-8397fd3810e1,Eve Stranz,"['CG-TFRW18NV', 'CG-TFCH18RR', 'NW-TFWKF', 'NW-TFCD', 'NW-TF3WB', 'CG-TFSP18NV', 'NW-TF3WB', 'PC-TFFL223MP', '50Deposit']"
+the-fleur-napa-valley,Pending,d0014352-9d7c-46bc-bdc7-bc8c621007a4,Ricky Pretzer,['50Deposit']
+the-fleur-napa-valley,Pending,64bf9899-eade-425b-a300-c179882298ab,Linda Schlenker,"['PC-TFFL22MB', 'NW-TF6WB', 'NW-TFWKF']"
+the-fleur-napa-valley,Pending,9dbdaa47-f18a-4aa5-bd18-023888789e3e,Nancy Greer,"['NW-TFWKF', 'NW-TF6WB', 'PC-TFFL22MB', '50Deposit']"
+the-fleur-napa-valley,Pending,d0014352-9d7c-46bc-bdc7-bc8c621007a4,Ricky Pretzer,['50Deposit']
+the-fleur-napa-valley,Pending,6650c191-7dda-4cbb-8636-a2cf92c53ff5,Emily Westbrook,['50Deposit']
+the-fleur-napa-valley,Pending,bcd12592-b816-4cb1-a4d1-9b2801a3c558,Lorrie Aracri,"['PC-TFFL223MP', 'NW-TF3WB', 'NW-TF3WB', 'PC-TFFL223MP', 'NW-TF3WB', 'PC-TFFL223MP']"
+the-fleur-napa-valley,Pending,bcd12592-b816-4cb1-a4d1-9b2801a3c558,Lorrie Aracri,"['PC-TFFL223MP', 'NW-TF3WB', 'NW-TF3WB', 'PC-TFFL223MP', 'NW-TF3WB', 'PC-TFFL223MP']"
+the-fleur-napa-valley,Pending,4f828dfb-3395-43fc-8ff9-3f00b4fe309c,Jennifer Hayes,"['NW-TFWKF', 'PC-TFFL22MB', 'NW-TF6WB']"
+the-fleur-napa-valley,Pending,ad3d99e3-7503-4602-9669-d6fc7baef377,Beth Liles,['PC-TFVD23SS']
+the-fleur-napa-valley,Pending,3e4c76d2-56a4-4587-ba14-fdf19cd88451,Josephine VanDenburg-Crossman,empty
+the-fleur-napa-valley,Pending,eaa5dc05-365d-4bf1-915b-aca85fc7dd1b,Catherine Geiger,"['PC-TFFL223MP', 'CG-TFRW18NV', '50Deposit']"
+the-fleur-napa-valley,Pending,b628eda2-9a67-4930-95fb-ec9e4c3b40e8,Candace Fancher,"['NW-TF1WB', 'PC-TFMIXGF', 'NW-TFWKF', 'PC-TFFL22MB', 'NW-TF6WB']"
+the-fleur-napa-valley,Pending,d0014352-9d7c-46bc-bdc7-bc8c621007a4,Ricky Pretzer,['50Deposit']
+the-fleur-napa-valley,Pending,42203ad9-98ee-4576-b5fa-1c8daec936f9,Camille Brewer,['50Deposit']
+the-fleur-napa-valley,Pending,c932f9e0-78bc-4a7e-b6d6-db1cb42895ca,Jillian Celich,['50Deposit']
+the-fleur-napa-valley,Pending,c818ff91-79e6-41d4-bd4e-1e7cff771f81,Madison Sykes,['PC-TFFL223MP']

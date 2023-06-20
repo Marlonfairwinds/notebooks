@@ -1,0 +1,58 @@
+status,customer_id,customer_name,Created Date,Product Sku
+Pending,9118256c-a0cd-4d84-8215-a12fcf838a3c,Shawn Shaffer,2023-01-30 20:32:00,"['PC-OBFL223MP', 'NW-OB3WB', 'PC-OBFL223MP', 'NW-OB3WB', 'PC-OBFL223MP', 'PC-OBFL223MP', 'PC-OBFL223MP', '50Deposit']"
+Pending,a36a0e0f-82f6-4fd3-8b22-6fd61774b557,Lynda Garbutt,2023-02-10 22:54:00,['50Deposit']
+Pending,a36a0e0f-82f6-4fd3-8b22-6fd61774b557,Lynda Garbutt,2023-02-10 22:54:00,['50Deposit']
+Pending,87817984-f4a6-498b-af95-e7144bb8fcb2,Paula Tootle,2023-03-27 19:19:00,['50Deposit']
+Pending,4f9a80ee-6f1a-49c4-8a50-1eb3d78df614,John Clark,2023-02-17 17:15:00,"['PC-OBFL223MP', 'NW-OB3WB', '50Deposit']"
+Pending,4f9a80ee-6f1a-49c4-8a50-1eb3d78df614,John Clark,2023-02-17 17:15:00,"['PC-OBFL223MP', 'NW-OB3WB', '50Deposit']"
+Pending,76a6561b-8ef1-4d19-9645-ef6cdc6fb432,Kevin TeBeest,2023-01-20 13:50:00,"['PC-OBVD23SW', 'NW-OBWKF', 'PC-OBFL22WB', 'NW-OB6WB']"
+Pending,6b82338f-cf56-4735-b568-535048ce0087,Betty Johns,2023-02-10 22:39:00,['50Deposit']
+Pending,16d77263-4c3d-4e78-9a8e-175d78f77037,Nancy Reiter,2023-03-29 15:53:00,"['NW-OB3WB', 'NW-OB1WB', 'NW-OB4TF', 'PC-OBVD23SW', 'NW-OB3WB', 'NW-OB3WB', 'NW-OB4TF', 'PC-OBVD23SW']"
+Pending,9118256c-a0cd-4d84-8215-a12fcf838a3c,Shawn Shaffer,2023-01-30 20:32:00,"['PC-OBFL223MP', 'NW-OB3WB', 'PC-OBFL223MP', 'NW-OB3WB', 'PC-OBFL223MP', 'PC-OBFL223MP', 'PC-OBFL223MP', '50Deposit']"
+Pending,6b82338f-cf56-4735-b568-535048ce0087,Betty Johns,2023-02-10 22:39:00,['50Deposit']
+Pending,4f9a80ee-6f1a-49c4-8a50-1eb3d78df614,John Clark,2023-02-17 17:15:00,"['PC-OBFL223MP', 'NW-OB3WB', '50Deposit']"
+Pending,a583fdc9-7e7e-4094-8068-0fdb91be0b77,Alejandra Diaz,2023-03-03 21:43:00,"['PC-OBHD22SW', 'PC-OBHD22SW']"
+Pending,87817984-f4a6-498b-af95-e7144bb8fcb2,Paula Tootle,2023-03-27 19:19:00,['50Deposit']
+Pending,1dcad876-c284-466b-9f2d-9fcfb3bc8dad,Paula Dyhrkopp,2023-03-29 17:45:00,"['NW-OB6WB', 'NW-OBWKF', 'PC-OBFL22MB', '50Deposit']"
+Pending,4f9a80ee-6f1a-49c4-8a50-1eb3d78df614,John Clark,2023-02-17 17:15:00,"['PC-OBFL223MP', 'NW-OB3WB', '50Deposit']"
+Pending,b9fb97ed-1080-4ecd-82f3-ed8c01c79b93,LAURIE SWANSON,2023-03-28 18:43:00,"['PC-OBALLREDGF', 'NW-OB3WB', 'PC-OBFL223MP']"
+Pending,6b82338f-cf56-4735-b568-535048ce0087,Betty Johns,2023-02-10 22:39:00,['50Deposit']
+Pending,6b82338f-cf56-4735-b568-535048ce0087,Betty Johns,2023-02-10 22:39:00,['50Deposit']
+Pending,afe3aad1-bb92-4fa1-8259-8d1aa4215df4,KATHY SEVERTSON,2023-02-07 21:45:00,"['NW-OB3WB', 'PC-OBVD23P']"
+Pending,ac6987e1-de34-4c3e-be07-409eed0e54b0,STEPHANIE VINCENT,2023-01-01 00:08:00,"['PC-FEWSP22NB', 'NW-OB6WB', 'NW-OBWKF']"
+Pending,20688315-64c5-40d6-abd7-21523e170831,Susanne Disotell,2023-04-13 21:22:00,['50Deposit']
+Pending,6b82338f-cf56-4735-b568-535048ce0087,Betty Johns,2023-02-10 22:39:00,['50Deposit']
+Pending,6b82338f-cf56-4735-b568-535048ce0087,Betty Johns,2023-02-10 22:39:00,['50Deposit']
+Pending,20688315-64c5-40d6-abd7-21523e170831,Susanne Disotell,2023-04-13 21:22:00,['50Deposit']
+Pending,9118256c-a0cd-4d84-8215-a12fcf838a3c,Shawn Shaffer,2023-01-30 20:32:00,"['PC-OBFL223MP', 'NW-OB3WB', 'PC-OBFL223MP', 'NW-OB3WB', 'PC-OBFL223MP', 'PC-OBFL223MP', 'PC-OBFL223MP', '50Deposit']"
+Pending,06ae4449-87e2-4004-8ad7-f228772557bf,Toni Cole,2023-01-25 02:05:00,"['CG-FEWSB19NV', 'NW-OBWKF', 'PC-OBFL22WB', 'NW-OB6WB', '50Deposit']"
+Pending,87817984-f4a6-498b-af95-e7144bb8fcb2,Paula Tootle,2023-03-27 19:19:00,['50Deposit']
+Pending,be1eacf8-bf99-47f7-b302-380bd8f021da,Lynn Hatfield,2023-02-17 15:08:00,['50Deposit']
+Pending,83978a68-5d1c-4f33-b1b4-0b55a791cdbc,Margaret Torricelli,2023-02-06 17:26:00,"['NW-OB1WB', 'PC-OBVD23SW', 'PC-OBVD23SW']"
+Pending,6b82338f-cf56-4735-b568-535048ce0087,Betty Johns,2023-02-10 22:39:00,['50Deposit']
+Pending,ac6987e1-de34-4c3e-be07-409eed0e54b0,STEPHANIE VINCENT,2023-01-01 00:08:00,"['PC-FEWSP22NB', 'NW-OB6WB', 'NW-OBWKF']"
+Pending,87817984-f4a6-498b-af95-e7144bb8fcb2,Paula Tootle,2023-03-27 19:19:00,['50Deposit']
+Pending,20688315-64c5-40d6-abd7-21523e170831,Susanne Disotell,2023-04-13 21:22:00,['50Deposit']
+Pending,875133d7-bc96-4c30-99ef-ab4226c96e9c,Peter Schmitz,2023-04-10 18:29:00,"['CG-OBSP18NV', 'CG-OBRW18NV', 'NW-OBWKF', 'NW-OB6WB', 'PC-OBFL22MB', '50Deposit']"
+Pending,1e27c519-e3fb-47eb-8778-57f44bb1f19a,Elizabeth Vega,2023-01-16 17:12:00,"['PC-OBFL22MB', 'NW-OBWKF', 'NW-OB6WB']"
+Pending,4f9a80ee-6f1a-49c4-8a50-1eb3d78df614,John Clark,2023-02-17 17:15:00,"['PC-OBFL223MP', 'NW-OB3WB', '50Deposit']"
+Pending,b9fb97ed-1080-4ecd-82f3-ed8c01c79b93,LAURIE SWANSON,2023-03-28 18:43:00,"['PC-OBALLREDGF', 'NW-OB3WB', 'PC-OBFL223MP']"
+Pending,1dcad876-c284-466b-9f2d-9fcfb3bc8dad,Paula Dyhrkopp,2023-03-29 17:45:00,"['NW-OB6WB', 'NW-OBWKF', 'PC-OBFL22MB', '50Deposit']"
+Pending,4f9a80ee-6f1a-49c4-8a50-1eb3d78df614,John Clark,2023-02-17 17:15:00,"['PC-OBFL223MP', 'NW-OB3WB', '50Deposit']"
+Pending,87817984-f4a6-498b-af95-e7144bb8fcb2,Paula Tootle,2023-03-27 19:19:00,['50Deposit']
+Pending,c4eab47b-83c4-49a4-8a21-fde76e3969d5,Linsey Pilkinton,2023-02-16 17:52:00,"['NW-OBWKF', 'PC-OBFL22MB', 'NW-OB6WB', '50Deposit']"
+Pending,be1eacf8-bf99-47f7-b302-380bd8f021da,Lynn Hatfield,2023-02-17 15:08:00,['50Deposit']
+Pending,e5fe259e-5018-4e8a-a352-657e326ec74c,Jacqueline Wilson,2023-02-13 12:44:00,"['PC-OBFL22RB', 'NW-OBWKF', 'NW-OB6WB', '50Deposit']"
+Pending,97784ab4-e67c-4df9-bd26-e811f4495b64,Natalie Hey-Shipton,2023-01-10 17:42:00,[]
+Pending,20688315-64c5-40d6-abd7-21523e170831,Susanne Disotell,2023-04-13 21:22:00,['50Deposit']
+Pending,16d77263-4c3d-4e78-9a8e-175d78f77037,Nancy Reiter,2023-03-29 15:53:00,"['NW-OB3WB', 'NW-OB1WB', 'NW-OB4TF', 'PC-OBVD23SW', 'NW-OB3WB', 'NW-OB3WB', 'NW-OB4TF', 'PC-OBVD23SW']"
+Pending,f5005723-5611-497f-8360-1c6edf69a90f,Robert Fabian,2023-04-15 23:08:00,"['PC-OBMD23S', 'PC-OBVD23SR', 'NW-OBWKF', 'PC-OBFL22MB', 'NW-OB6WB']"
+Pending,db296d0e-8b27-4f33-9e5d-06f9ad337e35,Julie Knudsen,2023-01-11 21:43:00,"['PC-OBFL22MB', 'NW-OBWKF', 'NW-OB6WB', 'CG-OBCH18RR']"
+Pending,c4eab47b-83c4-49a4-8a21-fde76e3969d5,Linsey Pilkinton,2023-02-16 17:52:00,"['NW-OBWKF', 'PC-OBFL22MB', 'NW-OB6WB', '50Deposit']"
+Pending,c4eab47b-83c4-49a4-8a21-fde76e3969d5,Linsey Pilkinton,2023-02-16 17:52:00,"['NW-OBWKF', 'PC-OBFL22MB', 'NW-OB6WB', '50Deposit']"
+Pending,a36a0e0f-82f6-4fd3-8b22-6fd61774b557,Lynda Garbutt,2023-02-10 22:54:00,['50Deposit']
+Pending,62429790-8c58-4644-a24e-744e5efd2c27,Janet Tidwell,2023-01-18 16:43:00,"['PC-OBVD23SW', 'PC-OBHD22PPW']"
+Pending,c4eab47b-83c4-49a4-8a21-fde76e3969d5,Linsey Pilkinton,2023-02-16 17:52:00,"['NW-OBWKF', 'PC-OBFL22MB', 'NW-OB6WB', '50Deposit']"
+Pending,83978a68-5d1c-4f33-b1b4-0b55a791cdbc,Margaret Torricelli,2023-02-06 17:26:00,"['NW-OB1WB', 'PC-OBVD23SW', 'PC-OBVD23SW']"
+Pending,87817984-f4a6-498b-af95-e7144bb8fcb2,Paula Tootle,2023-03-27 19:19:00,['50Deposit']
+Pending,be1eacf8-bf99-47f7-b302-380bd8f021da,Lynn Hatfield,2023-02-17 15:08:00,['50Deposit']

@@ -1,0 +1,58 @@
+tenant,status,customer_id,customer_name,Product Sku
+bold-stripes-napa-valley,Pending,732ed979-c773-4606-83bc-3b7b2bb9a035,Mary Small,"['PC-BSHD22SW', 'PC-BSHD22SW']"
+bold-stripes-napa-valley,Pending,1a539d20-2f25-4e2e-95ce-2c5b7bd51c3a,Alejandra Diaz,empty
+bold-stripes-napa-valley,Pending,aa2e7e03-77e9-4511-b920-9c57b9650405,William Matty,empty
+bold-stripes-napa-valley,Pending,d7b427e4-5ce2-496b-bfa5-275a79f22032,Corey Cunningham,"['NW-BSWKF', 'NW-BS6WB', 'PC-BSFL22MB', '50Deposit']"
+bold-stripes-napa-valley,Pending,5584785a-fab3-4d08-9e62-355b9b2a8271,Kenneth Casson,['PC-BSHD22SW']
+bold-stripes-napa-valley,Pending,af5aee87-7a69-424d-a74d-73abf696118f,Sharon Tolson,"['PC-BSFL223MP', 'NW-BS3WB', '50Deposit']"
+bold-stripes-napa-valley,Pending,5eee96cc-001b-453b-ac7c-60d849b00fca,Michaela Longstreet,empty
+bold-stripes-napa-valley,Pending,354bff61-0cb7-4b3f-b542-d556158fee0d,Nicole Roberts,"['NW-BS6WB', 'PC-BSFL22MB', 'NW-BSWKF', 'NW-BS6WB', '50Deposit']"
+bold-stripes-napa-valley,Pending,40113458-c5b9-4760-bf59-98b12b6369c4,Thomas Wimsatt,"['NW-BS3WB', 'PC-BSFL223MP', 'NW-BS3WB', 'PC-BSFL223MP', 'NW-BS3WB', '50Deposit']"
+bold-stripes-napa-valley,Pending,5fa65026-6885-486a-bc62-bdef1b32756f,Shyeuna Vance,['50Deposit']
+bold-stripes-napa-valley,Pending,c02d68fe-9dbd-4892-adff-34e8ea46df19,Tom Gruber,"['NW-BSWKF', 'PC-BSFL22MB', 'NW-BS6WB', '50Deposit']"
+bold-stripes-napa-valley,Pending,cebb9780-5fea-4a04-b49c-d34c7d9808af,Jennifer Oldenburg,empty
+bold-stripes-napa-valley,Pending,0e48b1b0-ee0a-431d-84a5-ca613733bafe,Dorothy Snider,"['CG-BSRW18NV', 'PC-BSHD22PD']"
+bold-stripes-napa-valley,Pending,59820a14-c681-4334-b7a9-3c85172419df,William Metz,empty
+bold-stripes-napa-valley,Pending,732ed979-c773-4606-83bc-3b7b2bb9a035,Mary Small,"['PC-BSHD22SW', 'PC-BSHD22SW']"
+bold-stripes-napa-valley,Pending,b65c012b-e367-42ea-a76a-ec77be73c5cf,Celeste Arduino,"['NW-BSWKF', 'PC-BSFL22MB', 'NW-BS6WB', '50Deposit']"
+bold-stripes-napa-valley,Pending,fda08fd7-d499-4346-a56f-88f82891c97f,Tracey Sailer,"['CG-BSSP18NV', 'NW-BS6WB', 'CG-BSCH18RR', 'CG-BSRW18NV', 'NW-BSWKF', 'NW-BS3WB', 'PC-BSFL223MP', 'NW-BS3WB', 'CG-BSRW18NV', 'CG-BSCH18RR', 'CG-BSSP18NV', 'NW-BS3WB', 'PC-BSFL223MP']"
+bold-stripes-napa-valley,Pending,e8a829bc-4952-4b96-9089-18821493b663,Johanna Kappner,"['NW-BS3WB', 'PC-BSFL223MP', '50Deposit']"
+bold-stripes-napa-valley,Pending,aa2e7e03-77e9-4511-b920-9c57b9650405,William Matty,empty
+bold-stripes-napa-valley,Pending,aa2e7e03-77e9-4511-b920-9c57b9650405,William Matty,empty
+bold-stripes-napa-valley,Pending,40d71410-8264-44dd-a5a9-fe657895cafa,Aaron Hintz,"['NW-BS6WB', 'PC-BSFL22MB', 'NW-BSWKF', 'NW-BSWKF', 'PC-BSFL22MB', 'NW-BS6WB', '50Deposit']"
+bold-stripes-napa-valley,Pending,1df19551-4f20-4610-bc0a-5e4ebd2df616,Matt Sikich,"['CG-BSCH18RR', 'NW-BS3WB', 'CG-BSSP18NV', 'CG-BSRW18NV', 'CG-BSCH18RR', 'CG-BSRW18NV', 'NW-BS1WB']"
+bold-stripes-napa-valley,Pending,aa2e7e03-77e9-4511-b920-9c57b9650405,William Matty,empty
+bold-stripes-napa-valley,Pending,871dc47d-1def-4fcc-8c6f-92f01aff2352,Ronald Hicks,"['50Deposit', 'PC-BSHD22PD']"
+bold-stripes-napa-valley,Pending,0420c44a-9c6c-4d47-899c-ef59781b5549,Ashley Koehler,empty
+bold-stripes-napa-valley,Pending,02549bc2-720d-4606-abb0-2de40b7e19ff,Jennifer Wycoff,"['PC-BSFL223MP', 'NW-BS3WB', '50Deposit']"
+bold-stripes-napa-valley,Pending,9f2befad-f676-483d-b581-22b8166696cb,Jamie Brown,"['PC-BSFL223MP', 'NW-BS3WB', '50Deposit']"
+bold-stripes-napa-valley,Pending,5fa65026-6885-486a-bc62-bdef1b32756f,Shyeuna Vance,['50Deposit']
+bold-stripes-napa-valley,Pending,1bc29e5a-672e-40a2-9600-48e89008c151,Laynae Meyer,['50Deposit']
+bold-stripes-napa-valley,Pending,d9a93939-eb6f-4b68-9c32-7234cc1cb178,Carolyn Harmann,empty
+bold-stripes-napa-valley,Pending,02549bc2-720d-4606-abb0-2de40b7e19ff,Jennifer Wycoff,"['PC-BSFL223MP', 'NW-BS3WB', '50Deposit']"
+bold-stripes-napa-valley,Pending,568adb71-446f-450b-996f-8e4924cc6cbf,Matt Doughman,"['CG-BSSP18NV', 'CG-BSCH18RR', 'NW-BSWKF', 'CG-BSRW18NV', 'NW-BS6WB', 'CG-BSSP18NV', 'CG-BSRW18NV', 'NW-BS6WB', 'CG-BSCH18RR', 'NW-BSWKF', '50Deposit']"
+bold-stripes-napa-valley,Pending,fab8bc49-3103-4fc9-8389-71f608f94c7d,Bobbie Bush,empty
+bold-stripes-napa-valley,Pending,5c8dc665-b4c5-440a-b56d-fd4ed6bd6839,Brian Callahan,"['NW-BS6WB', 'PC-BSHD22SR', 'CG-BSRW18NV']"
+bold-stripes-napa-valley,Pending,329b55a1-4a13-43cb-9580-dbca9d74d62f,Nick Spreckelmeier,"['NW-BS6WB', 'NW-BSWKF', 'PC-BSFL22MB', '50Deposit']"
+bold-stripes-napa-valley,Pending,f1232bf7-22f6-474f-beb5-beca18f6fe22,Kelly Wogoman,empty
+bold-stripes-napa-valley,Pending,5eee96cc-001b-453b-ac7c-60d849b00fca,Michaela Longstreet,empty
+bold-stripes-napa-valley,Pending,c0f731be-6ccc-4ded-9e0a-0b8b0205a75d,Scott Mattlin,['PC-BSHD22PD']
+bold-stripes-napa-valley,Pending,c3c959f2-df17-4064-a367-7df8329b779a,Matt Schultz,empty
+bold-stripes-napa-valley,Pending,9b468e40-b185-45a6-a90a-a25ab75d3563,Reena Enaker,['50Deposit']
+bold-stripes-napa-valley,Pending,732ed979-c773-4606-83bc-3b7b2bb9a035,Mary Small,"['PC-BSHD22SW', 'PC-BSHD22SW']"
+bold-stripes-napa-valley,Pending,3ff30963-9892-4b5b-b3cd-5fd9155dd670,Chris Weber,['50Deposit']
+bold-stripes-napa-valley,Pending,ee1648eb-647c-4a40-95e9-f3dff4aeaba6,Carrie Cronan,['50Deposit']
+bold-stripes-napa-valley,Pending,8f034491-373d-44be-9bb9-e2d8195ac6a8,Misty Quick,"['NW-BSWKF', 'PC-BSFL22MB', 'NW-BS6WB', '50Deposit']"
+bold-stripes-napa-valley,Pending,9156de19-5410-4cb4-a6c5-1ad93cfd8dc1,Lynetta Sheldon,empty
+bold-stripes-napa-valley,Pending,773a2a19-412b-4b24-a791-cad4a441c1d0,Thomas Evans,empty
+bold-stripes-napa-valley,Pending,f0ac1ac6-84c8-4ffd-b510-dfab15b6a0db,Mike & Susie Leonard,['PC-BSVD23P']
+bold-stripes-napa-valley,Pending,c02d68fe-9dbd-4892-adff-34e8ea46df19,Tom Gruber,"['NW-BSWKF', 'PC-BSFL22MB', 'NW-BS6WB', '50Deposit']"
+bold-stripes-napa-valley,Pending,35d0a3fe-cef2-459f-9e0f-eaea3c33817d,Tom Blaznek,"['CG-FEWRW18NV', 'CG-FEWZN19MV', 'NW-BS6WB', 'CG-FEWRO18NV', 'NW-BSWKF', 'CG-BSRW18NV', '50Deposit']"
+bold-stripes-napa-valley,Pending,db7fc5d3-bc52-4cd9-904c-c1db5628e336,Justin Davis,empty
+bold-stripes-napa-valley,Pending,61979455-739b-48d0-b618-26ddc79f6f75,Heather Archer,empty
+bold-stripes-napa-valley,Pending,49d7aace-d8ee-40e3-a226-b02caac3a802,Anthony Ramirez,empty
+bold-stripes-napa-valley,Pending,fd9c3b4b-f00b-4e8b-8034-6b85a42ec40e,Jessica Lanham England,"['PC-BSFL22MB', 'NW-BSWKF', 'NW-BS6WB', '50Deposit']"
+bold-stripes-napa-valley,Pending,aa2e7e03-77e9-4511-b920-9c57b9650405,William Matty,empty
+bold-stripes-napa-valley,Pending,8f034491-373d-44be-9bb9-e2d8195ac6a8,Misty Quick,"['NW-BSWKF', 'PC-BSFL22MB', 'NW-BS6WB', '50Deposit']"
+bold-stripes-napa-valley,Pending,2daf95a5-1768-4a3b-bc5f-8a6c081caa42,Kim Kadakia,"['NW-BSWKF', 'PC-BSFL22MB', 'NW-BS6WB', '50Deposit']"
+bold-stripes-napa-valley,Pending,59aa1971-daaf-4867-9a94-90fd46162110,Tonya Sanders,['50Deposit']

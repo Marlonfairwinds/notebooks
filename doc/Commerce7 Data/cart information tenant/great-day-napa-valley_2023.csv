@@ -1,0 +1,14 @@
+status,customer_id,customer_name,Created Date,Product Sku
+Pending,9f81b2c3-0c18-4cf3-adf3-1a9284b74046,Ken Mazik,2023-01-15 22:41:00,"['PC-GDFL223MP', 'NW-GD3WB', '50Deposit']"
+Pending,17411523-a4d7-4f27-a8c4-77e5dddb6b14,Chad Cavanaugh,2023-03-03 21:31:00,['50Deposit']
+Pending,3883ff94-57a1-477e-a30e-0d453cedce23,Kimberly Wolfgang,2023-02-06 03:28:00,"['PC-GDHD22SR', 'PC-GDWHITEGB', 'CG-GDCH18RR', 'NW-GDWKF', 'PC-GDFL22MB', 'NW-PV6WB', '50Deposit']"
+Pending,bcf9b295-87d9-4837-959b-88950a9f5a5e,Dave Stough,2023-01-05 20:05:00,"['NW-GD3DHC', 'PC-GDHD22SR', 'PC-GDHD22SW', 'NW-PV6WB', 'NW-GDWKF', 'PC-GDFL22WB', '50Deposit']"
+Pending,e399f6fd-2fd6-447f-a3ce-41e8eee118a3,Pj Mastylak,2023-01-04 20:00:00,"['NW-GD3WB', 'CG-GDRW18NV', 'NW-GD3WB', 'CG-GDRW18NV', '50Deposit']"
+Pending,196cf8db-55be-4398-b46d-2b257ceaffb7,Alejandra Diaz,2023-03-03 21:31:00,[]
+Pending,ba40d651-876b-45d4-9e81-92c5b3375c55,Adrianne Watkiss,2023-03-30 23:37:00,['50Deposit']
+Pending,7326a602-3c95-422d-ba6b-cd838b2c232a,Janis Zappa,2023-01-03 20:22:00,"['NW-GD3WB', 'PC-GDFL223MP', '50Deposit']"
+Pending,97797d71-d550-454a-8847-b662644efab4,Scott Knight,2023-04-10 20:11:00,"['NW-GDWKF', 'PC-GDFL22MB', 'NW-PV6WB', '50Deposit']"
+Pending,97e1c38e-437d-4a85-ba3a-ef59e5169910,Lucas Alper,2023-03-03 21:42:00,[]
+Pending,bcf9b295-87d9-4837-959b-88950a9f5a5e,Dave Stough,2023-01-05 20:05:00,"['NW-GD3DHC', 'PC-GDHD22SR', 'PC-GDHD22SW', 'NW-PV6WB', 'NW-GDWKF', 'PC-GDFL22WB', '50Deposit']"
+Pending,cbba8b0a-e340-4268-958c-20d34ee3a5f7,Kevin Kappeler,2023-03-03 21:47:00,['50Deposit']
+Pending,17411523-a4d7-4f27-a8c4-77e5dddb6b14,Chad Cavanaugh,2023-03-03 21:31:00,['50Deposit']

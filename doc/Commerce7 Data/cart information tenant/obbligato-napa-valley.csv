@@ -1,0 +1,75 @@
+tenant,status,customer_id,customer_name,Product Sku
+obbligato-napa-valley,Pending,3b0822a6-f376-4dc2-b558-efb0f7114b4f,john cairo,"['NW-OB6WB', 'NW-OBWKF', 'PC-OBFL22MB', '50Deposit']"
+obbligato-napa-valley,Pending,9118256c-a0cd-4d84-8215-a12fcf838a3c,Shawn Shaffer,"['PC-OBFL223MP', 'NW-OB3WB', 'PC-OBFL223MP', 'NW-OB3WB', 'PC-OBFL223MP', 'PC-OBFL223MP', 'PC-OBFL223MP', '50Deposit']"
+obbligato-napa-valley,Pending,a36a0e0f-82f6-4fd3-8b22-6fd61774b557,Lynda Garbutt,['50Deposit']
+obbligato-napa-valley,Pending,a36a0e0f-82f6-4fd3-8b22-6fd61774b557,Lynda Garbutt,['50Deposit']
+obbligato-napa-valley,Pending,87817984-f4a6-498b-af95-e7144bb8fcb2,Paula Tootle,['50Deposit']
+obbligato-napa-valley,Pending,4f9a80ee-6f1a-49c4-8a50-1eb3d78df614,John Clark,"['PC-OBFL223MP', 'NW-OB3WB', '50Deposit']"
+obbligato-napa-valley,Pending,4f9a80ee-6f1a-49c4-8a50-1eb3d78df614,John Clark,"['PC-OBFL223MP', 'NW-OB3WB', '50Deposit']"
+obbligato-napa-valley,Pending,4c450147-dbbe-4ef8-ade3-c9e22b6cdae1,Sidney Jameson,"['NW-OB3WB', 'CG-OBRW18NV', 'CG-OBCH18RR']"
+obbligato-napa-valley,Pending,91bb0a83-1ae1-40d2-ada0-33a0081d8747,Patty Schoepp,"['PC-FEWSP22NB', 'CG-FEWWW20NV', 'NW-OBWKF', 'NW-OB6WB', '50Deposit']"
+obbligato-napa-valley,Pending,76a6561b-8ef1-4d19-9645-ef6cdc6fb432,Kevin TeBeest,"['PC-OBVD23SW', 'NW-OBWKF', 'PC-OBFL22WB', 'NW-OB6WB']"
+obbligato-napa-valley,Pending,6b82338f-cf56-4735-b568-535048ce0087,Betty Johns,['50Deposit']
+obbligato-napa-valley,Pending,16d77263-4c3d-4e78-9a8e-175d78f77037,Nancy Reiter,"['NW-OB3WB', 'NW-OB1WB', 'NW-OB4TF', 'PC-OBVD23SW', 'NW-OB3WB', 'NW-OB3WB', 'NW-OB4TF', 'PC-OBVD23SW']"
+obbligato-napa-valley,Pending,9118256c-a0cd-4d84-8215-a12fcf838a3c,Shawn Shaffer,"['PC-OBFL223MP', 'NW-OB3WB', 'PC-OBFL223MP', 'NW-OB3WB', 'PC-OBFL223MP', 'PC-OBFL223MP', 'PC-OBFL223MP', '50Deposit']"
+obbligato-napa-valley,Pending,6b82338f-cf56-4735-b568-535048ce0087,Betty Johns,['50Deposit']
+obbligato-napa-valley,Pending,4f9a80ee-6f1a-49c4-8a50-1eb3d78df614,John Clark,"['PC-OBFL223MP', 'NW-OB3WB', '50Deposit']"
+obbligato-napa-valley,Pending,a583fdc9-7e7e-4094-8068-0fdb91be0b77,Alejandra Diaz,"['PC-OBHD22SW', 'PC-OBHD22SW']"
+obbligato-napa-valley,Pending,87817984-f4a6-498b-af95-e7144bb8fcb2,Paula Tootle,['50Deposit']
+obbligato-napa-valley,Pending,0aab9709-5292-4e45-8d5d-76ed48df7bda,Caroline Salfati,empty
+obbligato-napa-valley,Pending,ae4326aa-cbe9-4e7c-8f62-104ff2342d1e,Deborah Winterowd,"['NW-OBWKF', 'PC-OBFL22MB', 'NW-OB6WB']"
+obbligato-napa-valley,Pending,1dcad876-c284-466b-9f2d-9fcfb3bc8dad,Paula Dyhrkopp,"['NW-OB6WB', 'NW-OBWKF', 'PC-OBFL22MB', '50Deposit']"
+obbligato-napa-valley,Pending,4f9a80ee-6f1a-49c4-8a50-1eb3d78df614,John Clark,"['PC-OBFL223MP', 'NW-OB3WB', '50Deposit']"
+obbligato-napa-valley,Pending,b9fb97ed-1080-4ecd-82f3-ed8c01c79b93,LAURIE SWANSON,"['PC-OBALLREDGF', 'NW-OB3WB', 'PC-OBFL223MP']"
+obbligato-napa-valley,Pending,6b82338f-cf56-4735-b568-535048ce0087,Betty Johns,['50Deposit']
+obbligato-napa-valley,Pending,9df02f2d-1159-41b1-8593-96b1ca470648,Gail Tarantino,empty
+obbligato-napa-valley,Pending,6b82338f-cf56-4735-b568-535048ce0087,Betty Johns,['50Deposit']
+obbligato-napa-valley,Pending,afe3aad1-bb92-4fa1-8259-8d1aa4215df4,KATHY SEVERTSON,"['NW-OB3WB', 'PC-OBVD23P']"
+obbligato-napa-valley,Pending,ac6987e1-de34-4c3e-be07-409eed0e54b0,STEPHANIE VINCENT,"['PC-FEWSP22NB', 'NW-OB6WB', 'NW-OBWKF']"
+obbligato-napa-valley,Pending,20688315-64c5-40d6-abd7-21523e170831,Susanne Disotell,['50Deposit']
+obbligato-napa-valley,Pending,6b82338f-cf56-4735-b568-535048ce0087,Betty Johns,['50Deposit']
+obbligato-napa-valley,Pending,6b82338f-cf56-4735-b568-535048ce0087,Betty Johns,['50Deposit']
+obbligato-napa-valley,Pending,20688315-64c5-40d6-abd7-21523e170831,Susanne Disotell,['50Deposit']
+obbligato-napa-valley,Pending,9118256c-a0cd-4d84-8215-a12fcf838a3c,Shawn Shaffer,"['PC-OBFL223MP', 'NW-OB3WB', 'PC-OBFL223MP', 'NW-OB3WB', 'PC-OBFL223MP', 'PC-OBFL223MP', 'PC-OBFL223MP', '50Deposit']"
+obbligato-napa-valley,Pending,06ae4449-87e2-4004-8ad7-f228772557bf,Toni Cole,"['CG-FEWSB19NV', 'NW-OBWKF', 'PC-OBFL22WB', 'NW-OB6WB', '50Deposit']"
+obbligato-napa-valley,Pending,87817984-f4a6-498b-af95-e7144bb8fcb2,Paula Tootle,['50Deposit']
+obbligato-napa-valley,Pending,c16aa21b-8dd5-4174-aa0b-82f51581251a,Christine S Lok,"['PC-OBFL223MP', 'NW-OB3WB', 'PC-OBFL223MP', 'NW-OB3WB']"
+obbligato-napa-valley,Pending,faddbced-37d0-4d39-bdb5-4bd7196d3614,Marlynda Steiner,"['PC-OBFL223MP', 'NW-OB3WB']"
+obbligato-napa-valley,Pending,a4ff0d48-6208-4e9e-8ccd-cd05fae2ca49,Nikki Zizos,"['PC-OBFL22MB', 'NW-OB6WB', 'NW-OBWKF']"
+obbligato-napa-valley,Pending,91bb0a83-1ae1-40d2-ada0-33a0081d8747,Patty Schoepp,"['PC-FEWSP22NB', 'CG-FEWWW20NV', 'NW-OBWKF', 'NW-OB6WB', '50Deposit']"
+obbligato-napa-valley,Pending,4c450147-dbbe-4ef8-ade3-c9e22b6cdae1,Sidney Jameson,"['NW-OB3WB', 'CG-OBRW18NV', 'CG-OBCH18RR']"
+obbligato-napa-valley,Pending,be1eacf8-bf99-47f7-b302-380bd8f021da,Lynn Hatfield,['50Deposit']
+obbligato-napa-valley,Pending,83978a68-5d1c-4f33-b1b4-0b55a791cdbc,Margaret Torricelli,"['NW-OB1WB', 'PC-OBVD23SW', 'PC-OBVD23SW']"
+obbligato-napa-valley,Pending,6b82338f-cf56-4735-b568-535048ce0087,Betty Johns,['50Deposit']
+obbligato-napa-valley,Pending,ac6987e1-de34-4c3e-be07-409eed0e54b0,STEPHANIE VINCENT,"['PC-FEWSP22NB', 'NW-OB6WB', 'NW-OBWKF']"
+obbligato-napa-valley,Pending,87817984-f4a6-498b-af95-e7144bb8fcb2,Paula Tootle,['50Deposit']
+obbligato-napa-valley,Pending,20688315-64c5-40d6-abd7-21523e170831,Susanne Disotell,['50Deposit']
+obbligato-napa-valley,Pending,875133d7-bc96-4c30-99ef-ab4226c96e9c,Peter Schmitz,"['CG-OBSP18NV', 'CG-OBRW18NV', 'NW-OBWKF', 'NW-OB6WB', 'PC-OBFL22MB', '50Deposit']"
+obbligato-napa-valley,Pending,3b0822a6-f376-4dc2-b558-efb0f7114b4f,john cairo,"['NW-OB6WB', 'NW-OBWKF', 'PC-OBFL22MB', '50Deposit']"
+obbligato-napa-valley,Pending,1e27c519-e3fb-47eb-8778-57f44bb1f19a,Elizabeth Vega,"['PC-OBFL22MB', 'NW-OBWKF', 'NW-OB6WB']"
+obbligato-napa-valley,Pending,4f9a80ee-6f1a-49c4-8a50-1eb3d78df614,John Clark,"['PC-OBFL223MP', 'NW-OB3WB', '50Deposit']"
+obbligato-napa-valley,Pending,b9fb97ed-1080-4ecd-82f3-ed8c01c79b93,LAURIE SWANSON,"['PC-OBALLREDGF', 'NW-OB3WB', 'PC-OBFL223MP']"
+obbligato-napa-valley,Pending,1dcad876-c284-466b-9f2d-9fcfb3bc8dad,Paula Dyhrkopp,"['NW-OB6WB', 'NW-OBWKF', 'PC-OBFL22MB', '50Deposit']"
+obbligato-napa-valley,Pending,78f5fdd5-4bfe-4e62-8c8a-557c9df55555,Lynne Fritz,empty
+obbligato-napa-valley,Pending,4f9a80ee-6f1a-49c4-8a50-1eb3d78df614,John Clark,"['PC-OBFL223MP', 'NW-OB3WB', '50Deposit']"
+obbligato-napa-valley,Pending,87817984-f4a6-498b-af95-e7144bb8fcb2,Paula Tootle,['50Deposit']
+obbligato-napa-valley,Pending,c16aa21b-8dd5-4174-aa0b-82f51581251a,Christine S Lok,"['PC-OBFL223MP', 'NW-OB3WB', 'PC-OBFL223MP', 'NW-OB3WB']"
+obbligato-napa-valley,Pending,c4eab47b-83c4-49a4-8a21-fde76e3969d5,Linsey Pilkinton,"['NW-OBWKF', 'PC-OBFL22MB', 'NW-OB6WB', '50Deposit']"
+obbligato-napa-valley,Pending,be1eacf8-bf99-47f7-b302-380bd8f021da,Lynn Hatfield,['50Deposit']
+obbligato-napa-valley,Pending,e5fe259e-5018-4e8a-a352-657e326ec74c,Jacqueline Wilson,"['PC-OBFL22RB', 'NW-OBWKF', 'NW-OB6WB', '50Deposit']"
+obbligato-napa-valley,Pending,97784ab4-e67c-4df9-bd26-e811f4495b64,Natalie Hey-Shipton,empty
+obbligato-napa-valley,Pending,20688315-64c5-40d6-abd7-21523e170831,Susanne Disotell,['50Deposit']
+obbligato-napa-valley,Pending,16d77263-4c3d-4e78-9a8e-175d78f77037,Nancy Reiter,"['NW-OB3WB', 'NW-OB1WB', 'NW-OB4TF', 'PC-OBVD23SW', 'NW-OB3WB', 'NW-OB3WB', 'NW-OB4TF', 'PC-OBVD23SW']"
+obbligato-napa-valley,Pending,f5005723-5611-497f-8360-1c6edf69a90f,Robert Fabian,"['PC-OBMD23S', 'PC-OBVD23SR', 'NW-OBWKF', 'PC-OBFL22MB', 'NW-OB6WB']"
+obbligato-napa-valley,Pending,db296d0e-8b27-4f33-9e5d-06f9ad337e35,Julie Knudsen,"['PC-OBFL22MB', 'NW-OBWKF', 'NW-OB6WB', 'CG-OBCH18RR']"
+obbligato-napa-valley,Pending,c4eab47b-83c4-49a4-8a21-fde76e3969d5,Linsey Pilkinton,"['NW-OBWKF', 'PC-OBFL22MB', 'NW-OB6WB', '50Deposit']"
+obbligato-napa-valley,Pending,c4eab47b-83c4-49a4-8a21-fde76e3969d5,Linsey Pilkinton,"['NW-OBWKF', 'PC-OBFL22MB', 'NW-OB6WB', '50Deposit']"
+obbligato-napa-valley,Pending,4c450147-dbbe-4ef8-ade3-c9e22b6cdae1,Sidney Jameson,"['NW-OB3WB', 'CG-OBRW18NV', 'CG-OBCH18RR']"
+obbligato-napa-valley,Pending,a36a0e0f-82f6-4fd3-8b22-6fd61774b557,Lynda Garbutt,['50Deposit']
+obbligato-napa-valley,Pending,7eedb075-bb58-4997-94cb-19093c5ced3d,Theresa Entrop,"['PC-OBFL223MP', '50Deposit']"
+obbligato-napa-valley,Pending,62429790-8c58-4644-a24e-744e5efd2c27,Janet Tidwell,"['PC-OBVD23SW', 'PC-OBHD22PPW']"
+obbligato-napa-valley,Pending,c4eab47b-83c4-49a4-8a21-fde76e3969d5,Linsey Pilkinton,"['NW-OBWKF', 'PC-OBFL22MB', 'NW-OB6WB', '50Deposit']"
+obbligato-napa-valley,Pending,83978a68-5d1c-4f33-b1b4-0b55a791cdbc,Margaret Torricelli,"['NW-OB1WB', 'PC-OBVD23SW', 'PC-OBVD23SW']"
+obbligato-napa-valley,Pending,87817984-f4a6-498b-af95-e7144bb8fcb2,Paula Tootle,['50Deposit']
+obbligato-napa-valley,Pending,91bb0a83-1ae1-40d2-ada0-33a0081d8747,Patty Schoepp,"['PC-FEWSP22NB', 'CG-FEWWW20NV', 'NW-OBWKF', 'NW-OB6WB', '50Deposit']"
+obbligato-napa-valley,Pending,be1eacf8-bf99-47f7-b302-380bd8f021da,Lynn Hatfield,['50Deposit']

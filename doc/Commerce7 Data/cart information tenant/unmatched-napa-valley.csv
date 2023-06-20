@@ -1,0 +1,35 @@
+tenant,status,customer_id,customer_name,Product Sku
+unmatched-napa-valley,Pending,18f8027b-3726-42d2-92e5-21012c206903,Sean Peradotto,"['PC-UNHD22SR', 'PC-UNBRUTGB']"
+unmatched-napa-valley,Pending,c312584d-788d-4012-8bbf-73c6e0f9732a,Melinda Bermont,"['UN2021WBOX', 'UN2019CHARD', 'UN2018BRUT', 'UNWINEKEYF', '50Deposit']"
+unmatched-napa-valley,Pending,af72b40b-812a-4f97-a0c9-815ff2efe3e7,Carlos Carpio,"['UNWINEKEYF', 'UN2021WBOX', 'BC3NAUTICAL', 'UN21FALLMIX', 'UN2021WBOX', 'UNWINEKEYF', '50Deposit']"
+unmatched-napa-valley,Pending,4fec26a1-9389-4ecb-a4cd-197c5d6b6ce0,Brian Dougherty,"['CG-UNRW18NV', 'UN2019CHARD', 'UNMIXGF']"
+unmatched-napa-valley,Pending,c1086779-4014-464b-bcdb-5d66b6cd02b3,PATRICIA LLOYD,['PC-UNHD22PD']
+unmatched-napa-valley,Pending,fa063899-26af-40b2-96d5-c742700343fa,Brianna Farbisz,"['CG-UNCS19NV', 'NW-UNCD', 'CG-UNCS19NV', 'NW-UN1WB']"
+unmatched-napa-valley,Pending,2010fefb-21b8-4b74-b879-a4bb4b84c992,Jennifer Bergendale,empty
+unmatched-napa-valley,Pending,fe21c290-efdb-4b71-8db0-8f6030ad05b2,Jorge Barragan,"['CG-UNSP18NV', 'NW-UN6WB', 'NW-UNWC', 'NW-UNSK', 'NW-UNBB', 'CG-UNWW20NV', 'NW-UNWKF', 'CG-UNPN20SB', 'CG-UNCH20RR', 'CG-UNSP18NV', 'NW-UN6WB', 'CG-UNCS19NV', 'UN2019CHARD', 'UNWINEKEYF', 'UN2018RED', 'CG-UNPN20SB', 'UN2021WBOX', 'UN2018BRUT', 'CG-UNCB20NV', '50Deposit']"
+unmatched-napa-valley,Pending,aaf4c050-ba48-4cdf-ab7c-819e47b4c376,Jordan Schmaltz,empty
+unmatched-napa-valley,Pending,debc6149-f4d2-4821-b9ee-e7c24f80a966,Alex Ramos,empty
+unmatched-napa-valley,Pending,6e90b180-b178-4d60-b18e-e1a9f64d9d49,Jeremy Pease,empty
+unmatched-napa-valley,Pending,edba887a-b02a-4384-935d-19d1310f3033,Marc Bray,empty
+unmatched-napa-valley,Pending,95c96fa2-c97e-4e53-b681-e4a3bf0f11f6,Arielle lewis,empty
+unmatched-napa-valley,Pending,4fec26a1-9389-4ecb-a4cd-197c5d6b6ce0,Brian Dougherty,"['CG-UNRW18NV', 'UN2019CHARD', 'UNMIXGF']"
+unmatched-napa-valley,Pending,93966f34-f9ee-4636-9420-e52d16f9d92f,Nicholas Eppler,"['NW-UN3WB', 'PC-UNFL223MP', 'PC-UNSP223MP', 'UNWINEKEY', 'UN3WBOX', 'PC-UNSP22MB', 'UN2021WBOX', 'PC-UNSP22RB', 'UNWINEKEYF', 'PC-UNSP22RB', 'UN2021WBOX', 'PC-UNSP22MB', 'UNWINEKEYF', '50Deposit']"
+unmatched-napa-valley,Pending,fe21c290-efdb-4b71-8db0-8f6030ad05b2,Jorge Barragan,"['CG-UNSP18NV', 'NW-UN6WB', 'NW-UNWC', 'NW-UNSK', 'NW-UNBB', 'CG-UNWW20NV', 'NW-UNWKF', 'CG-UNPN20SB', 'CG-UNCH20RR', 'CG-UNSP18NV', 'NW-UN6WB', 'CG-UNCS19NV', 'UN2019CHARD', 'UNWINEKEYF', 'UN2018RED', 'CG-UNPN20SB', 'UN2021WBOX', 'UN2018BRUT', 'CG-UNCB20NV', '50Deposit']"
+unmatched-napa-valley,Pending,f8af834c-128d-4ea9-a701-7e886fcf0570,Mike Longley,"['NW-UNWKF', 'PC-UNFL22MB', 'NW-UN6WB', 'NW-UN6WB', 'NW-UNWKF', 'PC-UNFL22MB', 'PC-UNSP22MB', 'UN2021WBOX', 'UNWINEKEYF', 'PC-UNSP22RB', 'UN2021WBOX', 'UNWINEKEYF', 'UN21FALLMIX', '50Deposit']"
+unmatched-napa-valley,Pending,ab6998fa-db77-4f89-b264-10ac293bd7de,Eneritz Eskandon,empty
+unmatched-napa-valley,Pending,309ab61f-385d-44e0-afb6-10c1f6c58622,Jaylene Jeanpierre,"['PC-UNHD22PP', 'PC-UNHD22PP', 'CG-UNRW19NV', 'CG-UNCH20RR', 'CG-UNSP18NV', 'NW-UN3WB']"
+unmatched-napa-valley,Pending,655b1476-c891-433d-85de-831f7803aa8b,Charles Bottoms,"['CG-UNCH19NV', 'CG-UNRW18NV', 'CG-UNSP18NV', 'NW-UNWKF', 'NW-UN3WB', 'PC-UNMIXGF']"
+unmatched-napa-valley,Pending,b145b3dc-f40e-4471-b1e5-b2283bb9f53a,Art De La Torre,"['NW-UNWC', 'NW-UNBB', 'NW-UNSK', 'CG-UNCS19NV', 'NW-UNSB', 'NW-UN6WB', 'CG-UNRW19NV', 'NW-UNWKF', 'NW-UN6WB', 'PC-UNFL22RB', 'CG-UNRW19NV']"
+unmatched-napa-valley,Pending,fa063899-26af-40b2-96d5-c742700343fa,Brianna Farbisz,"['CG-UNCS19NV', 'NW-UNCD', 'CG-UNCS19NV', 'NW-UN1WB']"
+unmatched-napa-valley,Pending,827f463a-3c6b-46a9-9e4d-0b7d640009b0,Justin Sarles,"['NW-UN6WB', 'NW-UNWKF', 'PC-UNFL22MB', '50Deposit']"
+unmatched-napa-valley,Pending,f78075db-0f9a-4f07-aad8-2c09e0fd8a0a,Brady DuPea,empty
+unmatched-napa-valley,Pending,424e42a0-80e2-4e0f-b67a-c7ab24a0c8c2,Alejandra Diaz,empty
+unmatched-napa-valley,Pending,4fec26a1-9389-4ecb-a4cd-197c5d6b6ce0,Brian Dougherty,"['CG-UNRW18NV', 'UN2019CHARD', 'UNMIXGF']"
+unmatched-napa-valley,Pending,59cac5b0-f4fa-4ab7-98bf-8781258da5c6,Maria Caraballo,"['CG-UNSP18NV', 'NW-UN6WB', 'NW-UNWKF', 'CG-UNRW19NV', 'CG-UNRW19NV', 'NW-UNWKF', 'CG-UNSP18NV', 'NW-UN6WB', 'PC-UNSP22RB', 'UN2021WBOX', 'PC-UNSP22MB', 'UNWINEKEYF', 'UN2021WBOX', 'UNWINEKEYF', 'UN21FALLMIX', '50Deposit']"
+unmatched-napa-valley,Pending,6bd80b14-3710-421a-b28b-4731d9792dd2,Jackie Bell,"['CG-UNCS19NV', 'CG-UNCH19NV', 'NW-UNWC', 'CG-UNWW20NV', 'NW-UNSK', 'NW-UNBB', 'CG-UNPN20SB', 'CG-UNRW18NV', 'NW-UN3WB', 'CG-UNSP18NV']"
+unmatched-napa-valley,Pending,7c8dbed6-8f27-4c38-a412-db8b6ef5c1ac,Rennie HEATH,"['NW-UNBB', 'NW-UNSB', 'NW-UNWC', 'NW-UN6WB', 'CG-UNCH19NV', 'CG-UNCS19NV', 'CG-UNSP18NV', 'NW-UNSK', 'NW-UNWKF', 'PC-UNFL22MB', 'NW-UN6WB', 'PC-UNSP22MB', 'PC-UNSP22RB', 'UNWINEKEYF', 'UN2021WBOX', 'UN21FALLMIX', 'UN2021WBOX', 'UNWINEKEYF', '50Deposit']"
+unmatched-napa-valley,Pending,af72b40b-812a-4f97-a0c9-815ff2efe3e7,Carlos Carpio,"['UNWINEKEYF', 'UN2021WBOX', 'BC3NAUTICAL', 'UN21FALLMIX', 'UN2021WBOX', 'UNWINEKEYF', '50Deposit']"
+unmatched-napa-valley,Pending,aa4c4827-d848-4858-9b61-ab273717da07,William Peterfriend,empty
+unmatched-napa-valley,Pending,4fdfc990-1b67-47ad-8f11-f915c2b6cd05,gina fuzy,"['CG-UNCS19NV', 'NW-UN6WB', 'CG-UNSP18NV', 'NW-UNSB', 'NW-UNWC', 'NW-UNBB', 'NW-UNSK', 'CG-UNCH19NV', 'PC-UNHD22UP', 'PC-UNHD22UP', 'CG-UNCB20NV', 'PC-UNALLBRUTGF', 'PC-UNREDGB', 'NW-UN8TF', 'CG-UNRW19NV']"
+unmatched-napa-valley,Pending,07f6f233-1b9c-4c94-abc3-ea60cce9eea0,Marco Sanmiguel,"['UN2021WBOX', 'UNWINEKEYF', 'PC-UNSP22RB', 'UN2021WBOX', 'UNWINEKEYF', 'UN21FALLRED', '50Deposit']"
+unmatched-napa-valley,Pending,fe21c290-efdb-4b71-8db0-8f6030ad05b2,Jorge Barragan,"['CG-UNSP18NV', 'NW-UN6WB', 'NW-UNWC', 'NW-UNSK', 'NW-UNBB', 'CG-UNWW20NV', 'NW-UNWKF', 'CG-UNPN20SB', 'CG-UNCH20RR', 'CG-UNSP18NV', 'NW-UN6WB', 'CG-UNCS19NV', 'UN2019CHARD', 'UNWINEKEYF', 'UN2018RED', 'CG-UNPN20SB', 'UN2021WBOX', 'UN2018BRUT', 'CG-UNCB20NV', '50Deposit']"

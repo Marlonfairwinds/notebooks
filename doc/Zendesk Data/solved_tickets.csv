@@ -1,0 +1,211 @@
+id,requester_id,submitter_id,created_at,subject,description,tags,channel,status,organization_id,priority,type
+30307,13093933001751,12896175066647,2023-05-29T18:46:23Z,Incoming call from new user at +12564884843,Ticket created by an incoming call from new user at +12564884843,['support'],api,,,low,incident
+30306,13093933001751,12896175066647,2023-05-29T18:45:56Z,Outgoing call to new user at +12564884843,Ticket created by an outgoing call to new user at +12564884843,['support'],api,,,low,incident
+30305,13093933001751,12896175066647,2023-05-29T18:41:30Z,Incoming call from new user at +12564884843,Ticket created by an incoming call from new user at +12564884843,['support'],api,,,low,incident
+30304,14918659633559,14918659633559,2023-05-29T15:47:13Z,Remote Desktop,"Good morning, can you help me please with the Remote Desktop activation.
+
+ 
+
+Thank you!
+
+ 
+
+Paola Ruano",['support'],email,,370381730214,normal,incident
+30303,1522985784421,1522985784421,2023-05-29T14:02:00Z,Black Friday is so last year - get 35% OFF now!,"( https://app.uptimerobot.com/billing/pricing/?coupon=better35&utm_source=newsletter&utm_medium=email&utm_campaign=23discount&utm_content=free-reminder35-2BFM-D )
+
+*Black Friday is so last year
+— get 35% OFF now!*
+
+Still waiting for your annual end-of-year treat? Black Friday is so last year: *grab a 35% discount on all UptimeRobot plans and seats right now.* But hurry— this sale ends tomorrow.
+
+Get 35% OFF ( https://app.uptimerobot.com/billing/pricing/?coupon=better35&utm_source=newsletter&utm_medium=email&utm_campaign=23discount&utm_content=free-reminder35-2BFM-D )
+
+Uptime Robot Service Provider Ltd.
+Regent House, Office 21, Bisazza Street, Sliema SLM1640, Malta
+
+Unsubscribe ( http://sgrlink.mail.uptimerobot.com/asm/unsubscribe/?user_id=33110304&data=6tYddeSHcs9k-EMz8UsOab1z_Srop2Hv6OavPOdAHT9oMDAwdTAwMEW9M7GeDTiVfkoNbyFuuXwtwnQ-7KbBDdUKwpmpgnq5wYNFYOWEAkto1pRst6MKqQbjFD2ZtRZ_OTo_5TPT4pKnNKHwDg8tgbfTZnipRiQaPQmXluDrWD6YNVh6MATJ9uNkEG6wcoczy0O5MiXiTkJEyqqMafFMJiPad8G6joTvfpEYwLe9CpS2DcAPg1TqpvqQ2OEE-xozjPSv5jUxozjRZ0p9Uyf89nxhQ_xH3qW7V2Huc_Lk0CL9r9x0az6d1QPsv3UsSV6UOS0arObBceGjRtegJuH6PsQmM-OLiccetgY7_YHcfE9iV9pTDKKg5_9VQfU3MfcC5w4d8y8_TaVQtLF9fWY-V3nPI5GWfMZ2vFicTJiBcMqttck4BhcJlB-mfqriN8zVP8eE3y_zAYhJR8Pf28hYrRLerERZI8vRgw93qKzLHn5mmnM1svvUtfH8gwx7lfsljiAVgY8BLWccsjDd9onCZouMkhw-hyExtm-xP1FxEeFlR7hBIOr83YeLFRbsL6hka0XXv8_prLhHWwkKTqM6lZSzCvxa6MhtyBCNPdcR7MmfZkneLqfCrjAVIaNAwbT4jgdMpEYAHLz047MTQFjLi8QbnEUkbbtXfGnwS2luWSJm3QRdY7L30zTglAdV1g0anZED6DjmGeMXD5RcZ_mOoxZE3RSAJvYCVQ9tSLtcnvaz8Rfpy2Q7UFyT_B9enPI-qu0XXAAfOBBbD3ZF5daesYkVkTU4t1hj3fGBGtfk_YmwpH0a3xsUfjNnOV85cnCtJzDmPZrGQw32O5YYWRwIgyenDr9qVI9yvVIdhO0M1b-ajB84vz3TTva2gyCOMzjPqAF8C9apacIcQr_ouu54tU04-UgglcspzncGegUs5REsZBK_by4TSw2DIJ_aVRi5zgLdkT5TvsG8AoQU9rH0OKxkJdJriop5JI9KB24pTKGWcv1eJosElqbQFKC9d2Qy8MiSfoutqnXr-Lq0MC83Z4Dwjh2-XOXuwV4Hzxz6uNQc1_CYM3QFI29cLWz8tffo3h07Bd3SAdYpiywQDjPO1hQ-TDN_f_CgWfHa1wRhK3a9bnzrdRrXIo6sCG7o7qkHqX38jy4US9FECRXnpCni7aHo7hmgX0c2sOpXRse_KinfFSnEDpz6kAVKEO8jb2Q5dibVqp_Bc0OiYBPl61L5FjYZQg12lIJqwyJi8dJ20BTG0xpnWNAH_2hIkEImVwnsXDzL3LwcXfw= ) | Email Preferences ( http://sgrlink.mail.uptimerobot.com/asm/?user_id=33110304&data=gds9omHfuZIVEHeIJ2TwxR5CHD8JdTGVbpvffvBrbj9oMDAwdTAwMDwWFsHoCUF00kEWzKBoXt63drgxL40g3N-MNNMRfR3TM0hO1h-pRr8PDn0B55J42XgK4dzS2NIMPO-zXQK0AMpBJ5q0QNJw0aLoBfAeUVw2C9vWREr7lvj5SC8TVic1Z0svFhZCd01KSXB3gi5QexSBfoeRyf-dzabBCDss2mGB_fDo5iqYX8cPBq_5stu-Lkqck_S3c9C-PI6IzrfVeT3cWuZUB9cn7irs6rooO5139p1CPnmU41FyKLijWAxrLiM6aC7JfmlBDMZcLWR28TbzOPlGDTqvc-GOlOyAQUx7LJ4lXbMOBo8IoEmdP4Nvo0zgXpV9Fb4pnTQttknb1FVvy2139hXWRD8I6BQkPXuh9AlJn0lTNonBKhw1OLG9sEnlNbCB2EHfWrQ39e-Jwj50Ror2mPXhe7X_2fh6mqKNXzNzOhwpVaUmgkqYfdMX98KeahvuStcOaKiqR9YeJIucXQNPH-U0l81DmjkAMv-igu_5JLfUhYeUvoTeRLtA6TlRfQLvKPKlzp3fw05fY84zdLGSDC2-Fn3ZZKmth8x7Y9qItjTJiV6QEugqS_ilOU9aCgnTrOmzdkwTLOAbfiBT3EZbkOYL_trjjNhpwB6WTeV0HgWfPs1iNYXrNgOZFo-MDZHFN6VmBAmUw-q8K-9F0jC94__Cqf7t4u4m524CUXL6sTofazANLD5aL-hk0zGdmKfWR4kxhSBtZrBjHHvhvTukWoAPthUjwmDOYFJqyEyDB-woiTwtOEZWWq_0EphK_nU7oqEXRY0BBGqjEGA5wXVYt025UytJHgrwZAl3hXDQK6ywRQ0Cc-RDT9QlsCEkD7IcqQea0DOYNx0jkYtE5zWpqgRya8yDqaNBUikW6qZ8D7VUjE0Alx50kThbpzTPGlISzgwD_EN0R60P1SNRZ1JyWCjJQxJGWfC4C9McB0YTEJlr0KHtHOkJqKjkDjSzKEJ5pIYUvkFx7Mwm-WjvC5rXiLNiptTRRo3Fyc7RinG4XNIbHTpb3LDL4EWl9ziqrGHkQKwQPr-URBXwPCYzAneh4-MS0HgrTrfPhB5W4YUsno5J0eWoKm9D7P45UVYlkqMddvpdIoZV1llfSx7J9hpR_PlZ1DzTn9cFn22aUpzR3pRtovPDONZ1mtN8YBbb0M-ukP1360XogyWJYbnRlGtvOhlfhfIQIi7x_mH0C3RU5nGLvxkXL8gJ_IQiEg== )",['support'],email,,370475959594,normal,incident
+30298,7917838270103,7917838270103,2023-05-26T16:46:07Z,Remote Desktop,"Good morning, can you help me please with the Remote Desktop activation for me and Paola please!
+
+Best,
+Kelvin",['support'],email,,1900028126905,normal,incident
+30297,8395397988887,8395397988887,2023-05-26T14:21:41Z,Mouse replacement,"Team,
+
+ 
+
+Ramon Hernandez is experiencing issues with his mouse, it disconnects randomly.
+
+ 
+
+Regards,
+
+ 
+
+ 
+
+Pablo Bonilla
+
+Team Lead
+
+https://osinearshore.com/
+
+pbonilla@osinearshore.com",['support'],email,,1900028126905,normal,incident
+30296,6663645356567,6663645356567,2023-05-26T14:09:54Z,Access on Backup,"Hi! Good morning.
+
+I was trying to download a folder and files from the backup. But it seems I don’t have complete access.
+
+When I select the folder or file, I don’t get the download button available. See attached.
+
+ 
+
+Can you help me please?
+
+ 
+
+ 
+
+Thank you,
+
+Celina",['support'],email,,370381730214,normal,incident
+30295,1920840828365,1920840828365,2023-05-25T21:40:11Z,Install Yealink USB Connect,"Hello,
+
+I need to install USB Connect/Yealink to manage my yealink headset, and it’s asking for admin credentials.
+
+Please help me out.
+
+Spot:59, 3rd floor.
+
+
+
+Sent from Mail<https://go.microsoft.com/fwlink/?LinkId=550986> for Windows",['support'],email,,1900028126905,normal,incident
+30294,1920839088105,1920839088105,2023-05-25T20:55:10Z,Microsoft 365 E3 License Request,"Hello Support!
+
+ 
+
+Please provided 2 licenses for Microsoft 365 E3 to also include 2 more licenses for Microsoft Defender for Office 365 (Plan 1).
+
+ 
+
+ 
+
+Stephen, please reply approved to this request.
+
+ 
+
+Thanks,
+
+ 
+
+Rose Crandall
+
+Chainbridge Solutions, Customer Technical Support Specialist
+
+571-572-0816
+
+12701 Fair Lakes Circle, Suite 300
+Fairfax, VA 22033
+
+http://www.chainbridgesolutions.com (http://www.chainbridgesolutions.com/)","['amc', 'notification']",email,,4831538242327,normal,incident
+30289,11569234328343,11569234328343,2023-05-25T18:30:45Z,Software update - Ringlogix - 4th floor Spots from 31 29 27 25 23,"Hi Team
+
+Hope this email finds you well. Could you please help me with the following request: Ringlogix team is having a new update on one of their apps but they required admin credentials to do it. Could you please help me checking with them? They are located on the
+4th floor Spots from 31 29 27 25 23
+
+Best regards
+
+[cid:2f7b5204-c387-400a-bfa4-d1ff90274a97]
+Fernando Montano
+Senior Supervisor
+http://osinearshore.com<http://osinearshore.com/>
+fmontano@osinearshore.com<mailto:fmontano@osinearshore.com>",['support'],email,,1900028126905,normal,incident
+30276,414343581014,414343581014,2023-05-24T23:37:36Z,Attrition > Jennifer Castro.,"Adriana López de Castillo | Recursos Humanos
+
+ES 2246-0239 7539-3328  US (714)-450-7719   alopez@osinearshore.com
+
+Edificio Avante 4-02 Urbanización Madreselva 3, Calle Llama del Bosque
+
+Ant. Cuscatlán, La Libertad, El Salvador C.A
+
+www.osinearshore.com (http://www.osinearshore.com/)",['support'],email,,370381673274,normal,incident
+30273,411375573513,411375573513,2023-05-24T20:20:00Z,"New / Add PST File to ""New Outlook"" Experience?","Hello,
+
+How can I 1) Create a new PST file and 2) Open a pre-existing PST file in the ""New Outlook"" experience?
+[cid:19eab646-842b-4245-830c-157c5077cc46]
+
+
+Thanks,
+
+Duane Mizell
+IT Coordinator
+
+REES
+Architecture Planning Interior Design
+9595 Six Pines Dr., Suite 6240 | Houston, TX 77380
+o 214 580 7162 | m 214 632 1044 | rees.com<http://www.rees.com>
+
+Message contents are confidential, proprietary property of Rees Associates, Inc. and protected by copyright law. This message is intended solely for the addressee(s) identified above and Rees Associates, Inc. makes no representation that this message is secure, error free or free from viruses.",['support'],email,,370403987173,normal,incident
+29933,411375573513,411375573513,2023-05-11T20:19:48Z,Azure Connection Went Down?,"Can you help me figure out why this happened? This connection shouldn’t be “Down” at all, EVER… Not sure what’s going on here, but at least one person lost connection to the VPN when this happened.
+
+ 
+
+Thanks,
+Duane Mizell
+Senior Associate / IT Manager
+
+REES
+Architecture Planning Interior Design
+9595 Six Pines Dr., Suite 6240 | The Woodlands, TX 77380 
+o 214 580 7162 | m 214 632 1044 | rees.com (http://www.rees.com)
+
+
+Message contents are confidential, proprietary property of REES and protected by copyright law. This message is intended solely for the addressee(s) identified above and REES makes no representation that this message is secure, error free or free from viruses.
+
+-- Forwarded part --
+
+<https://vco150-usca1.velocloud.net/img/vc_logo_local_big.png>
+(EDGE_DOWN)
+
+Customer: Rees Associates
+
+Edge - Rees - Azure Velo Hub is not communicating with the Orchestrator.
+
+Alert Triggered:        Thu 3:00:15 PM (CDT) 2023-05-11
+Last Contact:   Thu 2:58:03 PM (CDT) 2023-05-11
+
+Link ISP (1)    IP      Last Active
+Microsoft Azure  20.97.4.100<https://urldefense.proofpoint.com/v2/url?u=http-3A__20.97.4.100&d=DwQFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=Np4KVaGVq0r9_X84Ku8mUC8Q4nBzpdXOFP7SoH0PssM&m=kIpB--GaoTdun938pIhi2wqvkL0Hc28qgzHxJP47m-s&s=jhswAvwBZV6cT0ABDrwmA7myKdJSro-BkNtM9vW2vZc&e=>        Thu 3:01:29 PM (CDT) 2023-05-11
+
+<https://urldefense.proofpoint.com/v2/url?u=https-3A__vco150-2Dusca1.velocloud.net&d=DwMFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=Np4KVaGVq0r9_X84Ku8mUC8Q4nBzpdXOFP7SoH0PssM&m=kIpB--GaoTdun938pIhi2wqvkL0Hc28qgzHxJP47m-s&s=U8GKGbYF6CTeOJu0xtAKK1rcbw3BcCIHnKV8pJQqAx0&e=>https://vco150-usca1.velocloud.net<https://urldefense.proofpoint.com/v2/url?u=https-3A__vco150-2Dusca1.velocloud.net&d=DwQFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=Np4KVaGVq0r9_X84Ku8mUC8Q4nBzpdXOFP7SoH0PssM&m=kIpB--GaoTdun938pIhi2wqvkL0Hc28qgzHxJP47m-s&s=U8GKGbYF6CTeOJu0xtAKK1rcbw3BcCIHnKV8pJQqAx0&e=>
+
+© 2023 VMware. All rights reserved.
+
+
+
+
+
+  _____
+
+This email has been scanned for spam and viruses by Proofpoint Essentials. Click here<https://us2.proofpointessentials.com/index01.php?mod_id=11&mod_option=logitem&mail_id=1683835524-VaHx3BsZw_o2&r_address=informationtechnology%40rees.com&report=1> to report this email as spam.
+
+-- Forwarded part --
+
+<https://vco150-usca1.velocloud.net/img/vc_logo_local_big.png>
+(EDGE_UP)
+
+Customer: Rees Associates
+
+Edge - Rees - Azure Velo Hub is up and communicating normally.
+
+Alert Triggered:        Thu 3:12:45 PM (CDT) 2023-05-11
+Last Contact:   Thu 3:12:16 PM (CDT) 2023-05-11
+
+<https://urldefense.proofpoint.com/v2/url?u=https-3A__vco150-2Dusca1.velocloud.net&d=DwMFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=Np4KVaGVq0r9_X84Ku8mUC8Q4nBzpdXOFP7SoH0PssM&m=7bWU_dXSPlK2RRuNjo3RC8eXpXsKO6HCKPayu1z4Pyk&s=P7Q9dtbPTTeYk6w0UnZpFure9DDh3u7T2IJIC5mu_Sg&e=>https://vco150-usca1.velocloud.net<https://urldefense.proofpoint.com/v2/url?u=https-3A__vco150-2Dusca1.velocloud.net&d=DwQFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=Np4KVaGVq0r9_X84Ku8mUC8Q4nBzpdXOFP7SoH0PssM&m=7bWU_dXSPlK2RRuNjo3RC8eXpXsKO6HCKPayu1z4Pyk&s=P7Q9dtbPTTeYk6w0UnZpFure9DDh3u7T2IJIC5mu_Sg&e=>
+
+© 2023 VMware. All rights reserved.
+
+
+
+
+
+  _____
+
+This email has been scanned for spam and viruses by Proofpoint Essentials. Click here<https://us2.proofpointessentials.com/index01.php?mod_id=11&mod_option=logitem&mail_id=1683836036-TuUmTyZztcfh&r_address=informationtechnology%40rees.com&report=1> to report this email as spam.",['support'],email,,370403987173,normal,incident

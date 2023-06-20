@@ -1,0 +1,1271 @@
+ID,Subject,Status,Created At,Organization ID,Address,Name,Ticket Description
+29834,VMware vSphere ESXi 7.0 - SR 23426089704 - Upgrade ESXI to V7.03 [ ref:_00Df43u6t._5005G1Xprr7:ref ],closed,2023-05-03T16:42:07Z,,webform@vmware.com,VMware Technical Support,"Hello Team ,
+Greetings of the Day !
+Here is the summary of the call that we had ,
+
+- Found the vCenter patches were failing due to /storage/log and /storage/core partition being full .
+
+- Followed this KB for deleting the log partition -https://kb.vmware.com/s/article/83070?lang=en_US
+
+- Also for clearing the /storage/core partition , followed this -https://kb.vmware.com/s/article/81327?lang=en_US
+
+- Cleared the .core files using rm -rf core.*
+Hope to hear from you soon  regarding the update of the vCenter , and how will we move accordingly .
+
+--
+Suryansh Gupta
+Technical Support Engineer
+Global Support Services, VMware Inc.
+Office Hours:8:0AM-5:00PM(EST)
+
+If you wish to provide feedback on the quality of support provided, please contact my direct manager, Archana Kulkarni, at kulkarniarch@vmware.com. Satisfied customers are our top priority.
+
+Get alerts on new and updated VMware Security Advisories by subscribing here
+
+VMware Skyline Health Diagnostics (SHD): A joint initiative between VMware support and engineering teams; a tool that analyses log files to detect known issues and recommend solutions/KBs.
+
+Check out details:https://blogs.vmware.com/vsphere/2020/09/introducing-vmware-skyline-health-diagnostic-tool.html
+
+Review your Support Requests Online by Logging in at: https://customerconnect.vmware.com/
+
+
+
+ref:_00Df43u6t._5005G1Xprr7:ref
+
+Hello {{ticket.requester.name}}
+
+Thank you for reaching out, your request ticket ID is: ({{ticket.id}}). 
+
+One of our support agents will reply as soon as possible. We're going to do everything we can to resolve this issue. 
+
+If it's an emergency, you can contact us by phone at Toll Free 844-944-6934 or Live support: 415-444-9900
+
+{{ticket.comments_formatted}}
+
+To add additional comments, reply to this email.
+
+Dimension4
+Support Email: support@myd4.com 
+Toll-Free: 844-944-MYD4 (6934)
+Live Support: 415-444-9900
+
+{""ticketRequesterName"":""{{ticket.requester.name}}"",""ticketGroupName"":""{{ticket.group.name}}"",""ticketOrganizationName"":""{{ticket.organization.name}}"",""ticketId"":""{{ticket.id}}""}
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+You have been assigned to this ticket (#{{ticket.id}}).
+
+Company: {{ticket.organization.name}}
+Ticket comment: {{ticket.comments_formatted}}
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+Request #29812 ""VMware vSphere ESXi 7.0 - SR 234..."" was closed and merged into this request. Last comment in request #29812:
+
+Can we schedule a time this coming Wednesday 3rd, at 11 am EST?
+
+
+
+please send the invite to everyone copied in this email.
+
+* * *
+
+Your request ({{ticket.id}}) has been updated. To add additional comments, reply to this email.
+
+{{ticket.comments_formatted}}
+
+Dimension4
+Support Email: support@myd4.com 
+Toll-Free: 844-944-MYD4 (6934)
+Live Support: 415-444-9900
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+Your request ({{ticket.id}}) has been updated. To add additional comments, reply to this email.
+
+{{ticket.comments_formatted}}
+
+Dimension4
+Support Email: support@myd4.com 
+Toll-Free: 844-944-MYD4 (6934)
+Live Support: 415-444-9900
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+Hello Suryansh,
+
+So, we will attempt to update the ESXi from 7.02 to 7.03 as well, but the steps you sent last time were very confusing. Is there a way that we can update the ESXi from the GUI or does it have to be done from the CLI?
+
+If so, the steps last time mentioned something about Bootbank not pointing to tmp?  Also, it said something about uploading a ZIP file? those are the things that I would like to get clarification.
+
+Regards,
+
+Christian H.
+
+Hi {{ticket.requester.first_name}}
+
+I hope all is well! I just wanted to check in and see if you have been able to make any progress with the request in the ticket: (#{{ticket.id}}) 
+
+To maintain consistent service levels for all our clients, we close tickets after seven business days when we await an answer. 
+
+If you want live support from our support team, please call us at 844-944-6934 or reply to this email, and we will contact you.
+
+This request was closed and merged into request #29923 ""VMware vSphere ESXi 7.0 - SR 234..."".
+
+Your request ({{ticket.id}}) has been updated. To add additional comments, reply to this email.
+
+{{ticket.comments_formatted}}
+
+Dimension4
+Support Email: support@myd4.com 
+Toll-Free: 844-944-MYD4 (6934)
+Live Support: 415-444-9900
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+"
+29866,Re : Website Re-design and SEO Request for Proposal : dimension4.com,closed,2023-05-06T07:01:51Z,,craig.southen@globalgns.com,Craig Southen,"Hi **dimension4.com**
+
+I hope you are doing well there.
+
+I was just browsing your **dimension4.com**  and I came up with a great plan to re-develop your **dimension4.com** using the latest technology to generate additional revenue and beat your opponents.
+
+Please let us know if you are **interested **so that I would be happy to share our Work Portfolio, Client testimonials, and Service Packages.
+
+**You can share your Phone/WhatsApp number to reach out directly for more discussion.**
+
+Looking forward to hearing from you.
+
+
+
+Regards,
+
+**Craig Southen,**
+
+Web Developer
+
+-----------------------------------------------
+
+Note: If you are not interested, please
+
+Click here to **unsubscribe **
+
+ ![beacon](https://globalgns-dot-yamm-track.appspot.com/2QJGZ8zD_R20gjSt13eSeze9INZ8to2gWKgr1gZvN1XgasN3vhwH5q0ChPjPKCdYGq3nocjx6_3dXTYwcC613cgI8tJ-3sCCzkHdK6eCNq6ynfmX1HOqZ7EYmCfEOTm7YjKl4D5dQG9nCovlHtQg_9SwK5jaX98rHPs8uUfKS)
+
+Hello {{ticket.requester.name}}
+
+Thank you for reaching out, your request ticket ID is: ({{ticket.id}}). 
+
+One of our support agents will reply as soon as possible. We're going to do everything we can to resolve this issue. 
+
+If it's an emergency, you can contact us by phone at Toll Free 844-944-6934 or Live support: 415-444-9900
+
+{{ticket.comments_formatted}}
+
+To add additional comments, reply to this email.
+
+Dimension4
+Support Email: support@myd4.com 
+Toll-Free: 844-944-MYD4 (6934)
+Live Support: 415-444-9900
+
+[{{ticket.account}}] Re: {{ticket.title}}
+
+Ticket Assignee: {{ticket.assignee.name}},
+
+This ticket (#{{ticket.id}}) has been updated, make sure to review it.
+
+Ticket Comments: {{ticket.comments_formatted}}
+Ticket Description: {{ticket.description}}
+
+A ticket (#{{ticket.id}}) by {{ticket.requester.name}} has been received. It is unassigned.
+
+Company account: {{ticket.organization.name}}
+
+{{ticket.comments_formatted}}
+
+{""ticketRequesterName"":""{{ticket.requester.name}}"",""ticketGroupName"":""{{ticket.group.name}}"",""ticketOrganizationName"":""{{ticket.organization.name}}"",""ticketId"":""{{ticket.id}}""}
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+Dear {{ticket.requester.first_name}} {{ticket.requester.last_name}}
+
+We have completed and closed your request related to Support Ticket {{ticket.id}} {{ticket.external_id}}
+
+If you feel this ticket should not be closed, please reply to this email and a help desk representative will contact you. 
+
+If you have any questions or wish to update information related to this support ticket, simply reply to this email or call us at 415-444-9900 option 2. 
+
+Support Email: support@myd4.com
+Live Support: 415-444-9900
+Toll Free: 844-944-MYD4 
+___________________________________________________________________________
+
+Ticket History : 
+
+{{ticket.comments_formatted}}
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+"
+29823,FW: CBSSD-174 MS Project License Has Expired,closed,2023-05-02T15:15:16Z,4831538242327.0,sbailey@chainbridgesolutions.com,Stephen Bailey,"Hi, this person lost her Microsoft Project subscription suddenly. I don’t see the license in the portal to re-assign it. Could you correct this and tell me what happened?
+
+
+
+**From:**Roneice Boggerson 
+**Date:** Tuesday, May 2, 2023 at 9:48 AM
+**To:** helpdesk@chainbridge.atlassian.net 
+**Cc:** Stephen Bailey , Ramona Hinckley , Rose Crandall 
+**Subject:** RE: CBSSD-174 MS Project License Has Expired
+
+Good Morning,
+
+
+
+This is what I am seeing. Can you please assist me?
+
+
+
+
+
+![](https://myd4.zendesk.com/attachments/token/5E7jdQoG9WkzNLDktGpOREED1/?name=image001.png)
+
+
+
+Roneice Boggerson, Project Manager
+
+Chainbridge Solutions, Inc., an 8(a) Certified WOSB
+
+m. 202.468.1125 | www.chainbridgesolutions.com
+
+
+
+**From:** Chainbridge Solutions Service Desk 
+**Sent:** Tuesday, May 2, 2023 9:44 AM
+**To:** Roneice Boggerson 
+**Subject:** CBSSD-174 MS Project License Has Expired
+
+
+
+—-—-—-—
+
+Reply above this line.
+
+Hello,
+
+Thank you for your ticket. A tech will be reaching out shortly!
+
+View request · Turn off this request's notifications
+
+This is shared with Roneice Boggerson.
+
+Powered by Jira Service Management
+
+Sent on May 2, 2023 9:43:37 AM EDT
+
+Hello {{ticket.requester.name}}
+
+Thank you for reaching out, your request ticket ID is: ({{ticket.id}}). 
+
+One of our support agents will reply as soon as possible. We're going to do everything we can to resolve this issue. 
+
+If it's an emergency, you can contact us by phone at Toll Free 844-944-6934 or Live support: 415-444-9900
+
+{{ticket.comments_formatted}}
+
+To add additional comments, reply to this email.
+
+Dimension4
+Support Email: support@myd4.com 
+Toll-Free: 844-944-MYD4 (6934)
+Live Support: 415-444-9900
+
+[{{ticket.account}}] Re: {{ticket.title}}
+
+Ticket Assignee: {{ticket.assignee.name}},
+
+This ticket (#{{ticket.id}}) has been updated, make sure to review it.
+
+Ticket Comments: {{ticket.comments_formatted}}
+Ticket Description: {{ticket.description}}
+
+A ticket (#{{ticket.id}}) by {{ticket.requester.name}} has been received. It is unassigned.
+
+Company account: {{ticket.organization.name}}
+
+{{ticket.comments_formatted}}
+
+{""ticketRequesterName"":""{{ticket.requester.name}}"",""ticketGroupName"":""{{ticket.group.name}}"",""ticketOrganizationName"":""{{ticket.organization.name}}"",""ticketId"":""{{ticket.id}}""}
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+You have been assigned to this ticket (#{{ticket.id}}).
+
+Company: {{ticket.organization.name}}
+Ticket comment: {{ticket.comments_formatted}}
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+Hello Stephen,
+
+Thanks for contacting support. We are currently working on your request once we are done we will let you know.
+
+Regarding the issue:  I couldn't find the license that he had before in your subscriptions (Please see screenshots below)
+
+ ![](https://myd4.zendesk.com/attachments/token/HlV8nbyCN38T1o7JLgnQsDn4s/?name=image.png)
+Also, how did Roneice get his license; was it purchased through us, or was it purchased directly from Microsoft?
+
+I'll be waiting on your reply.
+
+Regards
+Josue Pineda
+
+![](https://s1g.s3.amazonaws.com/6bd1944f02441844c121a7081c770960.png)
+
+
+Support Email support@myd4.com
+Contact number +1 844-944-6934
+Live Support +1 415-444-9900
+
+Your request ({{ticket.id}}) has been updated. To add additional comments, reply to this email.
+
+{{ticket.comments_formatted}}
+
+Dimension4
+Support Email: support@myd4.com 
+Toll-Free: 844-944-MYD4 (6934)
+Live Support: 415-444-9900
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+Josue,
+
+Please see attached emails with the original request back in October, as well as another time her license ‘disappeared’.
+
+
+
+Stephen
+
+Hello {{ticket.assignee.name}},
+
+This ticket (#{{ticket.id}}) has been updated, make sure to review it.
+
+Ticket Comments: {{ticket.comments_formatted}}
+Ticket Description: {{ticket.description}}
+
+[{{ticket.account}}] Re: {{ticket.title}}
+
+Ticket Assignee: {{ticket.assignee.name}},
+
+This ticket (#{{ticket.id}}) has been updated, make sure to review it.
+
+Ticket Comments: {{ticket.comments_formatted}}
+Ticket Description: {{ticket.description}}
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+Thanks for sharing this information,
+
+I will check this with the proper team. You are entirely correct. We add to your tenant one project license.
+
+By any chance, did you make any request to cancel or remove any project license? Because I saw from the previous ticket that you just to have more than one license.?
+
+Regards
+
+![](https://s1g.s3.amazonaws.com/6bd1944f02441844c121a7081c770960.png)
+
+
+Support Email support@myd4.com
+Contact number +1 844-944-6934
+Live Support +1 415-444-9900
+
+Your request ({{ticket.id}}) has been updated. To add additional comments, reply to this email.
+
+{{ticket.comments_formatted}}
+
+Dimension4
+Support Email: support@myd4.com 
+Toll-Free: 844-944-MYD4 (6934)
+Live Support: 415-444-9900
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+There has been no request to cancel.
+
+
+
+Thanks,
+
+Rose
+
+Hello {{ticket.assignee.name}},
+
+This ticket (#{{ticket.id}}) has been updated, make sure to review it.
+
+Ticket Comments: {{ticket.comments_formatted}}
+Ticket Description: {{ticket.description}}
+
+[{{ticket.account}}] Re: {{ticket.title}}
+
+Ticket Assignee: {{ticket.assignee.name}},
+
+This ticket (#{{ticket.id}}) has been updated, make sure to review it.
+
+Ticket Comments: {{ticket.comments_formatted}}
+Ticket Description: {{ticket.description}}
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+Ok,
+
+Thanks, Allow me a few minutes to verify what happened and why the license was removed. I want to avoid adding the license again and, by mistake, double charge you with this. So I prefer to talk to the correct department.
+
+Regards
+Josue Pineda
+
+![](https://s1g.s3.amazonaws.com/6bd1944f02441844c121a7081c770960.png)
+
+
+Support Email support@myd4.com
+Contact number +1 844-944-6934
+Live Support +1 415-444-9900
+
+Your request ({{ticket.id}}) has been updated. To add additional comments, reply to this email.
+
+{{ticket.comments_formatted}}
+
+Dimension4
+Support Email: support@myd4.com 
+Toll-Free: 844-944-MYD4 (6934)
+Live Support: 415-444-9900
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+Hello Stephen,
+
+Sorry for the long delay in answering this request.
+
+Please see what they said to me:
+
+Edwin explained that during the transition of your new licenses, this one had a monthly commitment and he removed it from your tenant, once the license is removed, Microsoft does not charge you for it, the user could have been able to use the features without the license in his profile that's is known as grace period.
+
+If you need me to add the license I can do that for you.
+
+Please let me know.
+
+Regards
+Josue Pineda
+
+![](https://s1g.s3.amazonaws.com/6bd1944f02441844c121a7081c770960.png)
+
+
+Support Email support@myd4.com
+Contact number +1 844-944-6934
+Live Support +1 415-444-9900
+
+Your request ({{ticket.id}}) has been updated. To add additional comments, reply to this email.
+
+{{ticket.comments_formatted}}
+
+Dimension4
+Support Email: support@myd4.com 
+Toll-Free: 844-944-MYD4 (6934)
+Live Support: 415-444-9900
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+Yes please add it, assigned to Roneice Boggerson.
+
+Hello {{ticket.assignee.name}},
+
+This ticket (#{{ticket.id}}) has been updated, make sure to review it.
+
+Ticket Comments: {{ticket.comments_formatted}}
+Ticket Description: {{ticket.description}}
+
+[{{ticket.account}}] Re: {{ticket.title}}
+
+Ticket Assignee: {{ticket.assignee.name}},
+
+This ticket (#{{ticket.id}}) has been updated, make sure to review it.
+
+Ticket Comments: {{ticket.comments_formatted}}
+Ticket Description: {{ticket.description}}
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+Hello Stephen,
+
+Sorry for the delay. Please see screenshots below.
+
+ ![](https://myd4.zendesk.com/attachments/token/U54YgWbvQS7wcG4AHM4yMpuaC/?name=image.png)
+
+The license was added.
+
+Regards
+Josue Pineda
+
+![](https://s1g.s3.amazonaws.com/6bd1944f02441844c121a7081c770960.png)
+
+
+Support Email support@myd4.com
+Contact number +1 844-944-6934
+Live Support +1 415-444-9900
+
+Your request ({{ticket.id}}) has been updated. To add additional comments, reply to this email.
+
+{{ticket.comments_formatted}}
+
+Dimension4
+Support Email: support@myd4.com 
+Toll-Free: 844-944-MYD4 (6934)
+Live Support: 415-444-9900
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+Hello Stephen
+
+We have completed the license(s) request modification; please see below the details of the changes made to your tenant subscriptions:
+
+*Added  <1> (Include term Monthly)
+
+_*** Keep in mind Yearly Licenses cannot be reduced and monthly licenses only at the beginning of a new month. **_
+
+------------------------------------------------------
+
+Previous License count: 0
+
+New License count: 1
+
+Changes will be reflected on your next invoice,
+
+If you have further questions, please let us know.
+
+
+![](https://s1g.s3.amazonaws.com/6bd1944f02441844c121a7081c770960.png)
+
+
+Support Email support@myd4.com
+Contact number +1 844-944-6934
+Live Support +1 415-444-9900
+
+Your request ({{ticket.id}}) has been updated. To add additional comments, reply to this email.
+
+{{ticket.comments_formatted}}
+
+Dimension4
+Support Email: support@myd4.com 
+Toll-Free: 844-944-MYD4 (6934)
+Live Support: 415-444-9900
+
+Dear {{ticket.requester.first_name}} {{ticket.requester.last_name}}
+
+We have completed and closed your request related to Support Ticket {{ticket.id}} {{ticket.external_id}}
+
+If you feel this ticket should not be closed, please reply to this email and a help desk representative will contact you. 
+
+If you have any questions or wish to update information related to this support ticket, simply reply to this email or call us at 415-444-9900 option 2. 
+
+Support Email: support@myd4.com
+Live Support: 415-444-9900
+Toll Free: 844-944-MYD4 
+___________________________________________________________________________
+
+Ticket History : 
+
+{{ticket.comments_formatted}}
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+{{ticket.title}}
+{{ticket.description}}
+{{ticket.external_id}}
+{{ticket.comments_formatted}}
+
+{{ticket.title}}
+{{ticket.description}}
+{{ticket.external_id}}
+{{ticket.comments_formatted}}
+
+Hi Josue,
+
+The user is telling me that she can’t download the Microsoft Project client application, but she could before. I looked up an old invoice and it was definitely Project Plan 1. What should she do?
+
+
+
+Stephen
+
+Hello, 
+
+This ticket (#{{ticket.id}}) has been reopened, Ticket Id# {{ticket.id}}
+
+{{ticket.comments_formatted}}
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+Hi Stephen,
+
+Sorry to hear that the user cannot download the application into his computer. Do you have the user close so we can do a remote session and download the application?
+
+Regards
+Josue Pineda
+
+![](https://s1g.s3.amazonaws.com/6bd1944f02441844c121a7081c770960.png)
+
+
+Support Email support@myd4.com
+Contact number +1 844-944-6934
+Live Support +1 415-444-9900
+
+Your request ({{ticket.id}}) has been updated. To add additional comments, reply to this email.
+
+{{ticket.comments_formatted}}
+
+Dimension4
+Support Email: support@myd4.com 
+Toll-Free: 844-944-MYD4 (6934)
+Live Support: 415-444-9900
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+Also can you try the following link please: https://admin.microsoft.com/OLS/MySoftware.aspx
+
+And let me know please.
+
+Regards
+Josue Pineda
+
+![](https://s1g.s3.amazonaws.com/6bd1944f02441844c121a7081c770960.png)
+
+
+Support Email support@myd4.com
+Contact number +1 844-944-6934
+Live Support +1 415-444-9900
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+Your request ({{ticket.id}}) has been updated. To add additional comments, reply to this email.
+
+{{ticket.comments_formatted}}
+
+Dimension4
+Support Email: support@myd4.com 
+Toll-Free: 844-944-MYD4 (6934)
+Live Support: 415-444-9900
+
+She clicked and all she sees is this:
+ ![image](https://myd4.zendesk.com/attachments/token/hq8RHfVXJrxa3gYq0oFaBMJZE/?name=image001%5B45%5D.png)
+
+
+
+What do you need for her to do a remote session?
+
+Hello {{ticket.assignee.name}},
+
+This ticket (#{{ticket.id}}) has been updated, make sure to review it.
+
+Ticket Comments: {{ticket.comments_formatted}}
+Ticket Description: {{ticket.description}}
+
+[{{ticket.account}}] Re: {{ticket.title}}
+
+Ticket Assignee: {{ticket.assignee.name}},
+
+This ticket (#{{ticket.id}}) has been updated, make sure to review it.
+
+Ticket Comments: {{ticket.comments_formatted}}
+Ticket Description: {{ticket.description}}
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+Let me remove and add her license again so we can troubleshoot.
+
+![](https://s1g.s3.amazonaws.com/6bd1944f02441844c121a7081c770960.png)
+
+
+Support Email support@myd4.com
+Contact number +1 844-944-6934
+Live Support +1 415-444-9900
+
+Your request ({{ticket.id}}) has been updated. To add additional comments, reply to this email.
+
+{{ticket.comments_formatted}}
+
+Dimension4
+Support Email: support@myd4.com 
+Toll-Free: 844-944-MYD4 (6934)
+Live Support: 415-444-9900
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+Can you please try to download it from here.
+
+What I did I download the installer from my profile since I have it so you can install it and sign in with her Microsoft Account.
+
+Regards
+Josue Pineda
+
+![](https://s1g.s3.amazonaws.com/6bd1944f02441844c121a7081c770960.png)
+
+
+Support Email support@myd4.com
+Contact number +1 844-944-6934
+Live Support +1 415-444-9900
+
+Your request ({{ticket.id}}) has been updated. To add additional comments, reply to this email.
+
+{{ticket.comments_formatted}}
+
+Dimension4
+Support Email: support@myd4.com 
+Toll-Free: 844-944-MYD4 (6934)
+Live Support: 415-444-9900
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+Hello Josue,
+
+
+
+The license provided Project Plan 1,is only for the Online Version. Previously this version did enable the use of the Desktop Project application. Please investigate and let us know the cost for the appropriate license to enable the use the Desktop Project Application. Roneice is still unable to use the desktop application, see error message below.
+
+
+
+![](https://myd4.zendesk.com/attachments/token/WKQRHkcMlmI0Qh4tJLJY7tJSo/?name=image001.png)
+
+
+
+Thanks,
+
+Rose
+
+Hello {{ticket.assignee.name}},
+
+This ticket (#{{ticket.id}}) has been updated, make sure to review it.
+
+Ticket Comments: {{ticket.comments_formatted}}
+Ticket Description: {{ticket.description}}
+
+[{{ticket.account}}] Re: {{ticket.title}}
+
+Ticket Assignee: {{ticket.assignee.name}},
+
+This ticket (#{{ticket.id}}) has been updated, make sure to review it.
+
+Ticket Comments: {{ticket.comments_formatted}}
+Ticket Description: {{ticket.description}}
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+Hi {{ticket.requester.first_name}}
+
+I hope all is well! I just wanted to check in and see if you have been able to make any progress with the request in the ticket: (#{{ticket.id}}) 
+
+To maintain consistent service levels for all our clients, we close tickets after seven business days when we await an answer. 
+
+If you want live support from our support team, please call us at 844-944-6934 or reply to this email, and we will contact you.
+
+Hello Stephen,
+
+Sorry for the delay in answering your request. I was checking the lincese that we added to your account, and that is actually the correct license, let me share with you the versions that we have available.
+ ![](https://myd4.zendesk.com/attachments/token/oW8eAVGYUUOPM7k0qa8tiHzfr/?name=image.png)
+
+Regarding the user not being able to activate the plan. Can we set up a meeting to do a remote session so we can activate the product,
+
+Regards
+Josue Pineda
+
+![](https://s1g.s3.amazonaws.com/6bd1944f02441844c121a7081c770960.png)
+
+
+Support Email support@myd4.com
+Contact number +1 844-944-6934
+Live Support +1 415-444-9900
+
+Your request ({{ticket.id}}) has been updated. To add additional comments, reply to this email.
+
+{{ticket.comments_formatted}}
+
+Dimension4
+Support Email: support@myd4.com 
+Toll-Free: 844-944-MYD4 (6934)
+Live Support: 415-444-9900
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+User is out sick today. @Rose Crandall please coordinate when Roneice returns.
+
+Hello {{ticket.assignee.name}},
+
+This ticket (#{{ticket.id}}) has been updated, make sure to review it.
+
+Ticket Comments: {{ticket.comments_formatted}}
+Ticket Description: {{ticket.description}}
+
+[{{ticket.account}}] Re: {{ticket.title}}
+
+Ticket Assignee: {{ticket.assignee.name}},
+
+This ticket (#{{ticket.id}}) has been updated, make sure to review it.
+
+Ticket Comments: {{ticket.comments_formatted}}
+Ticket Description: {{ticket.description}}
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+Hello Josue,
+
+
+
+Have you investigated if this enables the Desktop Application, I was able to confirm with the user that the desktop version is not available with the license applied, user is only able to access the online version in the Microsoft portal. What does the full description state, that was not expanded below.  Please see the attached error message, still says to assign license. I have made sure the user signed out and back in.
+
+
+
+![](https://myd4.zendesk.com/attachments/token/0ApczCOsOHBEbtBQEe89FRsHY/?name=image002.png)
+
+Thanks,
+
+Rose
+
+
+
+**From:** Stephen Bailey 
+**Sent:** Monday, May 8, 2023 10:05 AM
+**To:** Support ; Rose Crandall 
+**Cc:** Roneice Boggerson 
+**Subject:** Re: FW: CBSSD-174 MS Project License Has Expired for ticket ID: 29823
+
+
+
+User is out sick today. @Rose Crandall please coordinate when Roneice returns.
+
+Hello {{ticket.assignee.name}},
+
+This ticket (#{{ticket.id}}) has been updated, make sure to review it.
+
+Ticket Comments: {{ticket.comments_formatted}}
+Ticket Description: {{ticket.description}}
+
+[{{ticket.account}}] Re: {{ticket.title}}
+
+Ticket Assignee: {{ticket.assignee.name}},
+
+This ticket (#{{ticket.id}}) has been updated, make sure to review it.
+
+Ticket Comments: {{ticket.comments_formatted}}
+Ticket Description: {{ticket.description}}
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+Hello Stephen & Rose,
+
+Sorry for the delay in answering this request. Also, I apologize for the wrong information that I provided. I was double-checking and talking with the licensing team, and they informed me that you could only install Project with Plans 3 and 5; Plan 3 will cost only a 10-dollar increase cost.
+
+Please let me know if you decide to move from Plan 1 to 3
+
+Regards
+Josue Pineda
+
+![](https://s1g.s3.amazonaws.com/6bd1944f02441844c121a7081c770960.png)
+
+
+Support Email support@myd4.com
+Contact number +1 844-944-6934
+Live Support +1 415-444-9900
+
+Your request ({{ticket.id}}) has been updated. To add additional comments, reply to this email.
+
+{{ticket.comments_formatted}}
+
+Dimension4
+Support Email: support@myd4.com 
+Toll-Free: 844-944-MYD4 (6934)
+Live Support: 415-444-9900
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+Josue, is that another $10/month increase?
+
+Hello {{ticket.assignee.name}},
+
+This ticket (#{{ticket.id}}) has been updated, make sure to review it.
+
+Ticket Comments: {{ticket.comments_formatted}}
+Ticket Description: {{ticket.description}}
+
+[{{ticket.account}}] Re: {{ticket.title}}
+
+Ticket Assignee: {{ticket.assignee.name}},
+
+This ticket (#{{ticket.id}}) has been updated, make sure to review it.
+
+Ticket Comments: {{ticket.comments_formatted}}
+Ticket Description: {{ticket.description}}
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+It will be from $10.00 to $30.00 dollars a month and this is what you get with that increase
+
+Link: https://www.microsoft.com/en-us/microsoft-365/project/compare-microsoft-project-management-software?activetab=tabs%3aprimaryr1
+
+ ![](https://myd4.zendesk.com/attachments/token/3KcoZeY0xZ2o5NTv7iDZQRvUg/?name=image.png)
+
+Let me know.
+
+Regards
+
+![](https://s1g.s3.amazonaws.com/6bd1944f02441844c121a7081c770960.png)
+
+
+Support Email support@myd4.com
+Contact number +1 844-944-6934
+Live Support +1 415-444-9900
+
+Your request ({{ticket.id}}) has been updated. To add additional comments, reply to this email.
+
+{{ticket.comments_formatted}}
+
+Dimension4
+Support Email: support@myd4.com 
+Toll-Free: 844-944-MYD4 (6934)
+Live Support: 415-444-9900
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+Hello,
+
+
+
+Does this version support desktop use? This is what I am seeing when I access project on my desktop. The only version that works is online.
+
+
+
+I have restarted my computer, uninstalled and reinstalled project – but still no luck.
+
+
+
+![](https://myd4.zendesk.com/attachments/token/LOypQ2pxGiTTPBK4cXSnVA82G/?name=image001.png)
+
+
+
+Roneice Boggerson, Project Manager
+
+Chainbridge Solutions, Inc., an 8(a) Certified WOSB
+
+m. 202.468.1125 | www.chainbridgesolutions.com
+
+
+
+**From:** Stephen Bailey 
+**Sent:** Monday, May 8, 2023 10:05 AM
+**To:** Support ; Rose Crandall 
+**Cc:** Roneice Boggerson 
+**Subject:** Re: FW: CBSSD-174 MS Project License Has Expired for ticket ID: 29823
+
+
+
+User is out sick today. @Rose Crandall please coordinate when Roneice returns.
+
+Hello {{ticket.assignee.name}},
+
+This ticket (#{{ticket.id}}) has been updated, make sure to review it.
+
+Ticket Comments: {{ticket.comments_formatted}}
+Ticket Description: {{ticket.description}}
+
+[{{ticket.account}}] Re: {{ticket.title}}
+
+Ticket Assignee: {{ticket.assignee.name}},
+
+This ticket (#{{ticket.id}}) has been updated, make sure to review it.
+
+Ticket Comments: {{ticket.comments_formatted}}
+Ticket Description: {{ticket.description}}
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+Hello Roneice
+
+For now, the only plans that allow the desktop version are Project 3 & 5; the Plan 1 you have was a just trial; once Microsoft decided to update the plan terms, the trial you just to have ended.
+
+So right now, I'm just waiting for your next instruction. If you want me to increase the license that you already have from Plan 1 to 3
+
+Here you have a link for the different plans and their differences.
+
+Link: https://www.microsoft.com/en-us/microsoft-365/project/compare-microsoft-project-management-software?activetab=tabs%3aprimaryr1
+
+I'll be waiting on your reply.
+
+Regards
+Josue Pineda
+
+![](https://s1g.s3.amazonaws.com/6bd1944f02441844c121a7081c770960.png)
+
+
+Support Email support@myd4.com
+Contact number +1 844-944-6934
+Live Support +1 415-444-9900
+
+Your request ({{ticket.id}}) has been updated. To add additional comments, reply to this email.
+
+{{ticket.comments_formatted}}
+
+Dimension4
+Support Email: support@myd4.com 
+Toll-Free: 844-944-MYD4 (6934)
+Live Support: 415-444-9900
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+Josue,
+
+Please proceed with the upgrade.
+
+
+
+Stephen
+
+Hello {{ticket.assignee.name}},
+
+This ticket (#{{ticket.id}}) has been updated, make sure to review it.
+
+Ticket Comments: {{ticket.comments_formatted}}
+Ticket Description: {{ticket.description}}
+
+[{{ticket.account}}] Re: {{ticket.title}}
+
+Ticket Assignee: {{ticket.assignee.name}},
+
+This ticket (#{{ticket.id}}) has been updated, make sure to review it.
+
+Ticket Comments: {{ticket.comments_formatted}}
+Ticket Description: {{ticket.description}}
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+Hello Tea,.
+
+The upgrade started please allow us a couple of hours once the upgrade is complete I will inform you guys. I'll be monitoring this process.
+
+ ![](https://myd4.zendesk.com/attachments/token/Yg1rb1pJ7RNbCsfs6qGu4vNMK/?name=image.png)
+
+Regards
+Josue Pineda
+
+![](https://s1g.s3.amazonaws.com/6bd1944f02441844c121a7081c770960.png)
+
+
+Support Email support@myd4.com
+Contact number +1 844-944-6934
+Live Support +1 415-444-9900
+
+Your request ({{ticket.id}}) has been updated. To add additional comments, reply to this email.
+
+{{ticket.comments_formatted}}
+
+Dimension4
+Support Email: support@myd4.com 
+Toll-Free: 844-944-MYD4 (6934)
+Live Support: 415-444-9900
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+Roneice has tested and she is now able to use the desktop app.
+
+
+
+Thanks,
+
+Rose
+
+Hello {{ticket.assignee.name}},
+
+This ticket (#{{ticket.id}}) has been updated, make sure to review it.
+
+Ticket Comments: {{ticket.comments_formatted}}
+Ticket Description: {{ticket.description}}
+
+[{{ticket.account}}] Re: {{ticket.title}}
+
+Ticket Assignee: {{ticket.assignee.name}},
+
+This ticket (#{{ticket.id}}) has been updated, make sure to review it.
+
+Ticket Comments: {{ticket.comments_formatted}}
+Ticket Description: {{ticket.description}}
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+That is great
+
+If anything else needed please let us know.
+
+Regards
+Josue Pineda
+
+![](https://s1g.s3.amazonaws.com/6bd1944f02441844c121a7081c770960.png)
+
+
+Support Email support@myd4.com
+Contact number +1 844-944-6934
+Live Support +1 415-444-9900
+
+Your request ({{ticket.id}}) has been updated. To add additional comments, reply to this email.
+
+{{ticket.comments_formatted}}
+
+Dimension4
+Support Email: support@myd4.com 
+Toll-Free: 844-944-MYD4 (6934)
+Live Support: 415-444-9900
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+Hello Stephen
+
+Thanks for your confirmation; we will proceed to archive this ticket for now.
+
+If you need anything else, please contact us back.
+
+We are just an email away.
+
+Regards,
+
+![](https://s1g.s3.amazonaws.com/6bd1944f02441844c121a7081c770960.png)
+
+
+Support Email support@myd4.com
+Contact number +1 844-944-6934
+Live Support +1 415-444-9900
+
+Your request ({{ticket.id}}) has been updated. To add additional comments, reply to this email.
+
+{{ticket.comments_formatted}}
+
+Dimension4
+Support Email: support@myd4.com 
+Toll-Free: 844-944-MYD4 (6934)
+Live Support: 415-444-9900
+
+Dear {{ticket.requester.first_name}} {{ticket.requester.last_name}}
+
+We have completed and closed your request related to Support Ticket {{ticket.id}} {{ticket.external_id}}
+
+If you feel this ticket should not be closed, please reply to this email and a help desk representative will contact you. 
+
+If you have any questions or wish to update information related to this support ticket, simply reply to this email or call us at 415-444-9900 option 2. 
+
+Support Email: support@myd4.com
+Live Support: 415-444-9900
+Toll Free: 844-944-MYD4 
+___________________________________________________________________________
+
+Ticket History : 
+
+{{ticket.comments_formatted}}
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+{{ticket.title}}
+{{ticket.description}}
+{{ticket.external_id}}
+{{ticket.comments_formatted}}
+
+{{ticket.title}}
+{{ticket.description}}
+{{ticket.external_id}}
+{{ticket.comments_formatted}}
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+"
+29866,Re : Website Re-design and SEO Request for Proposal : dimension4.com,closed,2023-05-06T07:01:51Z,,craig.southen@globalgns.com,Craig Southen,"Hi **dimension4.com**
+
+I hope you are doing well there.
+
+I was just browsing your **dimension4.com**  and I came up with a great plan to re-develop your **dimension4.com** using the latest technology to generate additional revenue and beat your opponents.
+
+Please let us know if you are **interested **so that I would be happy to share our Work Portfolio, Client testimonials, and Service Packages.
+
+**You can share your Phone/WhatsApp number to reach out directly for more discussion.**
+
+Looking forward to hearing from you.
+
+
+
+Regards,
+
+**Craig Southen,**
+
+Web Developer
+
+-----------------------------------------------
+
+Note: If you are not interested, please
+
+Click here to **unsubscribe **
+
+ ![beacon](https://globalgns-dot-yamm-track.appspot.com/2QJGZ8zD_R20gjSt13eSeze9INZ8to2gWKgr1gZvN1XgasN3vhwH5q0ChPjPKCdYGq3nocjx6_3dXTYwcC613cgI8tJ-3sCCzkHdK6eCNq6ynfmX1HOqZ7EYmCfEOTm7YjKl4D5dQG9nCovlHtQg_9SwK5jaX98rHPs8uUfKS)
+
+Hello {{ticket.requester.name}}
+
+Thank you for reaching out, your request ticket ID is: ({{ticket.id}}). 
+
+One of our support agents will reply as soon as possible. We're going to do everything we can to resolve this issue. 
+
+If it's an emergency, you can contact us by phone at Toll Free 844-944-6934 or Live support: 415-444-9900
+
+{{ticket.comments_formatted}}
+
+To add additional comments, reply to this email.
+
+Dimension4
+Support Email: support@myd4.com 
+Toll-Free: 844-944-MYD4 (6934)
+Live Support: 415-444-9900
+
+[{{ticket.account}}] Re: {{ticket.title}}
+
+Ticket Assignee: {{ticket.assignee.name}},
+
+This ticket (#{{ticket.id}}) has been updated, make sure to review it.
+
+Ticket Comments: {{ticket.comments_formatted}}
+Ticket Description: {{ticket.description}}
+
+A ticket (#{{ticket.id}}) by {{ticket.requester.name}} has been received. It is unassigned.
+
+Company account: {{ticket.organization.name}}
+
+{{ticket.comments_formatted}}
+
+{""ticketRequesterName"":""{{ticket.requester.name}}"",""ticketGroupName"":""{{ticket.group.name}}"",""ticketOrganizationName"":""{{ticket.organization.name}}"",""ticketId"":""{{ticket.id}}""}
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+Dear {{ticket.requester.first_name}} {{ticket.requester.last_name}}
+
+We have completed and closed your request related to Support Ticket {{ticket.id}} {{ticket.external_id}}
+
+If you feel this ticket should not be closed, please reply to this email and a help desk representative will contact you. 
+
+If you have any questions or wish to update information related to this support ticket, simply reply to this email or call us at 415-444-9900 option 2. 
+
+Support Email: support@myd4.com
+Live Support: 415-444-9900
+Toll Free: 844-944-MYD4 
+___________________________________________________________________________
+
+Ticket History : 
+
+{{ticket.comments_formatted}}
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+{""updaterId"":""{{current_user.id}}"",""assignee"":""{{ticket.assignee.id}}"",""priority"":""{{ticket.priority}}"",""ticketId"":""{{ticket.id}}"",""updatedAt"":""{{ticket.updated_at_with_timestamp}}"",""commentCount"":""{{ticket.comments.size}}"",""status"":""{{ticket.status}}""}
+
+"

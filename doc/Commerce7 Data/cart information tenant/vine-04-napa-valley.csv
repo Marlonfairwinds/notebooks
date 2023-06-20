@@ -1,0 +1,20 @@
+tenant,status,customer_id,customer_name,Product Sku
+vine-04-napa-valley,Pending,6aa4e34d-0198-481d-a500-ed27c451739d,Heather Adams,"['NW-V4WKP', 'CG-V4RW18NV', 'PC-V4HD22PD']"
+vine-04-napa-valley,Pending,77a010ef-a5a8-4290-a973-a6b3b1b4e826,Pathik Shah,"['NW-V4SK', 'NW-V4SB', 'NW-V4CP', 'NW-V4BB', 'CG-V4CH18RR', 'CG-V4SP18NV', 'CG-V4RW18NV', 'NW-V46WB', 'CG-V4SP18NV', 'CG-V4CH18RR', 'NW-V4WKF', 'CG-V4RW18NV', 'NW-V46WB', '50Deposit']"
+vine-04-napa-valley,Pending,6cea2020-1511-4d94-a21d-116bd02e7b1e,Casey Quinif,"['CG-FEWSB19NV', 'NW-V4SK', 'CG-FEWCF19NV', 'NW-V4BB', 'NW-V4CP', 'CG-V4SP18NV', 'CG-FEWRO18NV', 'CG-V4RW18NV', 'NW-V43WB', 'CG-FEWPV19NV', 'CG-V4CH18RR', '50Deposit']"
+vine-04-napa-valley,Pending,083448f1-459c-46c9-9df4-1a0f5025f425,Asia Gholston,empty
+vine-04-napa-valley,Pending,b5cd6870-9908-41a1-9dd8-8967ce1a029b,Corey Macnabb,"['CG-V4SP18NV', 'SHIP', 'PC-V4HD22P', 'NW-V46WB', 'NW-V4WKF', 'PC-V4FL22MB', '50Deposit']"
+vine-04-napa-valley,Pending,b5cd6870-9908-41a1-9dd8-8967ce1a029b,Corey Macnabb,"['CG-V4SP18NV', 'SHIP', 'PC-V4HD22P', 'NW-V46WB', 'NW-V4WKF', 'PC-V4FL22MB', '50Deposit']"
+vine-04-napa-valley,Pending,2f0fa6d3-e8c6-4632-aab4-2cc420b481a4,LeTequia Spates,"['NW-V43WB', 'PC-V4FL223MP', 'NW-V43WB', 'PC-V4FL223MP', '50Deposit']"
+vine-04-napa-valley,Pending,4b05303b-1605-46cb-a7a2-64442c66fd97,Richard Hammett,"['NW-V4WKF', 'NW-V46WB', 'PC-V4FL22MB', 'NW-V46WB', 'PC-V4FL22MB', 'NW-V4WKF', '50Deposit']"
+vine-04-napa-valley,Pending,f3c343d3-b69a-4ea3-906f-95ec03338908,Loretta Breaker,empty
+vine-04-napa-valley,Pending,e0057cd0-30a3-4bb4-8d58-153cf0a05be4,John & Dianne Wagner,"['CG-V4CH18RR', 'CG-V4SP18NV', 'NW-V4SK', 'NW-V4CP', 'CG-V4RW18NV', 'NW-V46WB', 'NW-V4SB', 'NW-V4BB', 'NW-V46WB', 'PC-V4FL22MB', 'NW-V4WKF', '50Deposit']"
+vine-04-napa-valley,Pending,7bbe65ee-41ad-42a8-bd86-82a3062d77dd,Paul Strag,"['NW-V46WB', 'CG-V4RW18NV', 'NW-V4BB', 'NW-V4SC', 'NW-V4CP', 'NW-V4SB', 'CG-FEWCS18NV', 'CG-V4CH18RR', 'NW-V4SK', 'CG-V4SP18NV', 'PC-V4VD23P', 'CG-V4RW18NV', 'CG-FEWWW20NV', 'NW-V46WB', 'CG-FEWCS18NV', 'CG-V4CH18RR', 'CG-FEWRW18NV', 'CG-FEWPV19NV', 'CG-V4SP18NV', 'NW-V4WKF', '50Deposit']"
+vine-04-napa-valley,Pending,45e009f0-c368-4d8a-88e1-eab00cda2f92,Timothy Allen,"['PC-FEW3NAUTICAL', 'NW-V46WB', 'CG-V4CH18RR', 'NW-V4CP', 'CG-FEWPV19NV', 'NW-V4SK', 'NW-V4SB', 'NW-V4BB', 'CG-FEWCF19NV', 'NW-V4WKF', 'NW-V46WB', 'PC-V4FL22RB', '50Deposit']"
+vine-04-napa-valley,Pending,4d1fcc26-a3fd-4de3-8cf0-3ba81c630d01,Emily Nees,"['NW-V46WB', 'PC-V4HD22UP']"
+vine-04-napa-valley,Pending,79f63757-2bdd-447a-8bec-4c7c90ac342c,Anne Boccuzzi,empty
+vine-04-napa-valley,Pending,b5cd6870-9908-41a1-9dd8-8967ce1a029b,Corey Macnabb,"['CG-V4SP18NV', 'SHIP', 'PC-V4HD22P', 'NW-V46WB', 'NW-V4WKF', 'PC-V4FL22MB', '50Deposit']"
+vine-04-napa-valley,Pending,f81ab08d-8946-4bcd-ba6c-3ddf45bb23f2,Ricardo Parraga,empty
+vine-04-napa-valley,Pending,86fd45ac-0fc0-48e4-8859-4a1487fbf8b7,Alejandra Diaz,empty
+vine-04-napa-valley,Pending,4d1fcc26-a3fd-4de3-8cf0-3ba81c630d01,Emily Nees,"['NW-V46WB', 'PC-V4HD22UP']"
+vine-04-napa-valley,Pending,e0057cd0-30a3-4bb4-8d58-153cf0a05be4,John & Dianne Wagner,"['CG-V4CH18RR', 'CG-V4SP18NV', 'NW-V4SK', 'NW-V4CP', 'CG-V4RW18NV', 'NW-V46WB', 'NW-V4SB', 'NW-V4BB', 'NW-V46WB', 'PC-V4FL22MB', 'NW-V4WKF', '50Deposit']"

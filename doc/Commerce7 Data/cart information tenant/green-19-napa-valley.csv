@@ -1,0 +1,18 @@
+tenant,status,customer_id,customer_name,Product Sku
+green-19-napa-valley,Pending,f39dabe9-7feb-4e6f-8bb7-a9a0e97587b6,Gary Fields,empty
+green-19-napa-valley,Pending,a43fc5b9-d4ca-43e8-b577-1278684faa1f,Emily Stewart,"['PC-WSFL223MP', 'NW-WS3WB', '50Deposit']"
+green-19-napa-valley,Pending,cf6c7966-b7c2-415f-8d88-b94368260511,Amber Krippel,empty
+green-19-napa-valley,Pending,4bf0a82c-2c15-4cf4-ae9a-d11455569c8f,Mei Hudson,"['CG-WSCH18RR', 'NW-WS3WB', 'CG-WSRW18NV', 'CG-WSRS21NV']"
+green-19-napa-valley,Pending,febf4a0e-a5f5-4da6-95b9-11518efac5df,Gregory Robinson,"['NW-WSBB', 'CG-WSRW18NV', 'CG-WSRS21NV', 'NW-WSSK', 'CG-WSCH18RR', 'NW-WSCP', 'NW-WSSB', 'NW-WS6WB', 'PC-WSFL22MB', 'NW-WSWKF', 'NW-WS6WB', '50Deposit']"
+green-19-napa-valley,Pending,9172d306-c75e-4d1d-9ba2-69b37dbfd674,Stan Tenold,"['NW-WS3WB', 'CG-FEWCS18NV', 'PC-FEW3NAUTICAL', 'CG-WSCH18RR', 'NW-WS3WB', 'NW-WS3WB', 'CG-FEWCS18NV', 'CG-WSCH18RR', 'PC-FEW3NAUTICAL', 'CG-FEWCS18NV', 'NW-WS3WB', 'CG-WSCH18RR', 'PC-FEW3NAUTICAL', '50Deposit']"
+green-19-napa-valley,Pending,4bf0a82c-2c15-4cf4-ae9a-d11455569c8f,Mei Hudson,"['CG-WSCH18RR', 'NW-WS3WB', 'CG-WSRW18NV', 'CG-WSRS21NV']"
+green-19-napa-valley,Pending,ce778f4e-c9ae-42bc-b3ef-2b60c49821fe,Maryann Wagner,"['CG-FEWCH20RR', 'NW-WSCP', 'NW-WSSK', 'NW-WSBB', 'CG-WSRW18NV', 'NW-WS6WB', 'CG-WSCH18RR', 'PC-FEWSP22NB', 'NW-WS6WB', 'NW-WSWKF', '50Deposit']"
+green-19-napa-valley,Pending,b5bfe93a-b8e7-46f7-a92d-0d7b89f18ce9,Alejandra Diaz,empty
+green-19-napa-valley,Pending,7871d663-2fa0-4f8e-900a-22f5d6508564,Courtney Samp,"['NW-WSCP', 'CG-WSRS21NV', 'CG-WSRW18NV', 'CG-WSCH18RR', 'NW-WSBB', 'NW-WSSK', 'PC-WSFL223MP', 'NW-WS3WB', '50Deposit']"
+green-19-napa-valley,Pending,7f37fd6f-8112-4823-a835-fadda48dd459,Lauren Klick,['50Deposit']
+green-19-napa-valley,Pending,9172d306-c75e-4d1d-9ba2-69b37dbfd674,Stan Tenold,"['NW-WS3WB', 'CG-FEWCS18NV', 'PC-FEW3NAUTICAL', 'CG-WSCH18RR', 'NW-WS3WB', 'NW-WS3WB', 'CG-FEWCS18NV', 'CG-WSCH18RR', 'PC-FEW3NAUTICAL', 'CG-FEWCS18NV', 'NW-WS3WB', 'CG-WSCH18RR', 'PC-FEW3NAUTICAL', '50Deposit']"
+green-19-napa-valley,Pending,cf6c7966-b7c2-415f-8d88-b94368260511,Amber Krippel,empty
+green-19-napa-valley,Pending,60febccc-8d35-4c65-9200-52a2ac920827,Melissa Bachman,empty
+green-19-napa-valley,Pending,35913a6f-55b4-463e-ad77-7e0ee990580c,STEVEN SMART,"['NW-WSSB', 'CG-WSCH18RR', 'CG-WSRW18NV', 'CG-WSRS21NV', 'NW-WSCP', 'NW-WSSK', 'NW-WS6WB', 'NW-WSBB', 'CG-FEWPV19NV', 'CG-FEWCH20RR', 'CG-FEWCS18NV', 'CG-WSRW18NV', 'CG-FEWPV19NV', 'NW-WS6WB', 'CG-WSCH18RR', 'NW-WSWKF', 'CG-FEWCH20RR', 'CG-FEWRW18NV', '50Deposit']"
+green-19-napa-valley,Pending,18c4728a-7c29-4e58-b35e-8b08a2833b8c,Natalie Marlowe,"['CG-WSRW18NV', 'NW-WSCP', 'NW-WSBB', 'NW-WSSK', 'NW-WSSB', 'NW-WS6WB', 'CG-WSRS21NV', 'CG-WSCH18RR', 'NW-WS6WB', 'NW-WSWKF', 'PC-WSFL22MB', '50Deposit']"
+green-19-napa-valley,Pending,816e4545-340c-4cf8-8872-ef70c5dfc4ac,Megan Roberson,"['PC-WSFL22MB', 'NW-WS6WB', 'NW-WSWKF', 'PC-WSHD22PP', 'NW-WS1WB', 'CG-WSRW18NV', '50Deposit']"

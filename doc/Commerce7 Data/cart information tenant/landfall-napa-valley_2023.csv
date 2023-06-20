@@ -1,0 +1,17 @@
+status,customer_id,customer_name,Created Date,Product Sku
+Pending,055fd447-c4af-43d6-b290-50384b3ba08e,Robert Chorette,2023-02-03 05:41:00,"['CG-LFSP18NV', 'NW-LF6WB', 'NW-LFWKF', '50Deposit']"
+Pending,264f4049-5d09-4a44-8764-2a942344b43b,Willis Allen,2023-04-11 21:52:00,"['50Deposit', 'CG-LFRW18NV']"
+Pending,fc19f8fc-3c61-4227-b6bb-30700bfd988f,Amy Scheiper,2023-02-25 19:06:00,[]
+Pending,a3c12a12-8795-4b41-97ea-a01f44101695,Leslie Blanchet,2023-03-31 19:09:00,"['PC-LFBRUTGB', 'CG-LFRW18NV', 'NW-LFWKF', 'NW-LF6WB', 'PC-LFFL22MB', '50Deposit']"
+Pending,ed5d1020-7028-4ec0-9c6e-0fb8cfc019b8,Alejandra Diaz,2023-03-07 17:11:00,[]
+Pending,a3c12a12-8795-4b41-97ea-a01f44101695,Leslie Blanchet,2023-03-31 19:09:00,"['PC-LFBRUTGB', 'CG-LFRW18NV', 'NW-LFWKF', 'NW-LF6WB', 'PC-LFFL22MB', '50Deposit']"
+Pending,bf8c2f51-fe2e-4110-9839-45346c85dcb0,Noreen Peters,2023-02-01 21:27:00,['50Deposit']
+Pending,a3c12a12-8795-4b41-97ea-a01f44101695,Leslie Blanchet,2023-03-31 19:09:00,"['PC-LFBRUTGB', 'CG-LFRW18NV', 'NW-LFWKF', 'NW-LF6WB', 'PC-LFFL22MB', '50Deposit']"
+Pending,2d248fb2-bbf0-4e1a-9936-1c09aa4437ee,Jennifer Bell,2023-02-01 20:09:00,"['NW-LF6WB', 'NW-LFWKF', 'PC-LFFL22MB', 'NW-LF6WB', 'PC-LFFL22MB', 'NW-LFWKF', '50Deposit']"
+Pending,2d248fb2-bbf0-4e1a-9936-1c09aa4437ee,Jennifer Bell,2023-02-01 20:09:00,"['NW-LF6WB', 'NW-LFWKF', 'PC-LFFL22MB', 'NW-LF6WB', 'PC-LFFL22MB', 'NW-LFWKF', '50Deposit']"
+Pending,439d8a7d-f7c9-4fae-a496-934c79f72999,Matthew Baldwin,2023-01-19 12:28:00,"['50Deposit', 'CG-FEWPV19NV', 'CG-FEWSB19NV', 'CG-FEWCF19NV', 'CG-LFCH18RR', 'CG-LFRW18NV', 'CG-LFSP18NV']"
+Pending,a3c12a12-8795-4b41-97ea-a01f44101695,Leslie Blanchet,2023-03-31 19:09:00,"['PC-LFBRUTGB', 'CG-LFRW18NV', 'NW-LFWKF', 'NW-LF6WB', 'PC-LFFL22MB', '50Deposit']"
+Pending,ed5d1020-7028-4ec0-9c6e-0fb8cfc019b8,Alejandra Diaz,2023-03-07 17:11:00,[]
+Pending,a3c12a12-8795-4b41-97ea-a01f44101695,Leslie Blanchet,2023-03-31 19:09:00,"['PC-LFBRUTGB', 'CG-LFRW18NV', 'NW-LFWKF', 'NW-LF6WB', 'PC-LFFL22MB', '50Deposit']"
+Pending,a3c12a12-8795-4b41-97ea-a01f44101695,Leslie Blanchet,2023-03-31 19:09:00,"['PC-LFBRUTGB', 'CG-LFRW18NV', 'NW-LFWKF', 'NW-LF6WB', 'PC-LFFL22MB', '50Deposit']"
+Pending,2d248fb2-bbf0-4e1a-9936-1c09aa4437ee,Jennifer Bell,2023-02-01 20:09:00,"['NW-LF6WB', 'NW-LFWKF', 'PC-LFFL22MB', 'NW-LF6WB', 'PC-LFFL22MB', 'NW-LFWKF', '50Deposit']"

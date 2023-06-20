@@ -1,0 +1,30 @@
+tenant,status,customer_id,customer_name,Product Sku
+landfall-napa-valley,Pending,055fd447-c4af-43d6-b290-50384b3ba08e,Robert Chorette,"['CG-LFSP18NV', 'NW-LF6WB', 'NW-LFWKF', '50Deposit']"
+landfall-napa-valley,Pending,264f4049-5d09-4a44-8764-2a942344b43b,Willis Allen,"['50Deposit', 'CG-LFRW18NV']"
+landfall-napa-valley,Pending,e4f9e5e2-63ea-4338-ba34-8e5576730ff3,Victor Portillo,empty
+landfall-napa-valley,Pending,fc19f8fc-3c61-4227-b6bb-30700bfd988f,Amy Scheiper,empty
+landfall-napa-valley,Pending,a3c12a12-8795-4b41-97ea-a01f44101695,Leslie Blanchet,"['PC-LFBRUTGB', 'CG-LFRW18NV', 'NW-LFWKF', 'NW-LF6WB', 'PC-LFFL22MB', '50Deposit']"
+landfall-napa-valley,Pending,85999bfc-0c58-4bf5-8fd5-d20b45eaf65e,Douglas Waldman,"['NW-LF3WB', 'PC-LFFL223MP', '50Deposit']"
+landfall-napa-valley,Pending,ed5d1020-7028-4ec0-9c6e-0fb8cfc019b8,Alejandra Diaz,empty
+landfall-napa-valley,Pending,e4f9e5e2-63ea-4338-ba34-8e5576730ff3,Victor Portillo,empty
+landfall-napa-valley,Pending,a3c12a12-8795-4b41-97ea-a01f44101695,Leslie Blanchet,"['PC-LFBRUTGB', 'CG-LFRW18NV', 'NW-LFWKF', 'NW-LF6WB', 'PC-LFFL22MB', '50Deposit']"
+landfall-napa-valley,Pending,bf8c2f51-fe2e-4110-9839-45346c85dcb0,Noreen Peters,['50Deposit']
+landfall-napa-valley,Pending,9f91fd6e-10aa-44e1-86c4-330afc23dbf8,Erika Sakamoto,empty
+landfall-napa-valley,Pending,7d23fe2b-8350-4fba-91bf-ad33763407ad,Patty Wooten,"['PC-LFFL223MP', 'NW-LF3WB', 'NW-LF3WB', 'PC-LFFL223MP', '50Deposit']"
+landfall-napa-valley,Pending,a3c12a12-8795-4b41-97ea-a01f44101695,Leslie Blanchet,"['PC-LFBRUTGB', 'CG-LFRW18NV', 'NW-LFWKF', 'NW-LF6WB', 'PC-LFFL22MB', '50Deposit']"
+landfall-napa-valley,Pending,b1e8e920-54ef-463a-8756-42c298e28248,Drake Hanna,"['NW-LF3WB', 'PC-LFFL223MP', '50Deposit']"
+landfall-napa-valley,Pending,7d23fe2b-8350-4fba-91bf-ad33763407ad,Patty Wooten,"['PC-LFFL223MP', 'NW-LF3WB', 'NW-LF3WB', 'PC-LFFL223MP', '50Deposit']"
+landfall-napa-valley,Pending,5a363013-9dd6-4155-b025-9257ac458ba5,Erika Mares,"['NW-LF6WB', 'NW-LFWKF', 'PC-LFFL22MB', '50Deposit']"
+landfall-napa-valley,Pending,2d248fb2-bbf0-4e1a-9936-1c09aa4437ee,Jennifer Bell,"['NW-LF6WB', 'NW-LFWKF', 'PC-LFFL22MB', 'NW-LF6WB', 'PC-LFFL22MB', 'NW-LFWKF', '50Deposit']"
+landfall-napa-valley,Pending,7d23fe2b-8350-4fba-91bf-ad33763407ad,Patty Wooten,"['PC-LFFL223MP', 'NW-LF3WB', 'NW-LF3WB', 'PC-LFFL223MP', '50Deposit']"
+landfall-napa-valley,Pending,2d248fb2-bbf0-4e1a-9936-1c09aa4437ee,Jennifer Bell,"['NW-LF6WB', 'NW-LFWKF', 'PC-LFFL22MB', 'NW-LF6WB', 'PC-LFFL22MB', 'NW-LFWKF', '50Deposit']"
+landfall-napa-valley,Pending,1604e640-7540-4347-8850-c92fb437c2fc,Ricardo Parraga,empty
+landfall-napa-valley,Pending,4956a120-265e-4c3a-9e85-27fbe54edab7,Amy Freiberger,"['PC-LFHD22SR', 'NW-LF6WB', 'PC-LFFL22MB', 'NW-LFWK', 'NW-LFWKF', 'NW-LF6WB', 'PC-LFFL22MB', '50Deposit']"
+landfall-napa-valley,Pending,439d8a7d-f7c9-4fae-a496-934c79f72999,Matthew Baldwin,"['50Deposit', 'CG-FEWPV19NV', 'CG-FEWSB19NV', 'CG-FEWCF19NV', 'CG-LFCH18RR', 'CG-LFRW18NV', 'CG-LFSP18NV']"
+landfall-napa-valley,Pending,a3c12a12-8795-4b41-97ea-a01f44101695,Leslie Blanchet,"['PC-LFBRUTGB', 'CG-LFRW18NV', 'NW-LFWKF', 'NW-LF6WB', 'PC-LFFL22MB', '50Deposit']"
+landfall-napa-valley,Pending,534563c3-0cd1-4039-850b-d3a7570996b8,Andy Cook,"['CG-LFRW18NV', 'NW-LF1WB', 'CG-LFSP18NV', 'CG-LFRW18NV', 'NW-LF3WB']"
+landfall-napa-valley,Pending,ed5d1020-7028-4ec0-9c6e-0fb8cfc019b8,Alejandra Diaz,empty
+landfall-napa-valley,Pending,7d23fe2b-8350-4fba-91bf-ad33763407ad,Patty Wooten,"['PC-LFFL223MP', 'NW-LF3WB', 'NW-LF3WB', 'PC-LFFL223MP', '50Deposit']"
+landfall-napa-valley,Pending,a3c12a12-8795-4b41-97ea-a01f44101695,Leslie Blanchet,"['PC-LFBRUTGB', 'CG-LFRW18NV', 'NW-LFWKF', 'NW-LF6WB', 'PC-LFFL22MB', '50Deposit']"
+landfall-napa-valley,Pending,a3c12a12-8795-4b41-97ea-a01f44101695,Leslie Blanchet,"['PC-LFBRUTGB', 'CG-LFRW18NV', 'NW-LFWKF', 'NW-LF6WB', 'PC-LFFL22MB', '50Deposit']"
+landfall-napa-valley,Pending,2d248fb2-bbf0-4e1a-9936-1c09aa4437ee,Jennifer Bell,"['NW-LF6WB', 'NW-LFWKF', 'PC-LFFL22MB', 'NW-LF6WB', 'PC-LFFL22MB', 'NW-LFWKF', '50Deposit']"

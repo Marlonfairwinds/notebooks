@@ -1,0 +1,64 @@
+tenant,status,customer_id,customer_name,Product Sku
+horns-tail-napa-valley,Pending,efbadace-d9c5-47de-a69a-622c19bdd056,Mark Glass,"['NW-HTWKF', 'NW-HT6WB', 'PC-HTFL22MB', '50Deposit']"
+horns-tail-napa-valley,Pending,e86c3012-82da-4c77-b9a3-dd753e0210b9,Kimberly Sterling,"['CG-HTSP18NV', 'NW-HT3DHC', 'NW-HT4TF', 'NW-HTWKP', 'CG-HTCH18RR', 'NW-HTMK5X7', 'NW-HT6WB', 'NW-HTSB', 'NW-HTSK', 'NW-HTWT', 'CG-HTRW18NV', 'CG-HTSP18NV', 'NW-HTSB', 'NW-HTWKP', 'CG-HTRW18NV', 'NW-HTMK5X7', 'NW-HT6WB', 'NW-HT4TF', 'NW-HT3DHC', 'NW-HTWT', 'CG-HTCH18RR', 'NW-HTSK', 'CG-HTSP18NV', 'NW-HT6WB', 'NW-HT3DHC', 'NW-HTWT', 'NW-HTSB', 'NW-HTMK5X7', 'NW-HT4TF', 'CG-HTRW18NV', 'NW-HTWKP', 'NW-HTSK', 'CG-HTCH18RR', 'PC-HTHD22PD', '50Deposit']"
+horns-tail-napa-valley,Pending,e1c52499-c147-46af-9d2b-428754cb3929,Carly Hayden,"['CG-HTRW18NV', 'CG-HTSP18NV', 'NW-HT3WB', 'CG-HTCH18RR', 'NW-HT3WB', 'CG-HTSP18NV', 'NW-HTWKP', 'CG-HTCH18RR', 'CG-HTRW18NV']"
+horns-tail-napa-valley,Pending,e1c52499-c147-46af-9d2b-428754cb3929,Carly Hayden,"['CG-HTRW18NV', 'CG-HTSP18NV', 'NW-HT3WB', 'CG-HTCH18RR', 'NW-HT3WB', 'CG-HTSP18NV', 'NW-HTWKP', 'CG-HTCH18RR', 'CG-HTRW18NV']"
+horns-tail-napa-valley,Pending,8f64667c-b244-4066-b924-fbd7410c9a8a,Brian Litalien,"['NW-HTWKF', 'NW-HT6WB', 'PC-HTFL22MB']"
+horns-tail-napa-valley,Pending,4b16be8f-24cf-4c97-a9a5-d4c0655b0a58,John Cox,['PC-HTALLREDGF']
+horns-tail-napa-valley,Pending,b523557d-1174-4dbc-9433-f9bf429b63ba,Robert Kircher,"['NW-HT6WB', 'PC-HTFL22MB', 'NW-HTWKF', '50Deposit']"
+horns-tail-napa-valley,Pending,d7d6997a-d21a-43be-b86b-e27ccd1608aa,Daniel Martinez,"['CG-FEWZN19MV', 'NW-HTWKF', 'CG-HTSP18NV', 'NW-HT6WB', 'NW-HT6WB', 'NW-HTWKF', 'CG-HTSP18NV', 'CG-FEWZN19MV']"
+horns-tail-napa-valley,Pending,e1c52499-c147-46af-9d2b-428754cb3929,Carly Hayden,"['CG-HTRW18NV', 'CG-HTSP18NV', 'NW-HT3WB', 'CG-HTCH18RR', 'NW-HT3WB', 'CG-HTSP18NV', 'NW-HTWKP', 'CG-HTCH18RR', 'CG-HTRW18NV']"
+horns-tail-napa-valley,Pending,c548f227-0410-4e4e-af98-d5e49e8d259b,Ajené Arokium,empty
+horns-tail-napa-valley,Pending,82e03966-61c3-4f23-ac1d-512a6d076785,Zack Robinson,"['PC-HTMIX1GF', 'CG-HTSP18NV', 'CG-HTRW18NV', 'NW-HT3WB']"
+horns-tail-napa-valley,Pending,b523557d-1174-4dbc-9433-f9bf429b63ba,Robert Kircher,"['NW-HT6WB', 'PC-HTFL22MB', 'NW-HTWKF', '50Deposit']"
+horns-tail-napa-valley,Pending,fdc88f04-043f-48b6-8ccb-81e5c9dea1b2,Kenneth Kunz,"['CG-HTRW18NV', 'NW-HT1WB', 'NW-HT3WB', 'PC-HTFL223MP', '50Deposit']"
+horns-tail-napa-valley,Pending,43031465-93b4-4ecc-9b1a-bdf787a4300f,Christopher Merino,"['PC-HTVD23SW', 'NW-HT6WB', 'NW-HTWKF', 'PC-HTFL22MB', '50Deposit']"
+horns-tail-napa-valley,Pending,dfd0b142-cd63-4b01-8a5e-7b24acd47abd,James Velazqurz,empty
+horns-tail-napa-valley,Pending,65d51d24-9952-45b5-825b-637fe11316a1,Michael Lata,empty
+horns-tail-napa-valley,Pending,e1c52499-c147-46af-9d2b-428754cb3929,Carly Hayden,"['CG-HTRW18NV', 'CG-HTSP18NV', 'NW-HT3WB', 'CG-HTCH18RR', 'NW-HT3WB', 'CG-HTSP18NV', 'NW-HTWKP', 'CG-HTCH18RR', 'CG-HTRW18NV']"
+horns-tail-napa-valley,Pending,e1c52499-c147-46af-9d2b-428754cb3929,Carly Hayden,"['CG-HTRW18NV', 'CG-HTSP18NV', 'NW-HT3WB', 'CG-HTCH18RR', 'NW-HT3WB', 'CG-HTSP18NV', 'NW-HTWKP', 'CG-HTCH18RR', 'CG-HTRW18NV']"
+horns-tail-napa-valley,Pending,e1c52499-c147-46af-9d2b-428754cb3929,Carly Hayden,"['CG-HTRW18NV', 'CG-HTSP18NV', 'NW-HT3WB', 'CG-HTCH18RR', 'NW-HT3WB', 'CG-HTSP18NV', 'NW-HTWKP', 'CG-HTCH18RR', 'CG-HTRW18NV']"
+horns-tail-napa-valley,Pending,e1c52499-c147-46af-9d2b-428754cb3929,Carly Hayden,"['CG-HTRW18NV', 'CG-HTSP18NV', 'NW-HT3WB', 'CG-HTCH18RR', 'NW-HT3WB', 'CG-HTSP18NV', 'NW-HTWKP', 'CG-HTCH18RR', 'CG-HTRW18NV']"
+horns-tail-napa-valley,Pending,5d8be0b3-80e3-4165-9fa4-200c04fce997,Elicia Miller,"['NW-HT3WB', 'PC-HTFL223MP', '50Deposit']"
+horns-tail-napa-valley,Pending,f2354dd0-c786-4d7d-8c18-aeb1778f6a31,Bill Cunningham,"['NW-HT6WB', 'PC-HTFL22MB', 'NW-HTWKF', '50Deposit']"
+horns-tail-napa-valley,Pending,b8ceba59-a200-45e6-9343-7cc1000a6720,SAMUEL POPAILO,"['NW-HT3WB', 'PC-HTFL223MP', '50Deposit']"
+horns-tail-napa-valley,Pending,b523557d-1174-4dbc-9433-f9bf429b63ba,Robert Kircher,"['NW-HT6WB', 'PC-HTFL22MB', 'NW-HTWKF', '50Deposit']"
+horns-tail-napa-valley,Pending,e7e9afe7-935d-45a6-8ed9-450d021e3901,Jen Keeler,empty
+horns-tail-napa-valley,Pending,e1c52499-c147-46af-9d2b-428754cb3929,Carly Hayden,"['CG-HTRW18NV', 'CG-HTSP18NV', 'NW-HT3WB', 'CG-HTCH18RR', 'NW-HT3WB', 'CG-HTSP18NV', 'NW-HTWKP', 'CG-HTCH18RR', 'CG-HTRW18NV']"
+horns-tail-napa-valley,Pending,e7e9afe7-935d-45a6-8ed9-450d021e3901,Jen Keeler,empty
+horns-tail-napa-valley,Pending,e86c3012-82da-4c77-b9a3-dd753e0210b9,Kimberly Sterling,"['CG-HTSP18NV', 'NW-HT3DHC', 'NW-HT4TF', 'NW-HTWKP', 'CG-HTCH18RR', 'NW-HTMK5X7', 'NW-HT6WB', 'NW-HTSB', 'NW-HTSK', 'NW-HTWT', 'CG-HTRW18NV', 'CG-HTSP18NV', 'NW-HTSB', 'NW-HTWKP', 'CG-HTRW18NV', 'NW-HTMK5X7', 'NW-HT6WB', 'NW-HT4TF', 'NW-HT3DHC', 'NW-HTWT', 'CG-HTCH18RR', 'NW-HTSK', 'CG-HTSP18NV', 'NW-HT6WB', 'NW-HT3DHC', 'NW-HTWT', 'NW-HTSB', 'NW-HTMK5X7', 'NW-HT4TF', 'CG-HTRW18NV', 'NW-HTWKP', 'NW-HTSK', 'CG-HTCH18RR', 'PC-HTHD22PD', '50Deposit']"
+horns-tail-napa-valley,Pending,ee0745c6-3f70-4142-872d-f31683db9ee6,Travis Zajac,"['NW-HT3WB', 'CG-HTSP18NV', 'CG-HTCH18RR', 'CG-HTRW18NV']"
+horns-tail-napa-valley,Pending,b44be3f9-0576-499f-9867-3c234b580420,Alejandra Diaz,empty
+horns-tail-napa-valley,Pending,d5be96f7-24d7-4d52-8bbc-0b98701a7953,Michael Rupp,"['CG-HTSP18NV', 'CG-HTCH18RR', 'NW-HT6WB', 'CG-HTRW18NV', 'NW-HTWKF']"
+horns-tail-napa-valley,Pending,f23dff51-65da-4494-8486-bab991fe2756,Nicole kowalski,"['NW-HT1WB', 'PC-HTREDGB']"
+horns-tail-napa-valley,Pending,87f5cc9e-80ef-4fd1-a739-98f26cd5a4b2,Susan Eisloeffel,empty
+horns-tail-napa-valley,Pending,fdc88f04-043f-48b6-8ccb-81e5c9dea1b2,Kenneth Kunz,"['CG-HTRW18NV', 'NW-HT1WB', 'NW-HT3WB', 'PC-HTFL223MP', '50Deposit']"
+horns-tail-napa-valley,Pending,82e03966-61c3-4f23-ac1d-512a6d076785,Zack Robinson,"['PC-HTMIX1GF', 'CG-HTSP18NV', 'CG-HTRW18NV', 'NW-HT3WB']"
+horns-tail-napa-valley,Pending,eb1f92dd-efca-4bab-a70c-b0c0b73232fe,Ashlynn Muckell,empty
+horns-tail-napa-valley,Pending,b60d0280-abf8-4027-aa6c-0fcf8f4afc45,Blanche Hedrick,empty
+horns-tail-napa-valley,Pending,885c9941-c9c6-49c5-a5c6-061ef804b97b,Christopher Lewicki,"['NW-HT3DHC', 'NW-HT3DHC', 'PC-HTHD22PP']"
+horns-tail-napa-valley,Pending,d7d6997a-d21a-43be-b86b-e27ccd1608aa,Daniel Martinez,"['CG-FEWZN19MV', 'NW-HTWKF', 'CG-HTSP18NV', 'NW-HT6WB', 'NW-HT6WB', 'NW-HTWKF', 'CG-HTSP18NV', 'CG-FEWZN19MV']"
+horns-tail-napa-valley,Pending,e1c52499-c147-46af-9d2b-428754cb3929,Carly Hayden,"['CG-HTRW18NV', 'CG-HTSP18NV', 'NW-HT3WB', 'CG-HTCH18RR', 'NW-HT3WB', 'CG-HTSP18NV', 'NW-HTWKP', 'CG-HTCH18RR', 'CG-HTRW18NV']"
+horns-tail-napa-valley,Pending,e350b594-528c-42e2-a53d-d7eabc75c233,Ralph filosa,empty
+horns-tail-napa-valley,Pending,e1c52499-c147-46af-9d2b-428754cb3929,Carly Hayden,"['CG-HTRW18NV', 'CG-HTSP18NV', 'NW-HT3WB', 'CG-HTCH18RR', 'NW-HT3WB', 'CG-HTSP18NV', 'NW-HTWKP', 'CG-HTCH18RR', 'CG-HTRW18NV']"
+horns-tail-napa-valley,Pending,885c9941-c9c6-49c5-a5c6-061ef804b97b,Christopher Lewicki,"['NW-HT3DHC', 'NW-HT3DHC', 'PC-HTHD22PP']"
+horns-tail-napa-valley,Pending,e86c3012-82da-4c77-b9a3-dd753e0210b9,Kimberly Sterling,"['CG-HTSP18NV', 'NW-HT3DHC', 'NW-HT4TF', 'NW-HTWKP', 'CG-HTCH18RR', 'NW-HTMK5X7', 'NW-HT6WB', 'NW-HTSB', 'NW-HTSK', 'NW-HTWT', 'CG-HTRW18NV', 'CG-HTSP18NV', 'NW-HTSB', 'NW-HTWKP', 'CG-HTRW18NV', 'NW-HTMK5X7', 'NW-HT6WB', 'NW-HT4TF', 'NW-HT3DHC', 'NW-HTWT', 'CG-HTCH18RR', 'NW-HTSK', 'CG-HTSP18NV', 'NW-HT6WB', 'NW-HT3DHC', 'NW-HTWT', 'NW-HTSB', 'NW-HTMK5X7', 'NW-HT4TF', 'CG-HTRW18NV', 'NW-HTWKP', 'NW-HTSK', 'CG-HTCH18RR', 'PC-HTHD22PD', '50Deposit']"
+horns-tail-napa-valley,Pending,43031465-93b4-4ecc-9b1a-bdf787a4300f,Christopher Merino,"['PC-HTVD23SW', 'NW-HT6WB', 'NW-HTWKF', 'PC-HTFL22MB', '50Deposit']"
+horns-tail-napa-valley,Pending,e1c52499-c147-46af-9d2b-428754cb3929,Carly Hayden,"['CG-HTRW18NV', 'CG-HTSP18NV', 'NW-HT3WB', 'CG-HTCH18RR', 'NW-HT3WB', 'CG-HTSP18NV', 'NW-HTWKP', 'CG-HTCH18RR', 'CG-HTRW18NV']"
+horns-tail-napa-valley,Pending,173bf5c7-c103-4edc-9bbb-abce2bab8d98,Eric Meyerhoff,"['NW-HTWKF', 'PC-HTFL22MB', 'NW-HT6WB', '50Deposit']"
+horns-tail-napa-valley,Pending,12d35066-2663-4fdb-a16b-da99da886c1d,Matt Loughlin,"['NW-HTSB', 'CG-FEWCS18NV', 'NW-HT6WB', 'NW-HTSK', 'NW-HTWK']"
+horns-tail-napa-valley,Pending,9d016488-fa24-461f-97a8-6040b5305b69,Ana Solano,"['NW-HT3WB', 'PC-HTFL223MP', '50Deposit', '50Deposit', '50Deposit']"
+horns-tail-napa-valley,Pending,e7fa7c82-4ce2-42e7-990a-4bcd924ff94c,Kenn Current,empty
+horns-tail-napa-valley,Pending,dd2da081-5a71-4ebc-9850-c3136892b9fb,Angela Girardi,empty
+horns-tail-napa-valley,Pending,e1c52499-c147-46af-9d2b-428754cb3929,Carly Hayden,"['CG-HTRW18NV', 'CG-HTSP18NV', 'NW-HT3WB', 'CG-HTCH18RR', 'NW-HT3WB', 'CG-HTSP18NV', 'NW-HTWKP', 'CG-HTCH18RR', 'CG-HTRW18NV']"
+horns-tail-napa-valley,Pending,cbb33e58-5f42-401d-ae3c-425a86c55e9a,Amanda Sterling,['50Deposit']
+horns-tail-napa-valley,Pending,b523557d-1174-4dbc-9433-f9bf429b63ba,Robert Kircher,"['NW-HT6WB', 'PC-HTFL22MB', 'NW-HTWKF', '50Deposit']"
+horns-tail-napa-valley,Pending,e1c52499-c147-46af-9d2b-428754cb3929,Carly Hayden,"['CG-HTRW18NV', 'CG-HTSP18NV', 'NW-HT3WB', 'CG-HTCH18RR', 'NW-HT3WB', 'CG-HTSP18NV', 'NW-HTWKP', 'CG-HTCH18RR', 'CG-HTRW18NV']"
+horns-tail-napa-valley,Pending,e7e9afe7-935d-45a6-8ed9-450d021e3901,Jen Keeler,empty
+horns-tail-napa-valley,Pending,d7d6997a-d21a-43be-b86b-e27ccd1608aa,Daniel Martinez,"['CG-FEWZN19MV', 'NW-HTWKF', 'CG-HTSP18NV', 'NW-HT6WB', 'NW-HT6WB', 'NW-HTWKF', 'CG-HTSP18NV', 'CG-FEWZN19MV']"
+horns-tail-napa-valley,Pending,fe4b8f31-45be-498d-a20a-6bbab4fa8111,paul silverman,"['NW-HT3WB', 'CG-HTCH18RR', 'CG-HTSP18NV', 'CG-HTRW18NV']"
+horns-tail-napa-valley,Pending,5e514a0d-5199-4283-b6aa-8cee0790fbc3,Joseph Lucania,"['NW-HT1WB', 'PC-HTREDGB']"
+horns-tail-napa-valley,Pending,e7e9afe7-935d-45a6-8ed9-450d021e3901,Jen Keeler,empty
+horns-tail-napa-valley,Pending,40c4ea73-4353-49ce-864b-d1900ed2f5cb,Rider Daas,"['NW-HT3WB', 'CG-FEWSB19NV', 'CG-HTRW18NV', 'CG-HTSP18NV', '50Deposit']"
+horns-tail-napa-valley,Pending,12bf3ec1-1abb-43b3-8147-c620bffff726,Roman Smukler,"['CG-HTCH18RR', 'NW-HTWKF', 'CG-HTRW18NV', 'NW-HT6WB']"
+horns-tail-napa-valley,Pending,e86c3012-82da-4c77-b9a3-dd753e0210b9,Kimberly Sterling,"['CG-HTSP18NV', 'NW-HT3DHC', 'NW-HT4TF', 'NW-HTWKP', 'CG-HTCH18RR', 'NW-HTMK5X7', 'NW-HT6WB', 'NW-HTSB', 'NW-HTSK', 'NW-HTWT', 'CG-HTRW18NV', 'CG-HTSP18NV', 'NW-HTSB', 'NW-HTWKP', 'CG-HTRW18NV', 'NW-HTMK5X7', 'NW-HT6WB', 'NW-HT4TF', 'NW-HT3DHC', 'NW-HTWT', 'CG-HTCH18RR', 'NW-HTSK', 'CG-HTSP18NV', 'NW-HT6WB', 'NW-HT3DHC', 'NW-HTWT', 'NW-HTSB', 'NW-HTMK5X7', 'NW-HT4TF', 'CG-HTRW18NV', 'NW-HTWKP', 'NW-HTSK', 'CG-HTCH18RR', 'PC-HTHD22PD', '50Deposit']"
